@@ -31,13 +31,13 @@ A place for people to connect to grow the scene in Northern California (includin
     - Fridays
     - 8:00pm (Constructed $10)
   
-### **Center Stage Games**
+<!-- ### **Center Stage Games**
 * **Website**:  <a href="www.centerstagegames.com"> www.centerstagegames.com  </a>
 * **Location**: 140 E Leland Rd. Pittsburg, CA 94565 
 * **Point of Contact**: <a href="https://www.facebook.com/mattmanara?eid=ARARMNrAXr2Y5EhHFcOR2mtCz2J4JTrWwkX0ieaMcJNnLeFHrOSAKdLMinB5Hhco28geLeNA1t4mm1VZ">Matt Manara</a> 
 * **Event Days/Times**:
     - Sunday
-    - 6:00pm (Constructed $10)
+    - 6:00pm (Constructed $10) -->
 
 ### **CardArt**
 * **Website**: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a>
