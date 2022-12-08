@@ -27,18 +27,13 @@
 </ul>
 </li>
 </ul>
-<h3 id="center-stage-games" tabindex="-1"><a class="header-anchor" href="#center-stage-games" aria-hidden="true">#</a> <strong>Center Stage Games</strong></h3>
-<ul>
-<li><strong>Website</strong>:  <a href="www.centerstagegames.com"> www.centerstagegames.com  </a></li>
-<li><strong>Location</strong>: 140 E Leland Rd. Pittsburg, CA 94565</li>
-<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/mattmanara?eid=ARARMNrAXr2Y5EhHFcOR2mtCz2J4JTrWwkX0ieaMcJNnLeFHrOSAKdLMinB5Hhco28geLeNA1t4mm1VZ">Matt Manara</a></li>
-<li><strong>Event Days/Times</strong>:
-<ul>
-<li>Sunday</li>
-<li>6:00pm (Constructed $10)</li>
-</ul>
-</li>
-</ul>
+<!-- ### **Center Stage Games**
+* **Website**:  <a href="www.centerstagegames.com"> www.centerstagegames.com  </a>
+* **Location**: 140 E Leland Rd. Pittsburg, CA 94565 
+* **Point of Contact**: <a href="https://www.facebook.com/mattmanara?eid=ARARMNrAXr2Y5EhHFcOR2mtCz2J4JTrWwkX0ieaMcJNnLeFHrOSAKdLMinB5Hhco28geLeNA1t4mm1VZ">Matt Manara</a> 
+* **Event Days/Times**:
+    - Sunday
+    - 6:00pm (Constructed $10) -->
 <h3 id="cardart" tabindex="-1"><a class="header-anchor" href="#cardart" aria-hidden="true">#</a> <strong>CardArt</strong></h3>
 <ul>
 <li><strong>Website</strong>: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a></li>

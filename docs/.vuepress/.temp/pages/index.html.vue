@@ -6,7 +6,9 @@
 <ul>
 <li>King Kong - Fri (12/9) @8:00 PM <br></li>
 <li>Card Art - Sat (12/10) @1:00 PM <br></li>
-<li>Center Stage Games - Sun (12/11) @6:00 PM <br></li>
+</ul>
+<!-- * Center Stage Games - Sun (12/11) @6:00 PM <br> -->
+<ul>
 <li>Games of Berkeley - Mon (12/12) @7:00 PM</li>
 </ul>
 </div></template>
