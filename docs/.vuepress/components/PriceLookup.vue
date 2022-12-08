@@ -1,10 +1,10 @@
 <template>
-  <h1>FFTCG Card Price Lookup</h1>
+  <h1>FFTCG Card Price Check</h1>
   <!-- <input type="text" id="fname" name="fname" /> -->
   <input label="Card Name" type="text" style="width:75%; height:3em"  v-model="cardFind" @change="getCards">
 
   <div v-for="card in getCards" :key="card.set" style="display:grid;   grid-template-columns: 2fr 1fr 1fr;">
-    <a :href=card.Url_Details>{{ card.Name.replaceAll("\"", "") }}</a>
+    <a :href=card.Url_Details style="padding: 20px;">{{ card.Name.replaceAll("\"", "") }}</a>
     <p>{{ card.Set.replaceAll("#", "[") }}]</p>
     <p><strong>{{ card.Price }}</strong></p>
   </div>

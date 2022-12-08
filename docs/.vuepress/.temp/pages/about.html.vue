@@ -41,7 +41,7 @@
 </ul>
 <h3 id="cardart" tabindex="-1"><a class="header-anchor" href="#cardart" aria-hidden="true">#</a> <strong>CardArt</strong></h3>
 <ul>
-<li><strong>Website</strong>: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a>&quot;</li>
+<li><strong>Website</strong>: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a></li>
 <li><strong>Location</strong>: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087</li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a></li>
 <li><strong>Discord</strong>: <a href="https://discord.com/channels/895013795242606603/895227871054929961">https://discord.com/channels/895013795242606603/895227871054929961</a></li>
@@ -54,7 +54,7 @@
 </ul>
 <h3 id="games-of-berkeley" tabindex="-1"><a class="header-anchor" href="#games-of-berkeley" aria-hidden="true">#</a> <strong>Games of Berkeley</strong></h3>
 <ul>
-<li><strong>Website</strong>: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a>&quot;</li>
+<li><strong>Website</strong>: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a></li>
 <li><strong>Location</strong>: 2510 Durant Ave Berkeley, CA 94704</li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a></li>
 <li><strong>Discord</strong>: <a href="https://discord.com/channels/689264919274717302/689269720687575057">https://discord.com/channels/689264919274717302/689269720687575057</a></li>
