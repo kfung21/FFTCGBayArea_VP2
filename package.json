@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-register-components": "^2.0.0-beta.53",
+    "vuepress-plugin-blog2": "^2.0.0-beta.135"
+  }
+}
