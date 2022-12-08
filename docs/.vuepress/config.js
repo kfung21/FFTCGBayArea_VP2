@@ -29,7 +29,8 @@ export default {
             },
             {
                 text: 'Photos',
-                link: 'https://photos.app.goo.gl/NUySx7BLQ6F1EifG8',
+                link: 'https://www.facebook.com/groups/564324407104934/media/photos',
+                // link: 'https://photos.app.goo.gl/NUySx7BLQ6F1EifG8',
             },
             {
                 text: 'Resources',
