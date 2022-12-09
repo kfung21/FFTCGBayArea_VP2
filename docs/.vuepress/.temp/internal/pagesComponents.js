@@ -15,12 +15,6 @@ export const pagesComponents = {
   "v-04663d7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-04663d7e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.vue")),
-  // path: /blog/Test1.html
-  "v-00f326ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-00f326ee" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/Test1.html.vue")),
-  // path: /blog/Test2.html
-  "v-02a7ff8d": defineAsyncComponent(() => import(/* webpackChunkName: "v-02a7ff8d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/Test2.html.vue")),
-  // path: /blog/Test3.html
-  "v-045cd82c": defineAsyncComponent(() => import(/* webpackChunkName: "v-045cd82c" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/Test3.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.vue")),
 }
