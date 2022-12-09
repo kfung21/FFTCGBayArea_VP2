@@ -2,6 +2,7 @@ import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { getDirname, path } from '@vuepress/utils'
 import { defaultTheme } from 'vuepress'
 import { blogPlugin } from "vuepress-plugin-blog2";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 const __dirname = getDirname(import.meta.url)
 
@@ -50,6 +51,11 @@ export default {
         blogPlugin({
       // your options
         }),
+        googleAnalyticsPlugin({
+            id: 'G-ZFB92VM4KZ',
+            debug: true,
+        }),
+
     ],
 }
 
