@@ -22,7 +22,7 @@ By: Benny Soo
 
 This limited format is the most popular and recommended for the Final Fantasy TCG.
 
-* Requires 4 booster packs per player and 4 players per table. (4 of Opus 17, Opus 18, or 2 of each)
+* Requires 5 booster packs per player and 4 players per table. 
   
 * Flow of the game:
     1. Each player should open their first booster pack.
