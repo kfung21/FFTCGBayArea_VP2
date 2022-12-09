@@ -1,6 +1,6 @@
 <template>
-  <h1>FFTCG Card Price Check</h1><br>
-  <p style="align:center">Updated Daily</p> <br>
+  <h1 style="margin-bottom: 0; padding-bottom: 0;">FFTCG Card Price Check</h1>
+  <p style="align:center;margin: 0; padding: 0;">Updated Daily</p> <br>
   <!-- <input type="text" id="fname" name="fname" /> -->
   <input label="Card Name" type="text" style="width:75%; height:3em"  v-model="cardFind" @change="getCards">
 
