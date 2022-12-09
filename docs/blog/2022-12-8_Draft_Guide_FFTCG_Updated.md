@@ -215,7 +215,8 @@ I was able to take 2nd in one of the Final Fantasy TCG Draft events at the NA Ch
 ### UPDATE 2 – 8/3/2017: 
 There was some newfound information about how Backups can be played with any CP from Final Fantasy TCG North America. This conflicts with GTS’ current rules, but Final Fantasy TCG North America insists that they will be enforcing the Simplified Sealed Backup rules going forward. This has held true at E3 and SDCC 2017 so I have added the new information in the rules below.
 
-### UPDATE 1: 
+### UPDATE 1
+
 <img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg">
 In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility… I actually followed my own advice in the draft where I won!
 

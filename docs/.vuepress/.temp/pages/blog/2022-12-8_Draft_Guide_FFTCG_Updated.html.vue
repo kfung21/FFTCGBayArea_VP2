@@ -255,7 +255,7 @@ brought themselves.</p>
 <img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/fftcgnadraft-1024x683.jpg"></p>
 <h3 id="update-2-–-8-3-2017" tabindex="-1"><a class="header-anchor" href="#update-2-–-8-3-2017" aria-hidden="true">#</a> UPDATE 2 – 8/3/2017:</h3>
 <p>There was some newfound information about how Backups can be played with any CP from Final Fantasy TCG North America. This conflicts with GTS’ current rules, but Final Fantasy TCG North America insists that they will be enforcing the Simplified Sealed Backup rules going forward. This has held true at E3 and SDCC 2017 so I have added the new information in the rules below.</p>
-<h3 id="update-1" tabindex="-1"><a class="header-anchor" href="#update-1" aria-hidden="true">#</a> UPDATE 1:</h3>
+<h3 id="update-1" tabindex="-1"><a class="header-anchor" href="#update-1" aria-hidden="true">#</a> UPDATE 1</h3>
 <img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg">
 In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility… I actually followed my own advice in the draft where I won!
 <h2 id="about-benny" tabindex="-1"><a class="header-anchor" href="#about-benny" aria-hidden="true">#</a> About Benny</h2>
