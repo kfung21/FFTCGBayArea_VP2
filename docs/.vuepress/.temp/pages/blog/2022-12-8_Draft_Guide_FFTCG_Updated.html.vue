@@ -57,13 +57,10 @@ By: Benny Soo</p>
 <li>
 <p>Players can have more than three copies of the same card in their deck.</p>
 </li>
-<li>
-<p><strong>Backups can be played using CP of any colour (Unless if there is a specific color required in the card’s instructions. Forwards must still have at least 1 CP of their element paid as part of their cost).</strong></p>
-</li>
-<li>
-<p><strong>Backups still only produce their element’s CP when dulled.</strong></p>
-</li>
 </ul>
+<!-- * **Backups can be played using CP of any colour (Unless if there is a specific color required in the card’s instructions. Forwards must still have at least 1 CP of their element paid as part of their cost).**
+  
+* **Backups still only produce their element’s CP when dulled.** -->
 <p>The official tournament rules for Draft and other formats can be found <a href="https://www.gtsdistribution.com/images/FFTCGOP_GTS.pdf">here</a>.</p>
 <h2 id="all-star-draft-translated-from-official-fftcg-japan" tabindex="-1"><a class="header-anchor" href="#all-star-draft-translated-from-official-fftcg-japan" aria-hidden="true">#</a> ALL-STAR DRAFT (Translated from official FFTCG Japan)</h2>
 <p>An All-Star Draft is a special draft made using cards different from the Booster Draft.</p>
@@ -259,8 +256,8 @@ brought themselves.</p>
 <img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg"/>
 <p>In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility, I actually followed my own advice in the draft where I won!</p>
 <h2 id="about-benny" tabindex="-1"><a class="header-anchor" href="#about-benny" aria-hidden="true">#</a> About Benny</h2>
-<img src="http://0.gravatar.com/avatar/f0a5f59d6de0c4a19c32062eca3b7962?s=250&d=mm&r=x"/>
 <p>I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with Bic and stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!</p>
+<h2 id="" tabindex="-1"><a class="header-anchor" href="#" aria-hidden="true">#</a> </h2>
 </div></template>
 
 
