@@ -4,6 +4,7 @@ tags: ["About"]
 author: FFTCG
 blog: true
 sidebar: auto
+contributors: false
 summary: About
 ---
 

@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-7299f3fc\",\"path\":\"/calendar.html\",\"title\":\"Calendar\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Calendar\",\"tags\":[\"Calendar\"],\"author\":\"FFTCG\",\"blog\":true,\"sidebar\":\"auto\",\"summary\":\"Calendar\"},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1670479540000,\"contributors\":[{\"name\":\"kf\",\"email\":\"kevtfung@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"calendar.md\"}")
+export const data = JSON.parse("{\"key\":\"v-7299f3fc\",\"path\":\"/calendar.html\",\"title\":\"Calendar\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Calendar\",\"tags\":[\"Calendar\"],\"author\":\"FFTCG\",\"blog\":true,\"sidebar\":\"auto\",\"contributors\":false,\"summary\":\"Calendar\"},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1670479540000,\"contributors\":[{\"name\":\"kf\",\"email\":\"kevtfung@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"calendar.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

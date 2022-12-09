@@ -5,6 +5,7 @@ author: FFTCG
 blog: true
 sidebar: auto
 summary: Price Check
+contributors: false
 ---
 
 <PriceLookup />

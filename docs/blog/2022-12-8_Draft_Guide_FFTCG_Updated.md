@@ -4,20 +4,26 @@ date: 12-9-2022
 tags: 
   - FFTCG
   - Draft
-author: Benny Soo
+contributors: False
+Author: Benny Soo
 blog: true
 sidebar: auto
 summary: Guide to FFTCG Drafts
 ---
 <TagLinks />
 
-# DRAFTING GUIDE FOR FFTCG (UPDATED)
+# DRAFTING GUIDE FOR FFTCG 
 
+(UPDATED Dec. 2022) <br>
+By: Benny Soo
 
-## DRAFT
+## DRAFT Rules
+<a href="https://www.gtsdistribution.com/pc_combined_results.asp?search_style=(searchexact~p.searchfield1~CARD%20GAMES|and|searchexact~p.searchfield2~SQUARE%20ENIX)&search_prod=(searchexact~p.searchfield1~CARD%20GAMES|and|searchexact~p.searchfield2~SQUARE%20ENIX)&searchfield1=CARD%20GAMES&searchfield2=SQUARE%20ENIX">[GTS Distribution (USA)]</a>
+
 This limited format is the most popular and recommended for the Final Fantasy TCG.
 
-* Requires 4 booster packs per player and 4 players per table. (4 of Opus 1, Opus 2, or 2 of each)
+* Requires 4 booster packs per player and 4 players per table. (4 of Opus 17, Opus 18, or 2 of each)
+  
 * Flow of the game:
     1. Each player should open their first booster pack.
   
@@ -44,9 +50,13 @@ This limited format is the most popular and recommended for the Final Fantasy TC
 In addition to the above rules here are more Limited specific rules:
 
 * Decks must contain at least 40 cards (40 to 41 cards recommended).
+  
 * Victory is attained by inflicting 6 points of damage instead of the usual 7.
+  
 * Players can have more than three copies of the same card in their deck.
+  
 * **Backups can be played using CP of any colour (Unless if there is a specific color required in the card’s instructions. Forwards must still have at least 1 CP of their element paid as part of their cost).**
+  
 * **Backups still only produce their element’s CP when dulled.**
 
 The official tournament rules for Draft and other formats can be found <a href="https://www.gtsdistribution.com/images/FFTCGOP_GTS.pdf">here</a>.
@@ -68,7 +78,7 @@ An All-Star Draft is a special draft made using cards different from the Booster
 
 I have played the draft format for FFTCG about 6 times now and numerous times in other games like MTG and L5R. There are very key differences if you are coming from MTG. Below I will highlight some takeaways and tips:
 
-1. Know the cards… knowledge is power. Utilize <a href="https://ffdecks.com/search">FFDecks</a> or look at the card lists from the main site <a href="https://fftcg.square-enix-games.com/na/card-browser">here</a>.
+1. Know the cards… knowledge is power. Utilize <a href="https://ffdecks.com/search">FFDecks</a> or look at the card lists from the <a href="https://fftcg.square-enix-games.com/na/card-browser">SE card browser</a> or the <a href="http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html">SE main draft site</a>.
 
 2. You only get a pool of 48 cards to choose from out of the 4 booster packs used to draft
      * You have to utilize a 40 card deck meaning only 8 cards are free from use
@@ -89,6 +99,8 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
 5. Almost always take the Legendary card from the first pack
 
     * The Legendary cards are so strong you generally consider building your deck around it
+  
+  <img src="https://www.popoptiq.com/wp-content/uploads/2015/08/FF8ScreenshotRinoa22.jpg">
 
 6. Bomb cards are important to grab as well… here are some I would always go for outside of Legendaries:
 
@@ -106,27 +118,29 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
 
     * Zemus – just so good in draft
 
-7. Keep a mental count of THE 8 BURN cards going into your deck
+7. Keep a mental count of THE 8 BURN cards going into your deck 
+   <img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png">
 
     * Cards not in your 2-3 Elements of your draft deck
   
     * Cards usually passed to you at the final 2-3 cards of a booster pack
-  
+
     * Try not to reach this 8 BURN card limit before the 3rd pack as it will be a recipe for disaster
-  
+
     * Once you hit the 8 cards that cannot go into your deck, make sure to grab any EX Burst out of Element if available
-  
+
     * Once you hit the 8, ALWAYS pick Elements of your deck as 4 Element decks tend to fail in draft
 
 8. Don’t worry about Backup ratios too much in draft 
 
-    * With cards that drop value you could easily end up swinging games with t1 drops
+    * With cards that drop value you could easily end up swinging games with t1 drops 
+    <img src="https://vignette3.wikia.nocookie.net/finalfantasy/images/8/8b/Weiss_DoC.png/revision/latest?cb=20100525213511">
 
     * Focus on your two main Elements before worrying about backups, I won drafts without putting a backup down
 
     * Backups tend to come automatically to you as other cards may be more valuable in the early picks (May not be the case anymore)
 
-9. Forwards on or above the curve WITH abilities are great in draft
+9.  Forwards on or above the curve WITH abilities are great in draft
     
     * 2 CP Forwards should have minimum 5000 Power
   
@@ -136,7 +150,7 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
   
     * 5+ CP Forwards should have minimum 9000 Power
 
-10. Remember S abilities and Combo reliant cards are extremely hard to pull off in draft so do not grab these trap cards
+10.  Remember S abilities and Combo reliant cards are extremely hard to pull off in draft so do not grab these trap cards
 
 ### PREPPING FOR DRAFT DAY
 
@@ -149,72 +163,64 @@ When getting ready for Draft Day at your LGS, consider the following:
 
 Good luck with your drafts! May you avoid pulling double Legendaries during your draft!
 
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/doubletifa-e1496903252291-768x1024.jpeg">
 
 Let me know if you have any draft tips and strategies!
+
+## Updates
+### UPDATE 7 – 12/5/2020: 
+I added a section for All-Star Draft rules from the official FFTCG Japan website: 
+
+<a href=" http://www.square-enix-shop.com/jp/ff-tcg/rules/index.html">http://www.square-enix-shop.com/jp/ff-tcg/rules/index.html</a> 
+
+First the official Draft rules from GTS Distribution (USA) are as follows:
+
+### UPDATE 6 – 7/30/2019: 
+It seems like 5 pack drafts are the new standard for competitive.
+
+**<p style="color:red">This means the belief of playing backups with any Element CP is incorrect for competitive draft events.</p>**
+
+Further official confirmation from RB of SE:
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/draftbackuprule.png">
+
+
+### UPDATE 5 – 12/18/2018: 
+I had to get the facts straight and it is now confirmed as of this date that playing competitive draft events will only have the following rules that are different from standard rules:
+
+*4-1. Limited* 
+Special rules are used for tournaments held under the “limited” rules, such as “sealed” and booster
+draft.”
+
+*4-1-1. Number of cards in a deck* <br>
+The number of cards in a “limited” rules deck is 40 or more. There is no upper limit to the number. In
+addition, there is no upper limit to the number of cards of the same serial number that can be
+included.
+
+*4-1-2. Changes to the maximum damage limit* <br>
+Under the “limited” rules the game ends once a player has inflicted 6 points of damage on their
+opponent.
+
+*4-1-3. Booster packs used* <br>
+Under the limited rules, tournament organizers will prepare sealed booster packs and distribute
+these to the participating players. Players will not be allowed to use packs or cards that they have
+brought themselves.
+
+### UPDATE 4 – 5/8/2018: 
+Kageyama’s team whipped out a sweet All Star Cube Draft format consisting of 400 cards. You can find the list here in Japanese: <a href="http://www.square-enix-shop.com/jp/ff-tcg/events/event20180309_02.html">http://www.square-enix-shop.com/jp/ff-tcg/events/event20180309_02.html</a> 
+
+### UPDATE 3 – 10/7/2017: 
+I was able to take 2nd in one of the Final Fantasy TCG Draft events at the NA Championships event. My local fellow draft master comrade, Peter Wong, took home 1st in another Draft event so we did NorCal proud… in limited :)
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/fftcgnadraft-1024x683.jpg">
+
+### UPDATE 2 – 8/3/2017: 
+There was some newfound information about how Backups can be played with any CP from Final Fantasy TCG North America. This conflicts with GTS’ current rules, but Final Fantasy TCG North America insists that they will be enforcing the Simplified Sealed Backup rules going forward. This has held true at E3 and SDCC 2017 so I have added the new information in the rules below.
+
+### UPDATE 1: 
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg">
+In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility… I actually followed my own advice in the draft where I won!
 
 
 ## About Benny
 <img src="http://0.gravatar.com/avatar/f0a5f59d6de0c4a19c32062eca3b7962?s=250&d=mm&r=x">
 
 I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with BiC round stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-## Updates
-### Update 1
-(Updated December 2022) <br>
-Today I wanted to give everyone my little run down of Final Fantasy TCG‘s draft format. The limited draft format is a fun way for players to play in a pretty fair environment! The cost of entry is pretty low usually $16-$25 and you get to keep the cards you draft! *AWESOME* I am going to give some of my advice and pointers that can help you out if you have never drafted before.
-
-<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg" width=100%>
-
-**UPDATE**: In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility… I actually followed my own advice in the draft where I won!
-
-**UPDATE 2** – 8/3/2017: There was some newfound information about how Backups can be played with any CP from Final Fantasy TCG North America. This conflicts with GTS’ current rules, but Final Fantasy TCG North America insists that they will be enforcing the Simplified Sealed Backup rules going forward. This has held true at E3 and SDCC 2017 so I have added the new information in the rules below.
-
-
-
-## *The Last Dance*
-At this time, most of the world is locked away in the confines of their homes due to Covid-19. The sports and entertainment world has come to a halt; however, ESPN recently released the docuseries "The Last Dance", a memoir of the Michael Jordan era bulls in the 1990s.  This focuses on the final year of the second threepeat and all the events leading up to it with interviews with players and coaches at the time.  Michael Jordan is widely considered the best basketball player of all time and changed the game from center dominated league to a guard/wing driven one. His airness was a travelling spectacle and everyone was a fan. However, all dynasties must come to an end. 
-<br/><br/>
-
-## *Changing the Game*
-Likewise Stephen Curry changed the game in the 2010s, creating the 3pt revelation, and leading the way for the efficiency era.  No player in history has ever shot as high a percentage on as high a volume of 3s as Steph Curry. The Warriors dynasty of the 2010s was similar to the Bulls for many of the kids today who never knew Michael Jordan other than a crying meme.  With the departure of Kevin Durant and subsequently Andre Iguodala, Shaun Livingston, and co, is this the same end for the Warriors or a break in the next big run?  Injuries have derailed this season, but for the young generation who never knew Jordan, the Warriors and Steph Curry are the next best thing. Hopefully there is still another final run left and beyond.
-<br/><br/>
-
-## *Looking Forward*
-NorCal Travels (NCT) started a while back, but has been rebooted during these down times and brought back to life via Vuepress. Wordpress and CPanel once owned the internet, but with the advent of NPM and front-end technologies, creating a simple blog has never been easier or cheaper.  With that, NCT will be chronicling life in NorCal from travels, outdoors, food, state of our times, humor, and what it's like to live in one of the greatest places in the world.  -->

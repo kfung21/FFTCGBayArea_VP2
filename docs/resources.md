@@ -4,6 +4,7 @@ tags: ["Resources"]
 author: FFTCG
 blog: true
 sidebar: auto
+contributors: false
 summary: Resources
 ---
 

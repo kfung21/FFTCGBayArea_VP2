@@ -4,6 +4,7 @@ tags: ["Home"]
 author: FFTCG
 blog: true
 sidebar: none
+contributors: false
 summary: Home
 ---
 

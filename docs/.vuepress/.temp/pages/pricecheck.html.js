@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-270446c1\",\"path\":\"/pricecheck.html\",\"title\":\"Price Check\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Price Check\",\"tags\":[\"About\"],\"author\":\"FFTCG\",\"blog\":true,\"sidebar\":\"auto\",\"summary\":\"Price Check\"},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1670479540000,\"contributors\":[{\"name\":\"kf\",\"email\":\"kevtfung@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"pricecheck.md\"}")
+export const data = JSON.parse("{\"key\":\"v-270446c1\",\"path\":\"/pricecheck.html\",\"title\":\"Price Check\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Price Check\",\"tags\":[\"About\"],\"author\":\"FFTCG\",\"blog\":true,\"sidebar\":\"auto\",\"summary\":\"Price Check\",\"contributors\":false},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1670479540000,\"contributors\":[{\"name\":\"kf\",\"email\":\"kevtfung@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"pricecheck.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
