@@ -72,7 +72,7 @@ An All-Star Draft is a special draft made using cards different from the Booster
 
 <a href="http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html">Click here</a> for a list of cards used at official events . * This list is current as of “Opus XII” (last updated: 2020/12/01). * The contents of the list are subject to change due to balance adjustment. Special rule This rule is common to shield and booster drafts. 1. Build a deck with 40 or more cards. Any number of 40 or more will do. 2. There is no maximum number of cards that can be placed in the deck. You can put as many as you like. 3. You win if you deal 6 points of damage to your opponent.
 
-<img src="http://images.launchbox-app.com/ad990b3b-a03d-4ad4-bb4c-656dac8303ed.PNG">
+<img src="http://images.launchbox-app.com/ad990b3b-a03d-4ad4-bb4c-656dac8303ed.PNG"/>
 
 ## TAKEAWAYS, TIPS, AND STRATEGIES
 
@@ -100,7 +100,7 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
 
     * The Legendary cards are so strong you generally consider building your deck around it
   
-  <img src="https://www.popoptiq.com/wp-content/uploads/2015/08/FF8ScreenshotRinoa22.jpg">
+  <img src="https://www.popoptiq.com/wp-content/uploads/2015/08/FF8ScreenshotRinoa22.jpg"/>
 
 6. Bomb cards are important to grab as well… here are some I would always go for outside of Legendaries:
 
@@ -119,7 +119,7 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
     * Zemus – just so good in draft
 
 7. Keep a mental count of THE 8 BURN cards going into your deck 
-   <img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png">
+   <img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png"/>
 
     * Cards not in your 2-3 Elements of your draft deck
   
@@ -134,7 +134,7 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
 8. Don’t worry about Backup ratios too much in draft 
 
     * With cards that drop value you could easily end up swinging games with t1 drops 
-    <img src="https://vignette3.wikia.nocookie.net/finalfantasy/images/8/8b/Weiss_DoC.png/revision/latest?cb=20100525213511">
+    <img src="https://vignette3.wikia.nocookie.net/finalfantasy/images/8/8b/Weiss_DoC.png/revision/latest?cb=20100525213511"/>
 
     * Focus on your two main Elements before worrying about backups, I won drafts without putting a backup down
 
@@ -163,7 +163,7 @@ When getting ready for Draft Day at your LGS, consider the following:
 
 Good luck with your drafts! May you avoid pulling double Legendaries during your draft!
 
-<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/doubletifa-e1496903252291-768x1024.jpeg">
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/doubletifa-e1496903252291-768x1024.jpeg"/>
 
 Let me know if you have any draft tips and strategies!
 
@@ -181,7 +181,7 @@ It seems like 5 pack drafts are the new standard for competitive.
 **<p style="color:red">This means the belief of playing backups with any Element CP is incorrect for competitive draft events.</p>**
 
 Further official confirmation from RB of SE:
-<img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/draftbackuprule.png">
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/draftbackuprule.png"/>
 
 
 ### UPDATE 5 – 12/18/2018: 
@@ -210,20 +210,19 @@ Kageyama’s team whipped out a sweet All Star Cube Draft format consisting of 4
 
 ### UPDATE 3 – 10/7/2017: 
 I was able to take 2nd in one of the Final Fantasy TCG Draft events at the NA Championships event. My local fellow draft master comrade, Peter Wong, took home 1st in another Draft event so we did NorCal proud… in limited :)
-<img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/fftcgnadraft-1024x683.jpg">
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2018/05/fftcgnadraft-1024x683.jpg"/>
 
 ### UPDATE 2 – 8/3/2017: 
 There was some newfound information about how Backups can be played with any CP from Final Fantasy TCG North America. This conflicts with GTS’ current rules, but Final Fantasy TCG North America insists that they will be enforcing the Simplified Sealed Backup rules going forward. This has held true at E3 and SDCC 2017 so I have added the new information in the rules below.
 
 ### UPDATE 1
 
-<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg">
+<img src="http://www.dreampiece.com/wp/wp-content/uploads/2017/06/fftcge3draft-1024x576.jpg"/>
 
 In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility, I actually followed my own advice in the draft where I won!
 
 ## About Benny
 
-<img src="http://0.gravatar.com/avatar/f0a5f59d6de0c4a19c32062eca3b7962?s=250&d=mm&r=x">
-<p>
-I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with Bic and stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!
-</p>
+<img src="http://0.gravatar.com/avatar/f0a5f59d6de0c4a19c32062eca3b7962?s=250&d=mm&r=x"/>
+
+<p>I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with Bic and stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!</p>
