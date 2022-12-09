@@ -1,1 +1,0 @@
-import{_ as c,r as n,o as a,c as o,d as r}from"./app.babdbcf8.js";const t={};function l(_,s){const e=n("calendar");return a(),o("div",null,[r(e)])}const m=c(t,[["render",l],["__file","calendar.html.vue"]]);export{m as default};

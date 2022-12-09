@@ -1,0 +1,1 @@
+import{_ as c,r as o,o as r,c as t,d as n}from"./app.3adb6895.js";const _={};function s(a,l){const e=o("PriceLookup");return r(),t("div",null,[n(e)])}const i=c(_,[["render",s],["__file","pricecheck.html.vue"]]);export{i as default};
