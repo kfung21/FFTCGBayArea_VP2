@@ -9,6 +9,8 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /resources.html
   "v-68dc5d0d": () => import(/* webpackChunkName: "v-68dc5d0d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/resources.html.js").then(({ data }) => data),
+  // path: /blog/2022-12-8_Draft_Guide_FFTCG_Updated.html
+  "v-04663d7e": () => import(/* webpackChunkName: "v-04663d7e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
   // path: /blog/Test1.html

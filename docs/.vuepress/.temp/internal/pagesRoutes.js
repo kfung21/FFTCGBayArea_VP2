@@ -4,6 +4,7 @@ export const pagesRoutes = [
   ["v-270446c1","/pricecheck.html",{"_blog":{},"title":"Price Check"},["/pricecheck","/pricecheck.md"]],
   ["v-8daa1a0e","/",{"_blog":{},"title":"Home"},["/index.html","/README.md"]],
   ["v-68dc5d0d","/resources.html",{"_blog":{},"title":"Resources"},["/resources","/resources.md"]],
+  ["v-04663d7e","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html",{"_blog":{},"title":"Draft Guide for FFTCG"},["/blog/2022-12-8_Draft_Guide_FFTCG_Updated","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.md"]],
   ["v-145ac574","/blog/",{"_blog":{},"title":"Blog"},["/blog/index.html","/blog/README.md"]],
   ["v-00f326ee","/blog/Test1.html",{"_blog":{},"title":""},["/blog/Test1","/blog/Test1.md"]],
   ["v-02a7ff8d","/blog/Test2.html",{"_blog":{},"title":""},["/blog/Test2","/blog/Test2.md"]],

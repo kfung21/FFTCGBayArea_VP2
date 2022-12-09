@@ -11,6 +11,8 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /resources.html
   "v-68dc5d0d": defineAsyncComponent(() => import(/* webpackChunkName: "v-68dc5d0d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/resources.html.vue")),
+  // path: /blog/2022-12-8_Draft_Guide_FFTCG_Updated.html
+  "v-04663d7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-04663d7e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /blog/Test1.html
