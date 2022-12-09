@@ -222,8 +222,6 @@ There was some newfound information about how Backups can be played with any CP 
 In the image above is a picture of me on the left winning the Final Fantasy TCG E3 Draft Event in Los Angeles on June 15th 2017. So to give this guide a little more credibility, I actually followed my own advice in the draft where I won!
 
 ## About Benny
-
-<!-- <img src="http://0.gravatar.com/avatar/f0a5f59d6de0c4a19c32062eca3b7962?s=250&d=mm&r=x"> -->
 I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with Bic and stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!
 
 
