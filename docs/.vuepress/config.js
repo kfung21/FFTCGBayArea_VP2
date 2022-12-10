@@ -43,6 +43,7 @@ export default {
                 link: '/about',
             },
         ],
+        lastUpdated: ''
     }),
     head: [
         ['link', { rel: 'manifest', href: './public/manifest.webmanifest' }],
