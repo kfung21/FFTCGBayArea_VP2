@@ -3,6 +3,7 @@ import { getDirname, path } from '@vuepress/utils'
 import { defaultTheme } from 'vuepress'
 import { blogPlugin } from "vuepress-plugin-blog2";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { pwaPlugin } from '@vuepress/plugin-pwa'
 
 const __dirname = getDirname(import.meta.url)
 
@@ -43,6 +44,11 @@ export default {
             },
         ],
     }),
+    head: [
+        ['link', { rel: 'manifest', href: './public/manifest.webmanifest' }],
+        ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ],
+
 
     plugins: [
         registerComponentsPlugin({
@@ -50,6 +56,9 @@ export default {
         }),
         blogPlugin({
       // your options
+        }),
+        pwaPlugin({
+            skipWaiting: true
         }),
         googleAnalyticsPlugin({
             id: 'G-ZFB92VM4KZ',
