@@ -120,7 +120,7 @@ I have played the draft format for FFTCG about 6 times now and numerous times in
 
 7. Keep a mental count of THE 8 BURN cards going into your deck
    
-   <img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png"/>
+   <img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png" style="width:100%"/>
 
     * Cards not in your 2-3 Elements of your draft deck
   

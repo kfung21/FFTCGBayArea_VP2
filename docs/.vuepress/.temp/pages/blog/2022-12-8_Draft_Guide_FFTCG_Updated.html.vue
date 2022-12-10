@@ -153,7 +153,7 @@ By: Benny Soo</p>
 </li>
 <li>
 <p>Keep a mental count of THE 8 BURN cards going into your deck</p>
-<img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png"/>
+<img src="http://www.jp.square-enix.com/ffviii-pc-jp/images/sec06_h2.png" style="width:100%"/>
 <ul>
 <li>
 <p>Cards not in your 2-3 Elements of your draft deck</p>
