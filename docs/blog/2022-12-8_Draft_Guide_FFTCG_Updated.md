@@ -227,4 +227,8 @@ In the image above is a picture of me on the left winning the Final Fantasy TCG 
 I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with Bic and stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!
 
 ## 
+I was born and raised by the blanketing fog of San Francisco, CA. I love food, tech, and everything else that is synonymous with the words: nerd and geek. My hobbies include playing video games, watching anime, and dining out. Operating computers, setting up home theaters, crafting works of art with Bic and stic pens, and internet spelunking are my professional forte. I am Jack's infinite wealth of random knowledge and skills. Thanks for reading my lofty block of text!
+
+
+See you all at the next draft!
   
