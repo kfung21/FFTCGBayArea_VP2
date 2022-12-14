@@ -14,15 +14,6 @@ summary: About
 A place for people to connect to grow the scene in Northern California (including selling / trading product). Feel free to join, invite your friends, asks questions and help grow the playerbase in the SF Bay Area! For more information contact the store tournament organizers and also ask to join our fb group chats!
 
 ## Stores
-### **Anime Imports**
-* **Website**: <a href="www.animeimports.net"> www.animeimports.net</a>
-* **Location**: 116 Manor Drive Suite A, Pacifica, CA 94044
-* **Point of Contact**: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a> 
-* **Event Days/Times**:
-    - Saturday (Alternating, check group for details)
-    - 1:00pm (Draft $25)
-    - 3:30pm (Constructed $5)
-
 ### King Kong Games
 * **Website**: <a href="https://kingkongcomicsandgames.com/"> https://kingkongcomicsandgames.com/</a>
 * **Location**: 6700 Amador Plaza Road, Dublin, CA 94568 
@@ -32,6 +23,15 @@ A place for people to connect to grow the scene in Northern California (includin
     - Fridays
     - 8:00pm (Constructed $10)
   
+### **Anime Imports**
+* **Website**: <a href="www.animeimports.net"> www.animeimports.net</a>
+* **Location**: 116 Manor Drive Suite A, Pacifica, CA 94044
+* **Point of Contact**: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a> 
+* **Event Days/Times**:
+    - Saturday (Alternating, check group for details)
+    - 1:00pm (Draft $25)
+    - 3:30pm (Constructed $5)
+
 <!-- ### **Center Stage Games**
 * **Website**:  <a href="www.centerstagegames.com"> www.centerstagegames.com  </a>
 * **Location**: 140 E Leland Rd. Pittsburg, CA 94565 
@@ -39,7 +39,6 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Event Days/Times**:
     - Sunday
     - 6:00pm (Constructed $10) -->
-
 ### **CardArt**
 * **Website**: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a>
 * **Location**: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087
@@ -49,6 +48,15 @@ A place for people to connect to grow the scene in Northern California (includin
     - Saturday (Alternating, check group for details)
     - 1:00pm (Draft/Constructed)
 
+### **Games of Martinez**
+* **Website**: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a>
+* **Location**: 1155 Arnold Dr, Martinez, CA 94553
+* **Point of Contact**: <a href="https://www.facebook.com/alex.early.965">Alex early</a> 
+* **Discord**: <a href="https://discord.gg/cHEGNu2c92">https://discord.gg/cHEGNu2c92</a> 
+* **Event Days/Times**: 
+    - Sundays
+    - 4:00pm (Draft/Constructed)
+  
 ### **Games of Berkeley**
 * **Website**: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a>
 * **Location**: 2510 Durant Ave Berkeley, CA 94704
