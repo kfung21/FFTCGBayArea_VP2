@@ -28,7 +28,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Location**: 116 Manor Drive Suite A, Pacifica, CA 94044
 * **Point of Contact**: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a> 
 * **Event Days/Times**:
-    - Saturday (Alternating, check group for details)
+    - Saturdays (Alternating, check FB group for details)
     - 1:00pm (Draft $25)
     - 3:30pm (Constructed $5)
 
@@ -45,7 +45,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Point of Contact**: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a> 
 * **Discord**: <a href="https://discord.com/channels/895013795242606603/895227871054929961">https://discord.com/channels/895013795242606603/895227871054929961</a> 
 * **Event Days/Times**:
-    - Saturday (Alternating, check group for details)
+    - Saturdays (Alternating, check FB group for details)
     - 1:00pm (Draft/Constructed)
 
 ### **Games of Martinez**
