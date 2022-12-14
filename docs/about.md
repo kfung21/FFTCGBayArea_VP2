@@ -19,7 +19,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Facebook**: <a href="https://www.facebook.com/KingKongComicsandGames/"> https://www.facebook.com/KingKongComicsandGames/</a>
 * **Location**: 6700 Amador Plaza Road, Dublin, CA 94568 <a href="https://goo.gl/maps/fb3rpvhf1U29viDp7">[Google Maps]</a> 
 * **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a> 
-* **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170">https://discord.com/channels/673661131658625024/673663787274076170</a> 
+* **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a> 
 * **Event Days/Times**: 
     - Fridays
     - 8:00pm (Constructed $10)
@@ -46,7 +46,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Facebook**: <a href="https://www.facebook.com/svcardart/"> https://www.facebook.com/svcardart/</a>
 * **Location**: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087 <a href="https://goo.gl/maps/wvkRKUxSLRSFpL5w6">[Google Maps]</a> 
 * **Point of Contact**: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a> 
-* **Discord**: <a href="https://discord.com/channels/895013795242606603/895227871054929961">https://discord.com/channels/895013795242606603/895227871054929961</a> 
+* **Discord**: <a href="https://discord.com/channels/895013795242606603/895227871054929961">[Link]</a> 
 * **Event Days/Times**:
     - Saturdays (Alternating, check FB group for details)
     - 1:00pm (Draft/Constructed)
@@ -56,7 +56,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Facebook**: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a>
 * **Location**: 1155 Arnold Dr, Martinez, CA 94553 <a href="https://goo.gl/maps/XHhT1Ck7BPx5yqK8A">[Google Maps]</a> 
 * **Point of Contact**: <a href="https://www.facebook.com/alex.early.965">Alex early</a> 
-* **Discord**: <a href="https://discord.gg/cHEGNu2c92">https://discord.gg/cHEGNu2c92</a> 
+* **Discord**: <a href="https://discord.gg/cHEGNu2c92">[Link]</a> 
 * **Event Days/Times**: 
     - Sundays
     - 4:00pm (Draft/Constructed)
@@ -66,7 +66,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Facebook**: <a href="https://www.facebook.com/BerkeleyGames/"> https://www.facebook.com/BerkeleyGames/</a>
 * **Location**: 2510 Durant Ave Berkeley, CA 94704 <a href="https://goo.gl/maps/khweY1mnJ2U9dmEA7">[Google Maps]</a> 
 * **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a> 
-* **Discord**: <a href="https://discord.com/channels/689264919274717302/689269720687575057">https://discord.com/channels/689264919274717302/689269720687575057</a> 
+* **Discord**: <a href="https://discord.com/channels/689264919274717302/689269720687575057">[Link]</a> 
 * **Event Days/Times**: 
     - Mondays
     - 6:30pm (Open Play $5)
