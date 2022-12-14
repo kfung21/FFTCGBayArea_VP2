@@ -16,6 +16,7 @@ A place for people to connect to grow the scene in Northern California (includin
 ## Stores
 ### King Kong Games
 * **Website**: <a href="https://kingkongcomicsandgames.com/"> https://kingkongcomicsandgames.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/KingKongComicsandGames/"> https://www.facebook.com/KingKongComicsandGames/</a>
 * **Location**: 6700 Amador Plaza Road, Dublin, CA 94568 
 * **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a> 
 * **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170">https://discord.com/channels/673661131658625024/673663787274076170</a> 
@@ -25,6 +26,7 @@ A place for people to connect to grow the scene in Northern California (includin
   
 ### **Anime Imports**
 * **Website**: <a href="www.animeimports.net"> www.animeimports.net</a>
+* **Facebook**: <a href="https://www.facebook.com/AnimeImports.net/"> https://www.facebook.com/AnimeImports.net/</a>
 * **Location**: 116 Manor Drive Suite A, Pacifica, CA 94044
 * **Point of Contact**: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a> 
 * **Event Days/Times**:
@@ -41,6 +43,7 @@ A place for people to connect to grow the scene in Northern California (includin
     - 6:00pm (Constructed $10) -->
 ### **CardArt**
 * **Website**: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/svcardart/"> https://www.facebook.com/svcardart/</a>
 * **Location**: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087
 * **Point of Contact**: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a> 
 * **Discord**: <a href="https://discord.com/channels/895013795242606603/895227871054929961">https://discord.com/channels/895013795242606603/895227871054929961</a> 
@@ -50,6 +53,7 @@ A place for people to connect to grow the scene in Northern California (includin
 
 ### **Games of Martinez**
 * **Website**: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a>
 * **Location**: 1155 Arnold Dr, Martinez, CA 94553
 * **Point of Contact**: <a href="https://www.facebook.com/alex.early.965">Alex early</a> 
 * **Discord**: <a href="https://discord.gg/cHEGNu2c92">https://discord.gg/cHEGNu2c92</a> 
@@ -59,6 +63,7 @@ A place for people to connect to grow the scene in Northern California (includin
   
 ### **Games of Berkeley**
 * **Website**: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/BerkeleyGames/"> https://www.facebook.com/BerkeleyGames/</a>
 * **Location**: 2510 Durant Ave Berkeley, CA 94704
 * **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a> 
 * **Discord**: <a href="https://discord.com/channels/689264919274717302/689269720687575057">https://discord.com/channels/689264919274717302/689269720687575057</a> 
