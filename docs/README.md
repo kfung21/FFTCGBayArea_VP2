@@ -16,10 +16,14 @@ summary: Home
 
 ## News and Announcements
 
-Come join us for Resurgence of Power Drafts this week! <br>
-* King Kong - Fri (12/9) @8:00 PM <br>
-* Card Art - Sat (12/10) @1:00 PM <br>
-* Games of Berkeley - Mon (12/12) @7:00 PM
+Come join us for our Weekly Events! <br>
+* Friday: King Kong Games @8:00 PM
+* Saturday: 
+    - Anime Imports @1:00 PM
+    - Card Art @1:00 PM (alternating) 
+* Sundays: Games of Martinez @4:00 PM
+* Monday: Games of Berkeley @6:00 PM
 <!-- * Center Stage Games - Sun (12/11) @6:00 PM <br> -->
+For more information contact the tournament organizers on the About page.
 
 
