@@ -16,14 +16,14 @@ summary: Home
 
 ## News and Announcements
 
-Come join us for our Weekly Events! <br>
-* Fridays: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM
-* Saturdays: 
+Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
+* **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM
+* **Saturdays**: 
     - <a href="about#anime-imports">Anime Imports</a> @1:00 PM
     - <a href="about#cardart">Card Art</a> @1:00 PM (alternating) 
-* Sundays: <a href="about#games-of-martinez">Games of Martinez</a> @4:00 PM
-* Mondays: <a href="about#games-of-berkeley">Games of Berkeley</a> @6:00 PM
+* **Sundays**: <a href="about#games-of-martinez">Games of Martinez</a> @4:00 PM
+* **Mondays**: <a href="about#games-of-berkeley">Games of Berkeley</a> @6:00 PM
 <!-- * Center Stage Games - Sun (12/11) @6:00 PM <br> -->
-For more information contact the tournament organizers on the About page.
+For more information contact the tournament organizers on the <a href="about">About</a>  page.
 
 
