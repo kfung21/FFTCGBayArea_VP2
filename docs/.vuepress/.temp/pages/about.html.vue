@@ -5,9 +5,9 @@
 <ul>
 <li><strong>Website</strong>: <a href="https://kingkongcomicsandgames.com/"> https://kingkongcomicsandgames.com/</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/KingKongComicsandGames/"> https://www.facebook.com/KingKongComicsandGames/</a></li>
-<li><strong>Location</strong>: 6700 Amador Plaza Road, Dublin, CA 94568</li>
+<li><strong>Location</strong>: 6700 Amador Plaza Road, Dublin, CA 94568 <a href="https://goo.gl/maps/fb3rpvhf1U29viDp7">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/673661131658625024/673663787274076170">https://discord.com/channels/673661131658625024/673663787274076170</a></li>
+<li><strong>Discord</strong>: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a></li>
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Fridays</li>
@@ -19,7 +19,7 @@
 <ul>
 <li><strong>Website</strong>: <a href="www.animeimports.net"> www.animeimports.net</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/AnimeImports.net/"> https://www.facebook.com/AnimeImports.net/</a></li>
-<li><strong>Location</strong>: 116 Manor Drive Suite A, Pacifica, CA 94044</li>
+<li><strong>Location</strong>: 116 Manor Drive Suite A, Pacifica, CA 94044 <a href="https://goo.gl/maps/yiLyJ2dTm9A6BerYA">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a></li>
 <li><strong>Event Days/Times</strong>:
 <ul>
@@ -40,9 +40,9 @@
 <ul>
 <li><strong>Website</strong>: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/svcardart/"> https://www.facebook.com/svcardart/</a></li>
-<li><strong>Location</strong>: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087</li>
+<li><strong>Location</strong>: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087 <a href="https://goo.gl/maps/wvkRKUxSLRSFpL5w6">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/895013795242606603/895227871054929961">https://discord.com/channels/895013795242606603/895227871054929961</a></li>
+<li><strong>Discord</strong>: <a href="https://discord.com/channels/895013795242606603/895227871054929961">[Link]</a></li>
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Saturdays (Alternating, check FB group for details)</li>
@@ -54,9 +54,9 @@
 <ul>
 <li><strong>Website</strong>: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a></li>
-<li><strong>Location</strong>: 1155 Arnold Dr, Martinez, CA 94553</li>
+<li><strong>Location</strong>: 1155 Arnold Dr, Martinez, CA 94553 <a href="https://goo.gl/maps/XHhT1Ck7BPx5yqK8A">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/alex.early.965">Alex early</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.gg/cHEGNu2c92">https://discord.gg/cHEGNu2c92</a></li>
+<li><strong>Discord</strong>: <a href="https://discord.gg/cHEGNu2c92">[Link]</a></li>
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Sundays</li>
@@ -68,9 +68,9 @@
 <ul>
 <li><strong>Website</strong>: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/BerkeleyGames/"> https://www.facebook.com/BerkeleyGames/</a></li>
-<li><strong>Location</strong>: 2510 Durant Ave Berkeley, CA 94704</li>
+<li><strong>Location</strong>: 2510 Durant Ave Berkeley, CA 94704 <a href="https://goo.gl/maps/khweY1mnJ2U9dmEA7">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/689264919274717302/689269720687575057">https://discord.com/channels/689264919274717302/689269720687575057</a></li>
+<li><strong>Discord</strong>: <a href="https://discord.com/channels/689264919274717302/689269720687575057">[Link]</a></li>
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Mondays</li>
