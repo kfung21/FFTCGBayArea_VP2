@@ -36,7 +36,12 @@ export default {
             },
             {
                 text: 'Resources',
+                link: '/resources',
                 children: [
+                    {
+                        text: 'All Resources',
+                        link: '/resources',
+                    },
                     {
                         text: 'Draft Guide',
                         link: '/blog/2022-12-8_Draft_Guide_FFTCG_Updated',
