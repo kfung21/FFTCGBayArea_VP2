@@ -4,6 +4,7 @@ import { defaultTheme } from 'vuepress'
 import { blogPlugin } from "vuepress-plugin-blog2";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import { pwaPlugin } from '@vuepress/plugin-pwa'
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
 const __dirname = getDirname(import.meta.url)
 
@@ -76,6 +77,10 @@ export default {
             id: 'G-ZFB92VM4KZ',
             debug: true,
         }),
+        sitemapPlugin({
+            hostname: 'https://www.fftcgbayarea.com'
+        }),
+
 
     ],
 }
