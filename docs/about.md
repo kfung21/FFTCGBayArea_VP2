@@ -71,3 +71,13 @@ A place for people to connect to grow the scene in Northern California (includin
     - Mondays
     - 6:30pm (Open Play $5)
   
+## NorCal Stores
+### Final Cut TCG
+* **Website**: <a href="https://finalcuttcg.com/"> https://finalcuttcg.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/groups/720844028089910/"> https://www.facebook.com/groups/720844028089910/</a>
+* **Location**: 2230 Sunrise Blvd, Gold River, CA 95670 <a href="https://goo.gl/maps/BPBvfWnLnFwa4ovs9">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/groups/720844028089910/user/1011064727/">Sevon Jambazian</a> 
+<!-- * **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a>  -->
+* **Event Days/Times**: 
+    - Saturdays
+    - 7:00pm (Constructed $5)

@@ -16,6 +16,12 @@ summary: Home
 
 ## News and Announcements
 
+Winter Reunion Event at <a href="about#king-kong-games">King Kong Games</a> on <a href="calendar">Saturday, Jan 28, 2023.</a> <br><br>
+For more information please see the FB link: <a href="(https://fb.me/e/3lB4ROx2h)">https://fb.me/e/3lB4ROx2h</a>
+
+
+<hr>
+
 Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
 * **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM
 * **Saturdays**: 

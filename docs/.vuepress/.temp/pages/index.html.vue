@@ -2,6 +2,9 @@
 <h3 id="home-of-the-bay-area-espers" tabindex="-1"><a class="header-anchor" href="#home-of-the-bay-area-espers" aria-hidden="true">#</a> <center>Home of the Bay Area Espers!</center> <br></h3>
 <img src="https://i.imgur.com/WLYqrw8.jpg">
 <h2 id="news-and-announcements" tabindex="-1"><a class="header-anchor" href="#news-and-announcements" aria-hidden="true">#</a> News and Announcements</h2>
+<p>Winter Reunion Event at <a href="about#king-kong-games">King Kong Games</a> on <a href="calendar">Saturday, Jan 28, 2023.</a> <br><br>
+For more information please see the FB link: <a href="(https://fb.me/e/3lB4ROx2h)">https://fb.me/e/3lB4ROx2h</a></p>
+<hr>
 <p>Come join us for our <strong><a href="calendar">Weekly Events</a></strong>! <br></p>
 <ul>
 <li><strong>Fridays</strong>: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM</li>

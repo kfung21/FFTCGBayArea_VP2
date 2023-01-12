@@ -78,6 +78,23 @@
 </ul>
 </li>
 </ul>
+<h2 id="norcal-stores" tabindex="-1"><a class="header-anchor" href="#norcal-stores" aria-hidden="true">#</a> NorCal Stores</h2>
+<h3 id="final-cut-tcg" tabindex="-1"><a class="header-anchor" href="#final-cut-tcg" aria-hidden="true">#</a> Final Cut TCG</h3>
+<ul>
+<li><strong>Website</strong>: <a href="https://finalcuttcg.com/"> https://finalcuttcg.com/</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/groups/720844028089910/"> https://www.facebook.com/groups/720844028089910/</a></li>
+<li><strong>Location</strong>: 2230 Sunrise Blvd, Gold River, CA 95670 <a href="https://goo.gl/maps/BPBvfWnLnFwa4ovs9">[Google Maps]</a></li>
+<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/groups/720844028089910/user/1011064727/">Sevon Jambazian</a></li>
+</ul>
+<!-- * **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a>  -->
+<ul>
+<li><strong>Event Days/Times</strong>:
+<ul>
+<li>Saturdays</li>
+<li>7:00pm (Constructed $5)</li>
+</ul>
+</li>
+</ul>
 </div></template>
 
 
