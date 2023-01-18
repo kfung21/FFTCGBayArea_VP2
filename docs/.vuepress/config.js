@@ -9,7 +9,7 @@ import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 const __dirname = getDirname(import.meta.url)
 
 export default {
-    title: 'FFTCG Bay Area',
+    title: 'Final Fantasy TCG Bay Area',
     theme: defaultTheme({
     // default theme config
         navbar: [
