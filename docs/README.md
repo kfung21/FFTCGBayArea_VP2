@@ -16,8 +16,12 @@ summary: Home
 
 ## News and Announcements
 
-Winter Reunion Event at <a href="about#king-kong-games">King Kong Games</a> on <a href="calendar">Saturday, Jan 28, 2023.</a> <br><br>
-For more information please see the FB link: <a href="(https://fb.me/e/3lB4ROx2h)">https://fb.me/e/3lB4ROx2h</a>
+Thank you everyone for attending the Winter Reunion Event at <a href="about#king-kong-games">King Kong Games</a> <br><br>
+If you missed out on the event, you can check out replays of the top matches on our YouTube Channel below! <br>
+* <a href="https://www.youtube.com/playlist?list=PLFp150pyGXpASYOGXhsryqihu4AJsWALc">YouTube King Kong Winter Reunion Playlist</a> <br><br>
+
+FF Decks Results: <a href="https://ffdecks.com/tournament/king-kong-winter-reunion/5918539719376896">https://ffdecks.com/tournament/king-kong-winter-reunion/5918539719376896</a><br>
+FB Event Info: <a href="(https://fb.me/e/3lB4ROx2h)">https://fb.me/e/3lB4ROx2h</a>  <br>
 
 
 <hr>
