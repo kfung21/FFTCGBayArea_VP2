@@ -21,7 +21,7 @@ If you missed out on the event, you can check out replays of the top matches on 
 * <a href="https://www.youtube.com/playlist?list=PLFp150pyGXpASYOGXhsryqihu4AJsWALc">YouTube King Kong Winter Reunion Playlist</a> <br><br>
 
 FF Decks Results: <a href="https://ffdecks.com/tournament/king-kong-winter-reunion/5918539719376896">https://ffdecks.com/tournament/king-kong-winter-reunion/5918539719376896</a><br>
-FB Event Info: <a href="(https://fb.me/e/3lB4ROx2h)">https://fb.me/e/3lB4ROx2h</a>  <br>
+FB Event Info: <a href="https://www.facebook.com/events/1711505282616041">https://www.facebook.com/events/1711505282616041</a>  <br>
 
 
 <hr>
