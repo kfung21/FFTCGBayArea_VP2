@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"FFTCG Bay Area\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"manifest\",\"href\":\"./public/manifest.webmanifest\"}],[\"meta\",{\"name\":\"theme-color\",\"content\":\"#3eaf7c\"}]],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Final Fantasy TCG Bay Area\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"manifest\",\"href\":\"./public/manifest.webmanifest\"}],[\"meta\",{\"name\":\"theme-color\",\"content\":\"#3eaf7c\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
