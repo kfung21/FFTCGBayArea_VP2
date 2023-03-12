@@ -15,14 +15,8 @@ summary: Home
 <img src="https://i.imgur.com/WLYqrw8.jpg">
 
 ## News and Announcements
-
-Thank you everyone for attending the Winter Reunion Event at <a href="about#king-kong-games">King Kong Games</a> <br><br>
-If you missed out on the event, you can check out replays of the top matches on our YouTube Channel below! <br>
-* <a href="https://www.youtube.com/playlist?list=PLFp150pyGXpASYOGXhsryqihu4AJsWALc">YouTube King Kong Winter Reunion Playlist</a> <br><br>
-
-FF Decks Results: <a href="https://ffdecks.com/tournament/king-kong-winter-reunion/5918539719376896">https://ffdecks.com/tournament/king-kong-winter-reunion/5918539719376896</a><br>
-FB Event Info: <a href="https://www.facebook.com/events/1711505282616041">https://www.facebook.com/events/1711505282616041</a>  <br>
-
+<b>Congratulations to King Kong Comics and Games and Card Art on hosting this year's Final Fantasy TCG Store Championships! </b><br>
+Dates to be announced shortly.
 
 <hr>
 
