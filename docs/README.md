@@ -15,7 +15,6 @@ summary: Home
 <img src="https://i.imgur.com/WLYqrw8.jpg">
 
 ## News and Announcements
-<hr>
 <b>Congrats to King Kong and CardArt on hosting Store Championships! </b><br>
 Dates to be announced shortly
 
