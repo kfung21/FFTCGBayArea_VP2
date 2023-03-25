@@ -15,16 +15,11 @@ summary: Home
 <img src="https://i.imgur.com/WLYqrw8.jpg">
 
 ## News and Announcements
-<b>Opus 19 - From Nightmares Prerelease Schedule</b><br>
-Friday: <a href="about#king-kong-games">King Kong Games</a> @ 8pm <br>
-Saturday: <a href="about#anime-imports">Anime Imports</a> @ 1pm <br>
-Sunday: <a href="about#cardart">Card Art</a> @ 3:30pm <br>
-Monday: <a href="about#games-of-berkeley">Games of Berkeley</a> @ 6pm <br>
 
-<hr>
-
-<b>Congrats to King Kong and CardArt on hosting Store Championships! </b><br>
-Dates to be announced shortly
+### FFTCG Store Championship Dates
+Get ready for the return of competitive Organized Play with Store Championships this summer! <br><br>
+<a href="about#cardart">Card Art</a>: June 17 <br>
+<a href="about#king-kong-games">King Kong Games</a>: August 12 <br><br>
 
 <hr>
 
