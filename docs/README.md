@@ -16,6 +16,8 @@ summary: Home
 
 ## News and Announcements
 
+<a href="about#king-kong-games">King Kong Games</a> will not be hosting events the next two weeks (5/26 and 6/2) due to Fanime and the California Materia Cup
+
 ### FFTCG Store Championship Dates
 Get ready for the return of competitive Organized Play with Store Championships this summer! <br><br>
 <a href="about#cardart">Card Art</a>: June 17 <br>

@@ -1,7 +1,9 @@
-<template><div><h2 id="official-fb-page-and-discord" tabindex="-1"><a class="header-anchor" href="#official-fb-page-and-discord" aria-hidden="true">#</a> Official FB Page and Discord</h2>
+<template><div><h2 id="official-social-media" tabindex="-1"><a class="header-anchor" href="#official-social-media" aria-hidden="true">#</a> Official Social Media</h2>
 <ul>
 <li><a href="https://www.facebook.com/groups/FFTCGSF/" > https://www.facebook.com/groups/FFTCGSF/</a></li>
+<li><a href="https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q" > https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q</a></li>
 <li><a href="https://discord.com/channels/774817833485205504/1011667390733500457" > https://discord.com/channels/774817833485205504/1011667390733500457</a></li>
+<li><a href="https://twitter.com/fftcgbayarea" > https://twitter.com/fftcgbayarea</a></li>
 </ul>
 <h2 id="useful-resourcses" tabindex="-1"><a class="header-anchor" href="#useful-resourcses" aria-hidden="true">#</a> <a href="https://www.facebook.com/legacy/notes/641632642707443/" >Useful Resourcses</a></h2>
 <h3 id="organized-play" tabindex="-1"><a class="header-anchor" href="#organized-play" aria-hidden="true">#</a> Organized Play:</h3>
@@ -23,6 +25,12 @@
 <li>
 <p><strong>Differences in Opus Waves</strong> - <a href="http://fftcg.boards.net/thread/18/differences-opus-wave-printing-waves"> http://fftcg.boards.net/thread/18/differences-opus-wave-printing-waves</a></p>
 </li>
+</ul>
+<h3 id="blogs" tabindex="-1"><a class="header-anchor" href="#blogs" aria-hidden="true">#</a> <strong>Blogs</strong></h3>
+<ul>
+<li><strong>alex9gurapan</strong> - <a href="https://note.com/alex9gurapan/"> https://note.com/alex9gurapan/</a></li>
+<li><strong>hjgm</strong> - <a href="https://hjgm.net/archives/category/fftcg"> https://hjgm.net/archives/category/fftcg</a></li>
+<li><strong>fftcgcrystarium</strong> - <a href="https://fftcgcrystarium.com/"> https://fftcgcrystarium.com/</a></li>
 </ul>
 <h3 id="official-website" tabindex="-1"><a class="header-anchor" href="#official-website" aria-hidden="true">#</a> <strong>Official Website:</strong></h3>
 <ul>
@@ -72,7 +80,6 @@
 </ul>
 <h3 id="social-media-and-streams" tabindex="-1"><a class="header-anchor" href="#social-media-and-streams" aria-hidden="true">#</a> Social Media and Streams:</h3>
 <ul>
-<li>YouTube <a href="https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q" > https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q</a></li>
 <li>Forwards of Light Twitch <a href="https://www.twitch.tv/forwardsoflight" > https://www.twitch.tv/forwardsoflight</a></li>
 </ul>
 </div></template>

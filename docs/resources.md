@@ -8,9 +8,11 @@ contributors: false
 summary: Resources
 ---
 
-## Official FB Page and Discord
+## Official Social Media
 * <a href="https://www.facebook.com/groups/FFTCGSF/" > https://www.facebook.com/groups/FFTCGSF/</a>
+* <a href="https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q" > https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q</a>
 * <a href="https://discord.com/channels/774817833485205504/1011667390733500457" > https://discord.com/channels/774817833485205504/1011667390733500457</a>
+* <a href="https://twitter.com/fftcgbayarea" > https://twitter.com/fftcgbayarea</a>
 
 ##  <a href="https://www.facebook.com/legacy/notes/641632642707443/" >Useful Resourcses</a>
 ### Organized Play:
@@ -23,7 +25,12 @@ summary: Resources
 * **All Star Cube Draft List (Japanese)** - <a href="http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html"> http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html</a>
   
 * **Differences in Opus Waves** - <a href="http://fftcg.boards.net/thread/18/differences-opus-wave-printing-waves"> http://fftcg.boards.net/thread/18/differences-opus-wave-printing-waves</a>
-  
+
+### **Blogs**
+* **alex9gurapan** - <a href="https://note.com/alex9gurapan/"> https://note.com/alex9gurapan/</a>
+* **hjgm** - <a href="https://hjgm.net/archives/category/fftcg"> https://hjgm.net/archives/category/fftcg</a>
+* **fftcgcrystarium** - <a href="https://fftcgcrystarium.com/"> https://fftcgcrystarium.com/</a>
+
 ### **Official Website:**
 * **FFTCG NA** - <a href="https://www.fftradingcardgame.com/na"> https://www.fftradingcardgame.com/na</a>
 * **FFTCG JP** - <a href="http://www.square-enix-shop.com/jp/ff-tcg/index.html"> http://www.square-enix-shop.com/jp/ff-tcg/index.html</a>
@@ -56,5 +63,4 @@ summary: Resources
 * TCG Player - <a href="http://shop.tcgplayer.com/final-fantasy-tcg"> http://shop.tcgplayer.com/final-fantasy-tcg</a>
 
 ### Social Media and Streams:
-* YouTube <a href="https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q" > https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q</a>
 * Forwards of Light Twitch <a href="https://www.twitch.tv/forwardsoflight" > https://www.twitch.tv/forwardsoflight</a>

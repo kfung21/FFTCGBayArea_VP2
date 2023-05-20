@@ -5,6 +5,7 @@ export const pagesRoutes = [
   ["v-8daa1a0e","/",{"_blog":{},"title":"Home"},["/index.html","/README.md"]],
   ["v-68dc5d0d","/resources.html",{"_blog":{},"title":"Resources"},["/resources","/resources.md"]],
   ["v-04663d7e","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html",{"_blog":{},"title":"Draft Guide for FFTCG"},["/blog/2022-12-8_Draft_Guide_FFTCG_Updated","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.md"]],
+  ["v-62aa03f6","/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html",{"_blog":{},"title":"King Kong FFTCG Winter Reunion"},["/blog/2023-01-28_King_Kong_Winter_Reunion_Recap","/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.md"]],
   ["v-739cea7d","/blog/2023-03-10_FFTCG_ChatGPT.html",{"_blog":{},"title":"Final Fantasy TCG Q&A with Chat GPT"},["/blog/2023-03-10_FFTCG_ChatGPT","/blog/2023-03-10_FFTCG_ChatGPT.md"]],
   ["v-145ac574","/blog/",{"_blog":{},"title":"Blog"},["/blog/index.html","/blog/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],

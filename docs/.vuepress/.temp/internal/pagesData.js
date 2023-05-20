@@ -11,6 +11,8 @@ export const pagesData = {
   "v-68dc5d0d": () => import(/* webpackChunkName: "v-68dc5d0d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/resources.html.js").then(({ data }) => data),
   // path: /blog/2022-12-8_Draft_Guide_FFTCG_Updated.html
   "v-04663d7e": () => import(/* webpackChunkName: "v-04663d7e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html.js").then(({ data }) => data),
+  // path: /blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html
+  "v-62aa03f6": () => import(/* webpackChunkName: "v-62aa03f6" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html.js").then(({ data }) => data),
   // path: /blog/2023-03-10_FFTCG_ChatGPT.html
   "v-739cea7d": () => import(/* webpackChunkName: "v-739cea7d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-03-10_FFTCG_ChatGPT.html.js").then(({ data }) => data),
   // path: /blog/
