@@ -10,7 +10,7 @@ summary: Resources
 
 ## Official Social Media
 * <a href="https://www.facebook.com/groups/FFTCGSF/" > https://www.facebook.com/groups/FFTCGSF/</a>
-* <a href="https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q" > https://www.youtube.com/channel/UCtYxB64TqNxj5aBioubqG7Q</a>
+* <a href="https://www.youtube.com/channel/@fftcgbayarea" > https://www.youtube.com/@fftcgbayarea</a>
 * <a href="https://discord.com/channels/774817833485205504/1011667390733500457" > https://discord.com/channels/774817833485205504/1011667390733500457</a>
 * <a href="https://twitter.com/fftcgbayarea" > https://twitter.com/fftcgbayarea</a>
 
