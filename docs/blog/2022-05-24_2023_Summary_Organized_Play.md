@@ -29,8 +29,8 @@ summary: Overview of OP 2023
 
 ### UK (5/19/2023)
 * Cardiff Decklists <a href="https://ffdecks.com/tournament/materia-cup-cardiff/6356825025806336">[FFDecks]</a>
-* Cardiff Day 2 Video <a href="https://m.twitch.tv/videos/1825498891">[Twitch]</a>
-* Cardiff Day 1 Video <a href="https://m.twitch.tv/videos/1824678231">[Twitch]</a>
+* Cardiff Day 2 Video <a href="https://www.youtube.com/watch?v=SJZsIFsyQBc">[YouTube]</a>
+* Cardiff Day 1 Video <a href="https://www.youtube.com/watch?v=-2We_Euniyw">[YouTube]</a>
   
 ### Florida (4/21/2023)
 * Haven's Games Decklists <a href="https://ffdecks.com/tournament/materia-cup-2023-florida/5676592803086336">[FFDecks]</a>
