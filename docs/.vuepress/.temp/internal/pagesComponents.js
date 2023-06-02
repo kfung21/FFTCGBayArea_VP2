@@ -11,8 +11,8 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /resources.html
   "v-68dc5d0d": defineAsyncComponent(() => import(/* webpackChunkName: "v-68dc5d0d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/resources.html.vue")),
-  // path: /blog/2022-05-24_2023%20Organized%20Play.html
-  "v-249c1e62": defineAsyncComponent(() => import(/* webpackChunkName: "v-249c1e62" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-05-24_2023 Organized Play.html.vue")),
+  // path: /blog/2022-05-24_2023_Summary_Organized_Play.html
+  "v-e7f8edc4": defineAsyncComponent(() => import(/* webpackChunkName: "v-e7f8edc4" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-05-24_2023_Summary_Organized_Play.html.vue")),
   // path: /blog/2022-12-8_Draft_Guide_FFTCG_Updated.html
   "v-04663d7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-04663d7e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html.vue")),
   // path: /blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html

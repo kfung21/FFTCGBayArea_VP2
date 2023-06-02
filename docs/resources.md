@@ -17,11 +17,12 @@ summary: Resources
 ##  <a href="https://www.facebook.com/legacy/notes/641632642707443/" >Useful Resourcses</a>
 ### Organized Play:
 * **FFTCG Organized Play Ticket:**<a href="https://play.fftradingcardgame.com/"> https://play.fftradingcardgame.com/</a> 
-* **SF Bay Area Shop Events** - <a href="https://www.facebook.com/notes/final-fantasy-tcg-sf-bay-area/sf-bay-area-fftcg-shop-events/655206984683342/">https://www.facebook.com/notes/final-fantasy-tcg-sf-bay-area/sf-bay-area-fftcg-shop-events/655206984683342/</a>"
+* **SF Bay Area Shop Events** - <a href="https://www.facebook.com/notes/final-fantasy-tcg-sf-bay-area/sf-bay-area-fftcg-shop-events/655206984683342/">[FB Group]</a>
+* **Deck Registration Sheet (Fillable)** - <a href="https://drive.google.com/file/d/173nMuJ5lLxTsRViw2fqfUQRr6XPOTXtr/view?usp=drive_link">[GDrive]</a>
   
 ### **Deck and Collection Tools:**
 * **FF Decks** - <a href="http://ffdecks.com"> http://ffdecks.com</a>
-* **FFTCG Cube Draft** - <a href="https://www.fftcg-cube-draft.com/"> https://www.fftcg-cube-draft.com/</a>"
+* **FFTCG Cube Draft** - <a href="https://www.fftcg-cube-draft.com/"> https://www.fftcg-cube-draft.com/</a>
 * **All Star Cube Draft List (Japanese)** - <a href="http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html"> http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html</a>
   
 * **Differences in Opus Waves** - <a href="http://fftcg.boards.net/thread/18/differences-opus-wave-printing-waves"> http://fftcg.boards.net/thread/18/differences-opus-wave-printing-waves</a>
