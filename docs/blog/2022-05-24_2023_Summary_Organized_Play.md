@@ -16,6 +16,14 @@ summary: Overview of OP 2023
 (UPDATED May 2023) <br>
 
 ## Materia Cups
+### France (6/9/2023)
+* Majestik Decklists (Top 16) <a href="https://ffdecks.com/tournament/paris-materia-cup/6052563737640960">[FFDecks]</a>
+* Majestik Day 2 Video <a href="https://youtu.be/UdiZNVVlDYo">[YouTube]</a>
+* Majestik Day 1 Video <a href="https://youtu.be/eOcUFxKJs8Y">[YouTube]</a>
+
+### California (6/2/2023)
+* Tabletop Tavern Decklists (Top 16) <a href="https://ffdecks.com/tournament/tabletop-tavern-materia-cup-san-diego/6569293903822848">[FFDecks]</a>
+  
 ### Kansas (5/19/2023)
 * Collector's Cache Day 2 Decklists (Top 16) <a href="https://www.ffdecks.com/tournament/materia-cup-kansas-2023-1st-16th/6603602874335232">[FFDecks]</a>
 * Collector's Cache Day 2 Decklists (Top 32) <a href="https://www.ffdecks.com/tournament/materia-cup-kansas-2023-17th-32nd/6660674701754368">[FFDecks]</a>
@@ -43,9 +51,33 @@ summary: Overview of OP 2023
 
 
 ## Store Championships
+###  Colorado (6/10/23)
+* Level 7 Games Decklists <a href="https://ffdecks.com/tournament/denver-store-championship-top-8/6408081199071232">[FFDecks]</a>
+###  Florida (6/10/23)
+* Unfun Stuff Games Decklists <a href="https://ffdecks.com/tournament/miami-store-championship-unfun-stuff/6232159338627072">[FFDecks]</a>
+###  Australia (6/10/23)
+* Good Games Adelaide Decklists <a href="https://ffdecks.com/tournament/store-championship-gga/4962536672722944">[FFDecks]</a>
+###  Canada (6/9/23)
+* Action Packed Comics Decklists <a href="https://ffdecks.com/tournament/action-packed-store-championship/6421918711283712">[FFDecks]</a>
+###  Michigan (6/9/23)
+* Gamer's Gauntlet Decklists <a href="https://ffdecks.com/tournament/gamers-gauntlet-store-championship/4794940371501056">[FFDecks]</a>
+###  Australia (6/5/23)
+* Plenty of Games Decklists <a href="https://ffdecks.com/tournament/plenty-of-games-store-championship/5172603254734848">[FFDecks]</a>
+###  Italy (6/3/23)
+* Paiolo Decklists <a href="https://ffdecks.com/tournament/storecampionship-roma-il-paiolo-ludopub/5989215251726336">[FFDecks]</a>
 ###  Japan (5/27/23)
 * Announcement <a href="https://twitter.com/FFTCG_SQEX/status/1660492565987352576">[Twitter]</a>
 * Video <a href="https://www.youtube.com/live/v3LZadWHOwE?feature=share">[YouTube]</a>
+###  Minnesota (5/27/23)
+* Table Top Tournaments Decklists <a href="https://ffdecks.com/tournament/minnesota-store-championship/5911012487200768">[FFDecks]</a>
+###  Idaho (5/26/23)
+* DSG Decklists <a href="https://ffdecks.com/tournament/dsg-boise-id-store-championship/5741255582547968">[FFDecks]</a>
+###  Canada (5/26/23)
+* Red Dragon Decklists <a href="https://ffdecks.com/tournament/ottawa-store-championship/6584336322134016">[FFDecks]</a>
+###  Netherlands (5/26/23)
+* Arnhem Decklists <a href="https://ffdecks.com/tournament/store-championship-arnhem/4724500156383232">[FFDecks]</a>
+###  Australia (5/26/23)
+* Akikambera Decklists <a href="https://ffdecks.com/tournament/store-championships-akikambera-act/5372949721776128">[FFDecks]</a>
 ###  California (5/13/23)
 * Top Deck Keep Decklists <a href="https://ffdecks.com/tournament/store-championship-top-deck-keep-ca/4865549096976384">[FFDecks]</a>
 ### Georgia (5/6/23)
