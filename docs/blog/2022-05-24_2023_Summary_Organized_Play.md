@@ -13,7 +13,7 @@ summary: Overview of OP 2023
 
 # SUMMARY OF ORGANIZED PLAY 2023
 
-(UPDATED May 2023) <br>
+(UPDATED June 2023) <br>
 
 ## Materia Cups
 ### France (6/9/2023)
