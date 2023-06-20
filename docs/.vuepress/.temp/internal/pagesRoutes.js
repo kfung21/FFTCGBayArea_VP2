@@ -8,6 +8,7 @@ export const pagesRoutes = [
   ["v-04663d7e","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html",{"_blog":{},"title":"Draft Guide for FFTCG"},["/blog/2022-12-8_Draft_Guide_FFTCG_Updated","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.md"]],
   ["v-62aa03f6","/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html",{"_blog":{},"title":"King Kong FFTCG Winter Reunion"},["/blog/2023-01-28_King_Kong_Winter_Reunion_Recap","/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.md"]],
   ["v-739cea7d","/blog/2023-03-10_FFTCG_ChatGPT.html",{"_blog":{},"title":"Final Fantasy TCG Q&A with Chat GPT"},["/blog/2023-03-10_FFTCG_ChatGPT","/blog/2023-03-10_FFTCG_ChatGPT.md"]],
+  ["v-1670bc3b","/blog/2023-06-19_BennyCardArtTop8Report.html",{"_blog":{},"title":"CardArt FFTCG Store Championships Journey with Skyborne Legacy Deck"},["/blog/2023-06-19_BennyCardArtTop8Report","/blog/2023-06-19_BennyCardArtTop8Report.md"]],
   ["v-145ac574","/blog/",{"_blog":{},"title":"Blog"},["/blog/index.html","/blog/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

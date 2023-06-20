@@ -19,6 +19,8 @@ export const pagesComponents = {
   "v-62aa03f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-62aa03f6" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html.vue")),
   // path: /blog/2023-03-10_FFTCG_ChatGPT.html
   "v-739cea7d": defineAsyncComponent(() => import(/* webpackChunkName: "v-739cea7d" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-03-10_FFTCG_ChatGPT.html.vue")),
+  // path: /blog/2023-06-19_BennyCardArtTop8Report.html
+  "v-1670bc3b": defineAsyncComponent(() => import(/* webpackChunkName: "v-1670bc3b" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-06-19_BennyCardArtTop8Report.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /404.html

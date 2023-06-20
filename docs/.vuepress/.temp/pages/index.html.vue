@@ -2,7 +2,6 @@
 <h3 id="home-of-the-bay-area-espers" tabindex="-1"><a class="header-anchor" href="#home-of-the-bay-area-espers" aria-hidden="true">#</a> <center>Home of the Bay Area Espers!</center> <br></h3>
 <img src="https://i.imgur.com/WLYqrw8.jpg">
 <h2 id="news-and-announcements" tabindex="-1"><a class="header-anchor" href="#news-and-announcements" aria-hidden="true">#</a> News and Announcements</h2>
-<p><a href="about#king-kong-games">King Kong Games</a> will not be hosting events the next two weeks (5/26 and 6/2) due to Fanime and the California Materia Cup</p>
 <h3 id="fftcg-store-championship-dates" tabindex="-1"><a class="header-anchor" href="#fftcg-store-championship-dates" aria-hidden="true">#</a> FFTCG Store Championship Dates</h3>
 <p>Get ready for the return of competitive Organized Play with Store Championships this summer! <br><br>
 <a href="about#cardart">Card Art</a>: June 17 <br>

@@ -51,6 +51,11 @@ summary: Overview of OP 2023
 
 
 ## Store Championships
+###  California (6/17/23)
+* CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
+###  Germany (6/16/23)
+* Kinder- und Jugendfreizeithaus CORN (Top 16) Decklists <a href="https://ffdecks.com/tournament/store-championship-berlin-1-16/6022934771531776">[FFDecks]</a>
+* Kinder- und Jugendfreizeithaus CORN (Top 28) Decklists <a href="https://ffdecks.com/tournament/store-championship-berlin-17-28/5413264700735488">[FFDecks]</a>
 ###  Colorado (6/10/23)
 * Level 7 Games Decklists <a href="https://ffdecks.com/tournament/denver-store-championship-top-8/6408081199071232">[FFDecks]</a>
 ###  Florida (6/10/23)
