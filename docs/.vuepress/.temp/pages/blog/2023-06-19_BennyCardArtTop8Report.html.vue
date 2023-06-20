@@ -1,4 +1,6 @@
-<template><div><TagLinks /><h2 id="background" tabindex="-1"><a class="header-anchor" href="#background" aria-hidden="true">#</a> Background</h2>
+<template><div><TagLinks /><p>By: Benny Soo <br>
+(Jun. 2023)</p>
+<h2 id="background" tabindex="-1"><a class="header-anchor" href="#background" aria-hidden="true">#</a> Background</h2>
 <p>Greetings, Final Fantasy TCG enthusiasts! I'm Benny Soo <em>(no, not the Nationals-bound Benny Chan from my local gaming circle)</em>. I'm thrilled to share my recent journey to the Top 8 at the Store Championships at CardArt in Sunnyvale, CA on 6/17/23, which saw a turnout of 27 players, primarily locals with a smattering from across California.</p>
 <img src="https://i.imgur.com/zFWa3V9.jpg"/>
 <h2 id="the-deck" tabindex="-1"><a class="header-anchor" href="#the-deck" aria-hidden="true">#</a> The Deck</h2>

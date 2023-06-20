@@ -12,6 +12,10 @@ summary: CardArt FFTCG Store Championships Journey with Skyborne Legacy Deck
 ---
 <TagLinks />
 
+By: Benny Soo <br>
+(Jun. 2023) 
+
+
 ## Background
 
 Greetings, Final Fantasy TCG enthusiasts! I'm Benny Soo *(no, not the Nationals-bound Benny Chan from my local gaming circle)*. I'm thrilled to share my recent journey to the Top 8 at the Store Championships at CardArt in Sunnyvale, CA on 6/17/23, which saw a turnout of 27 players, primarily locals with a smattering from across California.
