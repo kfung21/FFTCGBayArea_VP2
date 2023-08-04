@@ -18,8 +18,8 @@ summary: Home
 
 ### FFTCG Store Championship Dates
 Get ready for the return of competitive Organized Play with Store Championships this summer! <br><br>
-<a href="about#cardart">Card Art</a>: June 17 <br>
-<a href="about#king-kong-games">King Kong Games</a>: August 12 <br><br>
+<a href="about#king-kong-games">King Kong Games</a>: Saturday, August 12 <br><br>
+* Tickets to be sold at the door. Everyone admitted
 
 <hr>
 
