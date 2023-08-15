@@ -16,12 +16,6 @@ summary: Home
 
 ## News and Announcements
 
-### FFTCG Store Championship Dates
-Get ready for the return of competitive Organized Play with Store Championships this summer! <br><br>
-<a href="about#king-kong-games">King Kong Games</a>: Saturday, August 12 <br><br>
-* Tickets to be sold at the door. Everyone admitted
-
-<hr>
 
 Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
 * **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM

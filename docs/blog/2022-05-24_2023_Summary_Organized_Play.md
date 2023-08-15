@@ -51,6 +51,9 @@ summary: Overview of OP 2023
 
 
 ## Store Championships
+###  California (8/12/23)
+* King Kong Decklists <a href="https://ffdecks.com/tournament/king-kong-store-championship/4693835276877824?fbclid=IwAR0LK1hMDA40PWEaGoBXji_nMUkIKhs1_opFV3kvji4mNWvqGudCrOIFcX4">[FFDecks]</a>
+* Video <a href="https://youtube.com/playlist?list=PLFp150pyGXpAac4UoFO-lXZEnvXQdNk0w">[YouTube]</a>
 ###  California (6/17/23)
 * CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
 ###  Germany (6/16/23)
