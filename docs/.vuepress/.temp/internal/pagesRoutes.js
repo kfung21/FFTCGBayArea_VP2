@@ -9,7 +9,7 @@ export const pagesRoutes = [
   ["v-739cea7d","/blog/2023-03-10_FFTCG_ChatGPT.html",{"_blog":{},"title":"Final Fantasy TCG Q&A with Chat GPT"},["/blog/2023-03-10_FFTCG_ChatGPT","/blog/2023-03-10_FFTCG_ChatGPT.md"]],
   ["v-39bd0c06","/blog/2023-05-24_2023_Summary_Organized_Play.html",{"_blog":{},"title":"Organized Play 2023 Overview"},["/blog/2023-05-24_2023_Summary_Organized_Play","/blog/2023-05-24_2023_Summary_Organized_Play.md"]],
   ["v-1670bc3b","/blog/2023-06-19_BennyCardArtTop8Report.html",{"_blog":{},"title":"CardArt FFTCG Store Championships Journey with Skyborne Legacy Deck"},["/blog/2023-06-19_BennyCardArtTop8Report","/blog/2023-06-19_BennyCardArtTop8Report.md"]],
-  ["v-aa559032","/blog/2023-11-25_2023_StarterDecks.html",{"_blog":{},"title":"FFTCG Starter Deck Overview"},["/blog/2023-11-25_2023_StarterDecks","/blog/2023-11-25_2023_StarterDecks.md"]],
+  ["v-aa559032","/blog/2023-11-25_2023_StarterDecks.html",{"_blog":{},"title":"FFTCG Starter Decks"},["/blog/2023-11-25_2023_StarterDecks","/blog/2023-11-25_2023_StarterDecks.md"]],
   ["v-145ac574","/blog/",{"_blog":{},"title":"Blog"},["/blog/index.html","/blog/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
