@@ -43,6 +43,11 @@
 <li>Wonderland Games Decklists <a href="https://ffdecks.com/tournament/materia-cup-gold-coast-23/4960497133682688">[FFDecks]</a></li>
 </ul>
 <h2 id="store-championships" tabindex="-1"><a class="header-anchor" href="#store-championships" aria-hidden="true">#</a> Store Championships</h2>
+<h3 id="california-8-12-23" tabindex="-1"><a class="header-anchor" href="#california-8-12-23" aria-hidden="true">#</a> California (8/12/23)</h3>
+<ul>
+<li>King Kong Decklists <a href="https://ffdecks.com/tournament/king-kong-store-championship/4693835276877824?fbclid=IwAR0LK1hMDA40PWEaGoBXji_nMUkIKhs1_opFV3kvji4mNWvqGudCrOIFcX4">[FFDecks]</a></li>
+<li>Video <a href="https://youtube.com/playlist?list=PLFp150pyGXpAac4UoFO-lXZEnvXQdNk0w">[YouTube]</a></li>
+</ul>
 <h3 id="california-6-17-23" tabindex="-1"><a class="header-anchor" href="#california-6-17-23" aria-hidden="true">#</a> California (6/17/23)</h3>
 <ul>
 <li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
