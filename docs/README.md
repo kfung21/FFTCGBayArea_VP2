@@ -10,8 +10,6 @@ summary: Home
 
 # <center>Final Fantasy TCG Bay Area </center>
 
-### <center>Home of the Bay Area Espers!</center> <br>
-
 <img src="https://i.imgur.com/WLYqrw8.jpg">
 
 ## News and Announcements
