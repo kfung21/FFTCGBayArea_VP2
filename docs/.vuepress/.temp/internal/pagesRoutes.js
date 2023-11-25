@@ -4,11 +4,12 @@ export const pagesRoutes = [
   ["v-270446c1","/pricecheck.html",{"_blog":{},"title":"Price Check"},["/pricecheck","/pricecheck.md"]],
   ["v-8daa1a0e","/",{"_blog":{},"title":"Home"},["/index.html","/README.md"]],
   ["v-68dc5d0d","/resources.html",{"_blog":{},"title":"Resources"},["/resources","/resources.md"]],
-  ["v-e7f8edc4","/blog/2022-05-24_2023_Summary_Organized_Play.html",{"_blog":{},"title":"Organized Play 2023 Overview"},["/blog/2022-05-24_2023_Summary_Organized_Play","/blog/2022-05-24_2023_Summary_Organized_Play.md"]],
   ["v-04663d7e","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.html",{"_blog":{},"title":"Draft Guide for FFTCG"},["/blog/2022-12-8_Draft_Guide_FFTCG_Updated","/blog/2022-12-8_Draft_Guide_FFTCG_Updated.md"]],
   ["v-62aa03f6","/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.html",{"_blog":{},"title":"King Kong FFTCG Winter Reunion"},["/blog/2023-01-28_King_Kong_Winter_Reunion_Recap","/blog/2023-01-28_King_Kong_Winter_Reunion_Recap.md"]],
   ["v-739cea7d","/blog/2023-03-10_FFTCG_ChatGPT.html",{"_blog":{},"title":"Final Fantasy TCG Q&A with Chat GPT"},["/blog/2023-03-10_FFTCG_ChatGPT","/blog/2023-03-10_FFTCG_ChatGPT.md"]],
+  ["v-39bd0c06","/blog/2023-05-24_2023_Summary_Organized_Play.html",{"_blog":{},"title":"Organized Play 2023 Overview"},["/blog/2023-05-24_2023_Summary_Organized_Play","/blog/2023-05-24_2023_Summary_Organized_Play.md"]],
   ["v-1670bc3b","/blog/2023-06-19_BennyCardArtTop8Report.html",{"_blog":{},"title":"CardArt FFTCG Store Championships Journey with Skyborne Legacy Deck"},["/blog/2023-06-19_BennyCardArtTop8Report","/blog/2023-06-19_BennyCardArtTop8Report.md"]],
+  ["v-aa559032","/blog/2023-11-25_2023_StarterDecks.html",{"_blog":{},"title":"FFTCG Starter Deck Overview"},["/blog/2023-11-25_2023_StarterDecks","/blog/2023-11-25_2023_StarterDecks.md"]],
   ["v-145ac574","/blog/",{"_blog":{},"title":"Blog"},["/blog/index.html","/blog/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
