@@ -18,6 +18,12 @@
 <p><strong>FF Decks</strong> - <a href="http://ffdecks.com"> http://ffdecks.com</a></p>
 </li>
 <li>
+<p><strong>Square Enix Card Browser</strong> - <a href="https://fftcg.square-enix-games.com/en/card-browser"> https://fftcg.square-enix-games.com/en/card-browser</a></p>
+</li>
+<li>
+<p><strong>Materia Hunter</strong> - <a href="https://materiahunter.com/"> https://materiahunter.com/</a></p>
+</li>
+<li>
 <p><strong>FFTCG Cube Draft</strong> - <a href="https://www.fftcg-cube-draft.com/"> https://www.fftcg-cube-draft.com/</a></p>
 </li>
 <li>

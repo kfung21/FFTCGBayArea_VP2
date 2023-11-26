@@ -881,8 +881,8 @@ BOSS uses the following 80 cards as a deck <br></p>
 <li>(2x) [B-053] Shalua</li>
 <li>(2x) [B-054] Restrictor</li>
 </ul>
-<h2 id="anniversary-sets" tabindex="-1"><a class="header-anchor" href="#anniversary-sets" aria-hidden="true">#</a> Anniversary Sets</h2>
-<h3 id="_2022" tabindex="-1"><a class="header-anchor" href="#_2022" aria-hidden="true">#</a> 2022</h3>
+<h2 id="collection-sets" tabindex="-1"><a class="header-anchor" href="#collection-sets" aria-hidden="true">#</a> Collection Sets</h2>
+<h3 id="anniversary-2022" tabindex="-1"><a class="header-anchor" href="#anniversary-2022" aria-hidden="true">#</a> Anniversary 2022</h3>
 <p>Fire/Water Starter Deck</p>
 <p>Forwards (27)</p>
 <ul>
@@ -1008,6 +1008,59 @@ Fire</p>
 <li>(3x) [1-183H] Cosmos</li>
 <li>(3x) [1-184H] Chaos</li>
 </ul>
+<h3 id="dissidia-2023" tabindex="-1"><a class="header-anchor" href="#dissidia-2023" aria-hidden="true">#</a> Dissidia 2023</h3>
+<p>Starter Cards</p>
+<p>Fire</p>
+<ul>
+<li>(3x) [21-125S] Onion Knight</li>
+<li>(3x) [21-126S] Cloud</li>
+<li>(3x) [21-127S] Firion</li>
+</ul>
+<p>Ice</p>
+<ul>
+<li>(3x) [21-128S] Shantotto</li>
+<li>(3x) [21-129S] Terra</li>
+<li>(3x) [21-130S] Noctis</li>
+</ul>
+<p>Wind</p>
+<ul>
+<li>(3x) [21-131S] Warrior of Light</li>
+<li>(3x) [21-132S] Cecil</li>
+<li>(3x) [21-133S] Tidus</li>
+</ul>
+<p>Light</p>
+<ul>
+<li>(3x) [21-134S] Bartz</li>
+</ul>
+<p>※1 of the cards is a Full Art Standard card.</p>
+<p>Reprinted Legendary Cards</p>
+<ul>
+<li>(2x) [6-044L] Zidane</li>
+<li>(2x) [10-033L] Squall
+※Both cards are Standard cards with frames.</li>
+</ul>
+<p>DISSIDIA FINAL FANTASY 4th Anniversary Illustration Cards</p>
+<ul>
+<li>(2x) [12-052H] Bartz</li>
+<li>(2x) [12-121R] Noctis</li>
+<li>(2x) [13-081H] Lightning</li>
+<li>(2x) [13-106H] Onion Knight</li>
+<li>(2x) [13-121R] Ramza</li>
+<li>(2x) [14-065L] Cloud</li>
+<li>(2x) [14-125L] Vaan</li>
+<li>(2x) [15-037L] Terra</li>
+<li>(2x) [16-030L] Shantotto</li>
+<li>(2x) [16-051L] Cecil</li>
+<li>(2x) [16-116L] Tidus</li>
+<li>(2x) [16-127L] Warrior of Light</li>
+<li>(2x) [18-130L] Firion</li>
+<li>(2x) [19-002L] Ace</li>
+<li>(2x) [19-108L] Zidane</li>
+<li>(2x) [PR-108] Squall</li>
+<li>(2x) [21-036H] Y’shtola</li>
+</ul>
+<p>※There are 18 cards in total, including 1 Full Art Standard card for each card and 1 Premium Framed card of Y'shtola [21-036H].
+◆Crystal cards: 2 types, 1 each</p>
 </div></template>
 
 

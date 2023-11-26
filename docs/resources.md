@@ -22,6 +22,8 @@ summary: Resources
   
 ### **Deck and Collection Tools:**
 * **FF Decks** - <a href="http://ffdecks.com"> http://ffdecks.com</a>
+* **Square Enix Card Browser** - <a href="https://fftcg.square-enix-games.com/en/card-browser"> https://fftcg.square-enix-games.com/en/card-browser</a>
+* **Materia Hunter** - <a href="https://materiahunter.com/"> https://materiahunter.com/</a>
 * **FFTCG Cube Draft** - <a href="https://www.fftcg-cube-draft.com/"> https://www.fftcg-cube-draft.com/</a>
 * **All Star Cube Draft List (Japanese)** - <a href="http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html"> http://www.square-enix-shop.com/jp/ff-tcg/rules/all_draft.html</a>
   
