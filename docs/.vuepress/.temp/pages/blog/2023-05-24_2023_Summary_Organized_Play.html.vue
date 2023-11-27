@@ -13,7 +13,7 @@
 <h3 id="north-carolina-6-2-2023" tabindex="-1"><a class="header-anchor" href="#north-carolina-6-2-2023" aria-hidden="true">#</a> North Carolina (6/2/2023)</h3>
 <ul>
 <li>Game Theory Decklists (Top 16) <a href="https://ffdecks.com/tournament/raleigh-materia-cup-2023/5879087525527552">[FFDecks]</a></li>
-<li>Day 2 Video <a href="https://youtu.be/d4oxj-qebVw">[YouTube]</a></li>
+<li>Day 2 Video <a href="https://youtu.be/YL-ZRhDVkX4">[YouTube]</a></li>
 <li>Day 1 Video <a href="https://youtu.be/DhyXXfsFKv4">[YouTube]</a></li>
 </ul>
 <h3 id="texas-6-24-2023" tabindex="-1"><a class="header-anchor" href="#texas-6-24-2023" aria-hidden="true">#</a> Texas (6/24/2023)</h3>

@@ -205,7 +205,7 @@
 </ul>
 <hr>
 <h3 id="opus-viii-2019" tabindex="-1"><a class="header-anchor" href="#opus-viii-2019" aria-hidden="true">#</a> Opus VIII (2019)</h3>
-<img src="https://i.imgur.com/FBoW1w3.jpg" height=320> 
+<img src="https://i.imgur.com/FBoW1w3.jpg"> 
 <p><a href="https://fftcg.boards.net/thread/649/starter-deck-lists">Mar 2019</a></p>
 <p><strong>FFVII Earth/Wind Starter Deck</strong> <br></p>
 <p>Deck list</p>
@@ -233,7 +233,7 @@
 <li>(3x) [8-143S] Cloud</li>
 <li>(3x) [8-145S] Barrett</li>
 </ul>
-<img src="https://i.imgur.com/O2xegQF.jpg" height=320>
+<img src="https://i.imgur.com/O2xegQF.jpg">
 <p><strong>FFXIV Fire/Lightning Starter Deck</strong></p>
 <p>Deck list</p>
 <ul>
@@ -262,7 +262,7 @@
 </ul>
 <h2 id="customizeable-decks" tabindex="-1"><a class="header-anchor" href="#customizeable-decks" aria-hidden="true">#</a> Customizeable Decks</h2>
 <h3 id="ffx-2022" tabindex="-1"><a class="header-anchor" href="#ffx-2022" aria-hidden="true">#</a> FFX (2022)</h3>
-<img src="https://i.imgur.com/1jhiLcV.jpg" height=320>
+<img src="https://i.imgur.com/1jhiLcV.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/fftcg-custom-starter-set-final-fantasy-x-first-look">Feb 2022</a></p>
 <p><strong>Starter deck</strong></p>
 <p>Forwards (27)</p>
@@ -318,7 +318,7 @@ Summons (5)</li>
 <li>(3x) [16-140S] Sin</li>
 </ul>
 <h3 id="ff-xiii-2023" tabindex="-1"><a class="header-anchor" href="#ff-xiii-2023" aria-hidden="true">#</a> FF XIII (2023)</h3>
-<img src="https://i.imgur.com/8pM8Gmx.jpg" height=320>
+<img src="https://i.imgur.com/8pM8Gmx.jpg">
 <p><a href ="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-xiii-custom-starter-set-and-from-nightmares-booster-pack">Feb 2023</a></p>
 <p><strong>Default Starter Deck</strong>  <br>
 Forwards (23)</p>
@@ -407,7 +407,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <h2 id="two-player-decks" tabindex="-1"><a class="header-anchor" href="#two-player-decks" aria-hidden="true">#</a> Two Player Decks</h2>
 <h3 id="villains-heroes-2018" tabindex="-1"><a class="header-anchor" href="#villains-heroes-2018" aria-hidden="true">#</a> Villains &amp; Heroes (2018)</h3>
-<img src="https://i.imgur.com/F3RVxxB.jpg" height=320>
+<img src="https://i.imgur.com/F3RVxxB.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/release/opus-vii">Nov 2018</a></p>
 <p><strong>Villains</strong></p>
 <ul>
@@ -458,7 +458,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [7-136S] Y´shtola</li>
 </ul>
 <h3 id="wraith-vs-knight-2019" tabindex="-1"><a class="header-anchor" href="#wraith-vs-knight-2019" aria-hidden="true">#</a> Wraith vs Knight (2019)</h3>
-<img src="https://i.imgur.com/yd5m39R.jpg" height=320>
+<img src="https://i.imgur.com/yd5m39R.jpg">
 <p><a href="https://press.na.square-enix.com/FINAL-FANTASY-TRADING-CARD-GAME-WRAITH-VS-KNIGHT-2-PLAYER-STARTER-SET-">Sep 2019</a></p>
 <p><strong>Wraith Deck</strong> [Fire/Earth]</p>
 <ul>
@@ -506,7 +506,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <img src="https://i.imgur.com/DSKilz9.jpg">
 <h3 id="cloud-vs-sephiroth-2020" tabindex="-1"><a class="header-anchor" href="#cloud-vs-sephiroth-2020" aria-hidden="true">#</a> Cloud vs Sephiroth (2020)</h3>
-<img src="https://i.imgur.com/DSKilz9.jpg" height=320>
+<img src="https://i.imgur.com/DSKilz9.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/cloud-vs-sephiroth-two-player-starter-set-full-reveal">Feb 2020</a></p>
 <p><strong>Cloud Deck</strong></p>
 <ul>
@@ -551,7 +551,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [11-140S] Kadaj</li>
 </ul>
 <h3 id="shadowbringers-2021" tabindex="-1"><a class="header-anchor" href="#shadowbringers-2021" aria-hidden="true">#</a> Shadowbringers (2021)</h3>
-<img src="https://i.imgur.com/pIX86Gv.jpg" height=320>
+<img src="https://i.imgur.com/pIX86Gv.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/final-fantasy-xiv-shadowbringers-two-player-starter-cards-reveal">Feb 2021</a></p>
 <p><strong>The Crystal Exarch Deck (Earth/Lightning)</strong></p>
 <ul>
@@ -598,7 +598,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [4-043C] Flan</li>
 </ul>
 <h3 id="avalanche-vs-shinra-2021" tabindex="-1"><a class="header-anchor" href="#avalanche-vs-shinra-2021" aria-hidden="true">#</a> Avalanche vs Shinra (2021)</h3>
-<img src="https://i.imgur.com/Ewc19aV.jpg" height=320>
+<img src="https://i.imgur.com/Ewc19aV.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/avalanche-vs-shinra-two-player-starter-set">Oct 2021</a></p>
 <p><strong>Avalanche Deck</strong></p>
 <p>Forwards (26)</p>
@@ -662,7 +662,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [6-038R] Hades</li>
 </ul>
 <h3 id="golbez-vs-cecil-2022" tabindex="-1"><a class="header-anchor" href="#golbez-vs-cecil-2022" aria-hidden="true">#</a> Golbez vs Cecil (2022)</h3>
-<img src="https://i.imgur.com/e9sfVOt.jpg" height=320>
+<img src="https://i.imgur.com/e9sfVOt.jpg">
 <p><a href="https://fftcg.square-enix-games.com/na/news/new-booster-and-starter-sets-rebellion-s-call-and-golbez-vs-cecil">Jul 2022</a></p>
 <p><strong>Golbez Deck</strong></p>
 <p>Forwards (23)</p>
@@ -726,7 +726,7 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(2x) [2-133R] Cuchulainn, the Impure</li>
 </ul>
 <h3 id="noctis-vs-ardyn-2022" tabindex="-1"><a class="header-anchor" href="#noctis-vs-ardyn-2022" aria-hidden="true">#</a> Noctis vs. Ardyn (2022)</h3>
-<img src="https://i.imgur.com/nFX2pjz.jpg" height=320>
+<img src="https://i.imgur.com/nFX2pjz.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/new-product-information-noctis-vs-ardyn-two-player-starter-set-resurgence-of-power-booster-pack">Oct 2022</a></p>
 <p>Noctis Deck
 Forwards (26)</p>
@@ -791,7 +791,7 @@ Forwards (26)</p>
 </ul>
 <h2 id="multi-player-boss-decks" tabindex="-1"><a class="header-anchor" href="#multi-player-boss-decks" aria-hidden="true">#</a> Multi Player Boss Decks</h2>
 <h3 id="chaos-2021" tabindex="-1"><a class="header-anchor" href="#chaos-2021" aria-hidden="true">#</a> Chaos (2021)</h3>
-<img src="https://i.imgur.com/IuxnYgN.jpg" height=320>
+<img src="https://i.imgur.com/IuxnYgN.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/so-who-s-the-boss">Mar 2021</a></p>
 <p>Starting Cards
 The following 3 cards will start the game with them placed on the BOSS field at the start of the game. (Common to difficulty NORMAL / HARD)</p>
@@ -852,7 +852,7 @@ If you want to play with HARD difficulty , replace all the cards marked with ★
 <li>(2x) [B-027] Zalera, the Death Seraph</li>
 </ul>
 <h3 id="ff-vii-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-2023" aria-hidden="true">#</a> FF VII (2023)</h3>
-<img src="https://i.imgur.com/IiGoIEx.jpg" height=320>
+<img src="https://i.imgur.com/IiGoIEx.jpg">
 <p><a href="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-vii-boss-deck">Jan 2023</a></p>
 <p>NORMAL/HARD</p>
 <ul>
@@ -912,7 +912,7 @@ BOSS uses the following 80 cards as a deck <br></p>
 </ul>
 <h2 id="collection-sets" tabindex="-1"><a class="header-anchor" href="#collection-sets" aria-hidden="true">#</a> Collection Sets</h2>
 <h3 id="anniversary-2022" tabindex="-1"><a class="header-anchor" href="#anniversary-2022" aria-hidden="true">#</a> Anniversary (2022)</h3>
-<img src="https://i.imgur.com/jNYQXCn.jpg" height=320>
+<img src="https://i.imgur.com/jNYQXCn.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/anniversary-collection-set-2022-full-card-list">May 2022</a></p>
 <p>Fire/Water Starter Deck</p>
 <p>Forwards (27)</p>
@@ -1040,7 +1040,7 @@ Fire</p>
 <li>(3x) [1-184H] Chaos</li>
 </ul>
 <h3 id="dissidia-2023" tabindex="-1"><a class="header-anchor" href="#dissidia-2023" aria-hidden="true">#</a> Dissidia (2023)</h3>
-<img src="https://i.imgur.com/rEBwSYw.jpg" height=320>
+<img src="https://i.imgur.com/rEBwSYw.jpg">
 <p><a href="https://fftcg.square-enix-games.com/en/news/dissidia-final-fantasy-collection-set-2023">Oct 2023</a></p>
 <p><strong>Starter Cards</strong></p>
 <p>Fire</p>
@@ -1121,7 +1121,7 @@ Fire</p>
 ◆Crystal cards: 2 types, 1 each</p>
 <h2 id="special-sets" tabindex="-1"><a class="header-anchor" href="#special-sets" aria-hidden="true">#</a> Special Sets</h2>
 <h3 id="ff-vii-noir-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-noir-2023" aria-hidden="true">#</a> FF VII Noir (2023)</h3>
-<img src="https://i.imgur.com/wWImG3l.jpg" height=320>
+<img src="https://i.imgur.com/wWImG3l.jpg">
 <p><a href="http://redirect.viglink.com/?key=f846cd2f542a5d478a743d8ee8173d7d&subId=6694769&u=https%3A//m.facebook.com/story.php%3Fstory_fbid%3Dpfbid02i5ofbTqPSj9n6p7J6rwaAcLij9iMMCmGiuPvSNoMX2gkavKyx8QswZpMThY1XWb4l%26id%3D100045469401301%26mibextid%3DNif5oz">Mar 2023</a></p>
 <ul>
 <li>[11-139S] Aerith</li>
