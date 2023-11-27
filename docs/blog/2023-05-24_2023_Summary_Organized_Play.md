@@ -27,7 +27,7 @@ summary: Overview of OP 2023
 
 ### North Carolina (6/2/2023)
 * Game Theory Decklists (Top 16) <a href="https://ffdecks.com/tournament/raleigh-materia-cup-2023/5879087525527552">[FFDecks]</a>
-* Day 2 Video <a href="https://youtu.be/d4oxj-qebVw">[YouTube]</a>
+* Day 2 Video <a href="https://youtu.be/YL-ZRhDVkX4">[YouTube]</a>
 * Day 1 Video <a href="https://youtu.be/DhyXXfsFKv4">[YouTube]</a>
 
 ### Texas (6/24/2023)
