@@ -10,10 +10,17 @@ summary: Home
 
 # <center>Final Fantasy TCG Bay Area </center>
 
-<img src="https://i.imgur.com/WLYqrw8.jpg">
+<!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
+<img src="https://imgur.com/UPxUrSW.jpg">
 
 ## News and Announcements
+**Event**: Christmas Party at <a href="about#king-kong-games">King Kong Games</a>! 
 
+**Date**: Fri, Dec 15
+
+**Info**: Raffles, Secret Santa, Potluck, and Constructed! 
+* <a href="https://www.facebook.com/photo/?fbid=10231895481353695&set=gm.2224690354401656&idorvanity=564324407104934">FB Announcement</a>
+---
 
 Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
 * **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM

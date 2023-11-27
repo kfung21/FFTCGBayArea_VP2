@@ -9,7 +9,7 @@ summary: Blog
 ---
 
 
-### <a href="./blog/2023-11-25_2023_StarterDecks">**Starter Decks Summary (Nov 2023)**</a>
+### <a href="./blog/2023-11-25_2023_StarterDecks">**Starter Sets+ (Nov 2023)**</a>
 ### <a href="./blog/2023-06-19_BennyCardArtTop8Report">**CardArt FFTCG Store Championships Journey with Skyborne Legacy Deck (June 2023)**</a>
 ### <a href="./blog/2023-05-24_2023_Summary_Organized_Play">**Summary of Organized Play 2023 (Updated June 2023)**</a>
 ### <a href="./blog/2023-03-10_FFTCG_ChatGPT">**Chat GPT on Final Fantasy TCG (Mar. 2023)**</a>

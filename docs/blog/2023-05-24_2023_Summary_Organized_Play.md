@@ -13,9 +13,28 @@ summary: Overview of OP 2023
 
 # SUMMARY OF ORGANIZED PLAY 2023
 
-(UPDATED June 2023) <br>
+(UPDATED Nov 2023) <br>
+<a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
 
 ## Materia Cups
+
+### Oregon (8/19/2023)
+* Epic Gaming PDX Decklists Day 2 (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-portland-day-2-top-8/4826865836490752">[FFDecks]</a>
+* Epic Gaming PDX Decklists Day 1 (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-portland-day-1-top-16/5828979429736448">[FFDecks]</a>
+* Day 2 Video <a href="https://www.youtube.com/live/D_uaRYxQmtc?si=1RhJYiBmoG1IO5CF">[YouTube]</a>
+* Day 1 P2 Video <a href="https://www.youtube.com/live/xTDREJvR2Vo?si=rnQN0_B2lcC_YMlK">[YouTube]</a>
+* Day 1 P1 Video <a href="https://www.youtube.com/live/zhAC2hkZlSQ?si=7EcyEdKqQguifoU6">[YouTube]</a>
+
+### North Carolina (6/2/2023)
+* Game Theory Decklists (Top 16) <a href="https://ffdecks.com/tournament/raleigh-materia-cup-2023/5879087525527552">[FFDecks]</a>
+* Day 2 Video <a href="https://youtu.be/d4oxj-qebVw">[YouTube]</a>
+* Day 1 Video <a href="https://youtu.be/DhyXXfsFKv4">[YouTube]</a>
+
+### Texas (6/24/2023)
+* Lonestar Pack Breaks Decklists (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-lspb-tx-1-16/5195805473374208">[FFDecks]</a>
+* Day 2 Video <a href="https://youtu.be/KZkfbfV98cU">[YouTube]</a>
+* Day 1 Video <a href="https://youtu.be/m3EMNgyCXgY">[YouTube]</a>
+
 ### France (6/9/2023)
 * Majestik Decklists (Top 16) <a href="https://ffdecks.com/tournament/paris-materia-cup/6052563737640960">[FFDecks]</a>
 * Majestik Day 2 Video <a href="https://youtu.be/UdiZNVVlDYo">[YouTube]</a>
@@ -54,6 +73,14 @@ summary: Overview of OP 2023
 ###  California (8/12/23)
 * King Kong Decklists <a href="https://ffdecks.com/tournament/king-kong-store-championship/4693835276877824?fbclid=IwAR0LK1hMDA40PWEaGoBXji_nMUkIKhs1_opFV3kvji4mNWvqGudCrOIFcX4">[FFDecks]</a>
 * Video <a href="https://youtube.com/playlist?list=PLFp150pyGXpAac4UoFO-lXZEnvXQdNk0w">[YouTube]</a>
+###  Ohio (8/12/23)
+* Freedom Hobby and Gaming Decklists <a href="https://ffdecks.com/tournament/store-championship-812-at-freedom/6022461117169664">[FFDecks]</a>
+###  Washington (8/5/23)
+* Zulu's Board Game Cafe Decklists <a href="https://ffdecks.com/tournament/seattle-store-championship-zulus-board-game-cafe/6061898849058816">[FFDecks]</a>
+###  California (6/17/23)
+* CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
+###  California (6/17/23)
+* CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
 ###  California (6/17/23)
 * CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
 ###  Germany (6/16/23)

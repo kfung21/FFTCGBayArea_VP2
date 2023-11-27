@@ -1,6 +1,27 @@
 <template><div><TagLinks /><h1 id="summary-of-organized-play-2023" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023</h1>
-<p>(UPDATED June 2023) <br></p>
+<p>(UPDATED June 2023) <br>
+<a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
+<h3 id="oregon-8-19-2023" tabindex="-1"><a class="header-anchor" href="#oregon-8-19-2023" aria-hidden="true">#</a> Oregon (8/19/2023)</h3>
+<ul>
+<li>Epic Gaming PDX Decklists Day 2 (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-portland-day-2-top-8/4826865836490752">[FFDecks]</a></li>
+<li>Epic Gaming PDX Decklists Day 1 (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-portland-day-1-top-16/5828979429736448">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://www.youtube.com/live/D_uaRYxQmtc?si=1RhJYiBmoG1IO5CF">[YouTube]</a></li>
+<li>Day 1 P2 Video <a href="https://www.youtube.com/live/xTDREJvR2Vo?si=rnQN0_B2lcC_YMlK">[YouTube]</a></li>
+<li>Day 1 P1 Video <a href="https://www.youtube.com/live/zhAC2hkZlSQ?si=7EcyEdKqQguifoU6">[YouTube]</a></li>
+</ul>
+<h3 id="north-carolina-6-2-2023" tabindex="-1"><a class="header-anchor" href="#north-carolina-6-2-2023" aria-hidden="true">#</a> North Carolina (6/2/2023)</h3>
+<ul>
+<li>Game Theory Decklists (Top 16) <a href="https://ffdecks.com/tournament/raleigh-materia-cup-2023/5879087525527552">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://youtu.be/d4oxj-qebVw">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://youtu.be/DhyXXfsFKv4">[YouTube]</a></li>
+</ul>
+<h3 id="texas-6-24-2023" tabindex="-1"><a class="header-anchor" href="#texas-6-24-2023" aria-hidden="true">#</a> Texas (6/24/2023)</h3>
+<ul>
+<li>Lonestar Pack Breaks Decklists (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-lspb-tx-1-16/5195805473374208">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://youtu.be/KZkfbfV98cU">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://youtu.be/m3EMNgyCXgY">[YouTube]</a></li>
+</ul>
 <h3 id="france-6-9-2023" tabindex="-1"><a class="header-anchor" href="#france-6-9-2023" aria-hidden="true">#</a> France (6/9/2023)</h3>
 <ul>
 <li>Majestik Decklists (Top 16) <a href="https://ffdecks.com/tournament/paris-materia-cup/6052563737640960">[FFDecks]</a></li>
@@ -48,7 +69,23 @@
 <li>King Kong Decklists <a href="https://ffdecks.com/tournament/king-kong-store-championship/4693835276877824?fbclid=IwAR0LK1hMDA40PWEaGoBXji_nMUkIKhs1_opFV3kvji4mNWvqGudCrOIFcX4">[FFDecks]</a></li>
 <li>Video <a href="https://youtube.com/playlist?list=PLFp150pyGXpAac4UoFO-lXZEnvXQdNk0w">[YouTube]</a></li>
 </ul>
+<h3 id="ohio-8-12-23" tabindex="-1"><a class="header-anchor" href="#ohio-8-12-23" aria-hidden="true">#</a> Ohio (8/12/23)</h3>
+<ul>
+<li>Freedom Hobby and Gaming Decklists <a href="https://ffdecks.com/tournament/store-championship-812-at-freedom/6022461117169664">[FFDecks]</a></li>
+</ul>
+<h3 id="washington-8-5-23" tabindex="-1"><a class="header-anchor" href="#washington-8-5-23" aria-hidden="true">#</a> Washington (8/5/23)</h3>
+<ul>
+<li>Zulu's Board Game Cafe Decklists <a href="https://ffdecks.com/tournament/seattle-store-championship-zulus-board-game-cafe/6061898849058816">[FFDecks]</a></li>
+</ul>
 <h3 id="california-6-17-23" tabindex="-1"><a class="header-anchor" href="#california-6-17-23" aria-hidden="true">#</a> California (6/17/23)</h3>
+<ul>
+<li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
+</ul>
+<h3 id="california-6-17-23-1" tabindex="-1"><a class="header-anchor" href="#california-6-17-23-1" aria-hidden="true">#</a> California (6/17/23)</h3>
+<ul>
+<li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
+</ul>
+<h3 id="california-6-17-23-2" tabindex="-1"><a class="header-anchor" href="#california-6-17-23-2" aria-hidden="true">#</a> California (6/17/23)</h3>
 <ul>
 <li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
 </ul>

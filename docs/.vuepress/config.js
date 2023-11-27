@@ -47,6 +47,10 @@ export default {
                         text: 'Draft Guide',
                         link: '/blog/2022-12-8_Draft_Guide_FFTCG_Updated',
                     },
+                    {
+                        text: 'Starter Sets+',
+                        link: '/blog/2023-11-25_2023_StarterDecks',
+                    },
                 ],
 
             },

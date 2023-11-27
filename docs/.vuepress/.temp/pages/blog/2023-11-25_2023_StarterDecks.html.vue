@@ -1,8 +1,10 @@
 <template><div><TagLinks /><h1 id="fftcg-starter-decks" tabindex="-1"><a class="header-anchor" href="#fftcg-starter-decks" aria-hidden="true">#</a> FFTCG Starter Decks</h1>
 <p>(UPDATED Nov 2023) <br></p>
 <h2 id="opus-starter-decks" tabindex="-1"><a class="header-anchor" href="#opus-starter-decks" aria-hidden="true">#</a> Opus Starter Decks</h2>
-<h3 id="opus-i" tabindex="-1"><a class="header-anchor" href="#opus-i" aria-hidden="true">#</a> Opus I</h3>
-<p>VII Fire/Earth Starter Deck</p>
+<h3 id="opus-i-2016" tabindex="-1"><a class="header-anchor" href="#opus-i-2016" aria-hidden="true">#</a> Opus I (2016)</h3>
+<p><a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a></p>
+<img src="https://i.imgur.com/f1KKnzj.jpg">
+<p><strong>VII Fire/Earth Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-004C] Ifrit</li>
 <li>(2x) [1-010C] Black Mage</li>
@@ -25,7 +27,7 @@
 <li>(3x) [1-205S] Barret</li>
 <li>(3x) [1-206S] Biggs</li>
 </ul>
-<p>FFX Water/Wind Starter Deck</p>
+<p><strong>FFX Water/Wind Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-068C] Evoker</li>
 <li>(2x) [1-074R] Sylph</li>
@@ -48,7 +50,7 @@
 <li>(3x) [1-215S] Lenne</li>
 <li>(3x) [1-216S] Wakka</li>
 </ul>
-<p>FFXIII Ice/Lighting Starter Deck</p>
+<p><strong>FFXIII Ice/Lighting Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-036C] Bard</li>
 <li>(2x) [1-038R] Shiva</li>
@@ -72,8 +74,10 @@
 <li>(3x) [1-211S] Rygdea</li>
 </ul>
 <hr>
-<h3 id="opus-iii" tabindex="-1"><a class="header-anchor" href="#opus-iii" aria-hidden="true">#</a> Opus III</h3>
-<p>FF Type-0 Wind/Lightning Starter Deck</p>
+<h3 id="opus-iii-2017" tabindex="-1"><a class="header-anchor" href="#opus-iii-2017" aria-hidden="true">#</a> Opus III (2017)</h3>
+<p><a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_TYPE-0_Starter_Set">Jul 2017</a></p>
+<img src="https://i.imgur.com/vOzk1hx.png">
+<p><strong>FF Type-0 Wind/Lightning Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-068C] Evoker</li>
 <li>(2x) [1-075C] Chocobo</li>
@@ -98,7 +102,7 @@
 <li>(3x) [3-151S] Queen</li>
 <li>(3x) [3-153S] Ace</li>
 </ul>
-<p>FFIX Fire/Water Starter Deck</p>
+<p><strong>FF IX Fire/Water Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-008C] Ranger</li>
 <li>(2x) [1-011C] Evoker</li>
@@ -124,8 +128,9 @@
 <li>(3x) [3-154S] Zidane</li>
 </ul>
 <hr>
-<h3 id="opus-v" tabindex="-1"><a class="header-anchor" href="#opus-v" aria-hidden="true">#</a> Opus V</h3>
-<p>FFXII Wind/Water Starter Deck</p>
+<h3 id="opus-v-2018" tabindex="-1"><a class="header-anchor" href="#opus-v-2018" aria-hidden="true">#</a> Opus V (2018)</h3>
+<img src="https://i.imgur.com/Lbc78Hn.jpg">
+<p><strong>FF XII Wind/Water Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-068C] Evoker</li>
 <li>(2x) [1-088C] Archer</li>
@@ -150,7 +155,7 @@
 <li>(3x) [5-165S] Larsa</li>
 <li>(3x) [5-166S] Rasler</li>
 </ul>
-<p>FFXIII-2 Ice/Fire Starter Decks</p>
+<p><strong>FF XIII-2 Ice/Fire Starter Decks</strong></p>
 <ul>
 <li>(2x) [1-010C] Black Mage</li>
 <li>(2x) [1-011C] Evoker</li>
@@ -175,7 +180,7 @@
 <li>(3x) [5-153S] Mog (XIII-2)</li>
 <li>(3x) [5-154S] Yeul</li>
 </ul>
-<p>FFXIV Earth/Lightning Starter Deck</p>
+<p><strong>FF XIV Earth/Lightning Starter Deck</strong></p>
 <ul>
 <li>(2x) [1-099C] Black Belt</li>
 <li>(2x) [1-105C] Evoker</li>
@@ -199,10 +204,11 @@
 <li>(3x) [5-163S] Urianger</li>
 </ul>
 <hr>
-<h3 id="opus-viii" tabindex="-1"><a class="header-anchor" href="#opus-viii" aria-hidden="true">#</a> Opus VIII</h3>
-<p>FFVII Earth/Wind Starter Deck
-Release date: March 15, 2019 (Fri)
-Deck list</p>
+<h3 id="opus-viii-2019" tabindex="-1"><a class="header-anchor" href="#opus-viii-2019" aria-hidden="true">#</a> Opus VIII (2019)</h3>
+<img src="https://i.imgur.com/FBoW1w3.jpg" height=320> 
+<p><a href="https://fftcg.boards.net/thread/649/starter-deck-lists">Mar 2019</a></p>
+<p><strong>FFVII Earth/Wind Starter Deck</strong> <br></p>
+<p>Deck list</p>
 <ul>
 <li>(2x) [1-065C] Aerith</li>
 <li>(2x) [1-068C] Evoker</li>
@@ -227,9 +233,9 @@ Deck list</p>
 <li>(3x) [8-143S] Cloud</li>
 <li>(3x) [8-145S] Barrett</li>
 </ul>
-<p>FFXIV Fire/Lightning Starter Deck
-Release date: March 15, 2019 (Fri)
-Deck list</p>
+<img src="https://i.imgur.com/O2xegQF.jpg" height=320>
+<p><strong>FFXIV Fire/Lightning Starter Deck</strong></p>
+<p>Deck list</p>
 <ul>
 <li>(2x) [1-011C] Evoker</li>
 <li>(2x) [1-138C] Summoner</li>
@@ -255,9 +261,11 @@ Deck list</p>
 <li>(3x) [8-148S] Yugiri</li>
 </ul>
 <h2 id="customizeable-decks" tabindex="-1"><a class="header-anchor" href="#customizeable-decks" aria-hidden="true">#</a> Customizeable Decks</h2>
-<h3 id="ff-x" tabindex="-1"><a class="header-anchor" href="#ff-x" aria-hidden="true">#</a> FF X</h3>
-<p>Starter deck
-Forwards (27)</p>
+<h3 id="ffx-2022" tabindex="-1"><a class="header-anchor" href="#ffx-2022" aria-hidden="true">#</a> FFX (2022)</h3>
+<img src="https://i.imgur.com/1jhiLcV.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/fftcg-custom-starter-set-final-fantasy-x-first-look">Feb 2022</a></p>
+<p><strong>Starter deck</strong></p>
+<p>Forwards (27)</p>
 <ul>
 <li>(3x) [16-134S] Yuna</li>
 <li>(3x) [16-135S] Lulu</li>
@@ -282,7 +290,7 @@ Summons (5)</li>
 <li>(2x) [9-047C] Sylph</li>
 <li>(3x) [2-133R] Cuchulainn, the Impure</li>
 </ul>
-<p>Customizable Cards [Fire]</p>
+<p><strong>Customizable Cards [Fire]</strong></p>
 <ul>
 <li>(3x) [16-131S] Jecht</li>
 <li>(3x) [16-133S] Braska</li>
@@ -294,7 +302,7 @@ Summons (5)</li>
 <li>(3x) [16-132S] Bahamut</li>
 <li>(3x) [11-001R] Ifrit</li>
 </ul>
-<p>Customizable Cards</p>
+<p><strong>Customizable Cards</strong></p>
 <ul>
 <li>(3x) [7-001H] Auron</li>
 <li>(2x) [7-020C] Lulu</li>
@@ -309,7 +317,9 @@ Summons (5)</li>
 <li>(1x) [16-139S] Tidus</li>
 <li>(3x) [16-140S] Sin</li>
 </ul>
-<h3 id="ff-xiii" tabindex="-1"><a class="header-anchor" href="#ff-xiii" aria-hidden="true">#</a> FF XIII</h3>
+<h3 id="ff-xiii-2023" tabindex="-1"><a class="header-anchor" href="#ff-xiii-2023" aria-hidden="true">#</a> FF XIII (2023)</h3>
+<img src="https://i.imgur.com/8pM8Gmx.jpg" height=320>
+<p><a href ="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-xiii-custom-starter-set-and-from-nightmares-booster-pack">Feb 2023</a></p>
 <p><strong>Default Starter Deck</strong>  <br>
 Forwards (23)</p>
 <p>Fire</p>
@@ -396,7 +406,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(1x) [19-138S] Lightning</li>
 </ul>
 <h2 id="two-player-decks" tabindex="-1"><a class="header-anchor" href="#two-player-decks" aria-hidden="true">#</a> Two Player Decks</h2>
-<h3 id="villains-heroes" tabindex="-1"><a class="header-anchor" href="#villains-heroes" aria-hidden="true">#</a> Villains &amp; Heroes</h3>
+<h3 id="villains-heroes-2018" tabindex="-1"><a class="header-anchor" href="#villains-heroes-2018" aria-hidden="true">#</a> Villains &amp; Heroes (2018)</h3>
+<img src="https://i.imgur.com/F3RVxxB.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/release/opus-vii">Nov 2018</a></p>
 <p><strong>Villains</strong></p>
 <ul>
 <li>(2x) [1-048C] Devout</li>
@@ -445,95 +457,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [7-135S] Cecil</li>
 <li>(3x) [7-136S] Y´shtola</li>
 </ul>
-<h3 id="cloud-vs-sephiroth" tabindex="-1"><a class="header-anchor" href="#cloud-vs-sephiroth" aria-hidden="true">#</a> Cloud vs Sephiroth</h3>
-<p><strong>Cloud Deck</strong></p>
-<ul>
-<li>(3x) [11-136S] Cloud</li>
-<li>(3x) [11-135S] Vincent</li>
-<li>(3x) [4-075H] Vincent</li>
-<li>(2x) [4-076R] Wedge</li>
-<li>(3x) [4-082C] Jessie</li>
-<li>(2x) [5-082C] Miner</li>
-<li>(2x) [8-085C] Marlene</li>
-<li>(3x) [6-075R] Titan</li>
-<li>(3x) [11-131S] Barret</li>
-<li>(3x) [11-132S] Red XIII</li>
-<li>(3x) [1-016C] Tifa</li>
-<li>(3x) [10-007H] Zack</li>
-<li>(3x) [10-009C] SOLDIER: 3rd Class</li>
-<li>(3x) [1-003C] Red Mage</li>
-<li>(2x) [1-010C] Black Mage</li>
-<li>(3x) [2-005C] Sage</li>
-<li>(3x) [3-020H] Phoenix</li>
-<li>(3x) [11-139S] Aerith</li>
-</ul>
-<p><strong>Sephiroth Deck</strong></p>
-<ul>
-<li>(3x) [11-138S] Sephiroth</li>
-<li>(3x) [11-137S] Azul</li>
-<li>(3x) [3-099R] Angeal Penance</li>
-<li>(2x) [1-121C] Red Mage</li>
-<li>(2x) [4-120R] Restrictor</li>
-<li>(2x) [8-110R] Reno</li>
-<li>(2x) [9-098C] Reeve</li>
-<li>(3x) [7-103C] Ramuh</li>
-<li>(3x) [11-134S] Don Corneo</li>
-<li>(3x) [11-133S] Cait Sith</li>
-<li>(3x) [3-040C] DGS Trooper 1st Class</li>
-<li>(3x) [3-041C] Deepground Soldier</li>
-<li>(3x) [3-042C] Deepground Soldier</li>
-<li>(3x) [10-034H] Sephiroth</li>
-<li>(3x) [4-030C] Black Mage</li>
-<li>(3x) [7-028C] Black Mage</li>
-<li>(3x) [8-032R] Shiva</li>
-<li>(3x) [11-140S] Kadaj</li>
-</ul>
-<h3 id="shadowbringers" tabindex="-1"><a class="header-anchor" href="#shadowbringers" aria-hidden="true">#</a> Shadowbringers</h3>
-<p><strong>The Crystal Exarch Deck (Earth/Lightning)</strong></p>
-<ul>
-<li>(1x) [13-133S] The Crystal Exarch Full Art</li>
-<li>(2x) [13-133S] The Crystal Exarch</li>
-<li>(3x) [13-134S] Y'shtola</li>
-<li>(3x) [13-135S] Urienger</li>
-<li>(3x) [13-136S] Thancred</li>
-<li>(3x) [13-138S] The Oracle of Light</li>
-<li>(2x) [5-107H] Thancred</li>
-<li>(3x) [8-092C] Alphinaud</li>
-<li>(3x) [4-096H] Raubahn</li>
-<li>(3x) [6-104C] Dragoon</li>
-<li>(3x) [6-065C] Dark Knight</li>
-<li>(2x) [5-094R] Momodi</li>
-<li>(3x) [6-071H] Krile (XIV)</li>
-<li>(2x) [6-079L] Minfilia</li>
-<li>(2x) [5-082C] Miner</li>
-<li>(3x) [8-090C] Alisaie</li>
-<li>(2x) [5-120C] Louisoix</li>
-<li>(2x) [6-091C] Black Mage</li>
-<li>(2x) [2-108C] Black Mage</li>
-<li>(3x) [7-103C] Ramuh</li>
-</ul>
-<p><strong>Emet-Selch Deck (Fire/Ice)</strong></p>
-<ul>
-<li>(1x) [13-131S] Emet-Selch Full Art</li>
-<li>(2x) [13-131S] Emet-Selch</li>
-<li>(3x) [13-132S] Titania</li>
-<li>(3x) [13-129S] Philia</li>
-<li>(3x) [13-130S] Ran'jit</li>
-<li>(3x) [13-137S] Innocence</li>
-<li>(3x) [12-024H] Emet-Selch</li>
-<li>(2x) [9-014L] Nael</li>
-<li>(3x) [9-007H] Gaius</li>
-<li>(3x) [9-020R] ​​Rhitahtyn</li>
-<li>(3x) [8-020R] ​​Yotsuyu</li>
-<li>(3x) [8-002C] Red Mage</li>
-<li>(3x) [12-007C] Black Mage</li>
-<li>(3x) [5-035C] Conjurer</li>
-<li>(3x) [8-029C] Bard</li>
-<li>(3x) [6-026C] Bard</li>
-<li>(3x) [7-005C] Ifrit</li>
-<li>(3x) [4-043C] Flan</li>
-</ul>
-<h3 id="wraith-vs-knight" tabindex="-1"><a class="header-anchor" href="#wraith-vs-knight" aria-hidden="true">#</a> Wraith vs Knight</h3>
+<h3 id="wraith-vs-knight-2019" tabindex="-1"><a class="header-anchor" href="#wraith-vs-knight-2019" aria-hidden="true">#</a> Wraith vs Knight (2019)</h3>
+<img src="https://i.imgur.com/yd5m39R.jpg" height=320>
+<p><a href="https://press.na.square-enix.com/FINAL-FANTASY-TRADING-CARD-GAME-WRAITH-VS-KNIGHT-2-PLAYER-STARTER-SET-">Sep 2019</a></p>
 <p><strong>Wraith Deck</strong> [Fire/Earth]</p>
 <ul>
 <li>(3x) [10-140S] Cloud of Darkness</li>
@@ -578,7 +504,102 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [05-114C] Cannoneer</li>
 <li>(2x) [07-103C] Ramuh</li>
 </ul>
-<h3 id="avalanche-vs-shinra" tabindex="-1"><a class="header-anchor" href="#avalanche-vs-shinra" aria-hidden="true">#</a> Avalanche vs Shinra</h3>
+<img src="https://i.imgur.com/DSKilz9.jpg">
+<h3 id="cloud-vs-sephiroth-2020" tabindex="-1"><a class="header-anchor" href="#cloud-vs-sephiroth-2020" aria-hidden="true">#</a> Cloud vs Sephiroth (2020)</h3>
+<img src="https://i.imgur.com/DSKilz9.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/cloud-vs-sephiroth-two-player-starter-set-full-reveal">Feb 2020</a></p>
+<p><strong>Cloud Deck</strong></p>
+<ul>
+<li>(3x) [11-136S] Cloud</li>
+<li>(3x) [11-135S] Vincent</li>
+<li>(3x) [4-075H] Vincent</li>
+<li>(2x) [4-076R] Wedge</li>
+<li>(3x) [4-082C] Jessie</li>
+<li>(2x) [5-082C] Miner</li>
+<li>(2x) [8-085C] Marlene</li>
+<li>(3x) [6-075R] Titan</li>
+<li>(3x) [11-131S] Barret</li>
+<li>(3x) [11-132S] Red XIII</li>
+<li>(3x) [1-016C] Tifa</li>
+<li>(3x) [10-007H] Zack</li>
+<li>(3x) [10-009C] SOLDIER: 3rd Class</li>
+<li>(3x) [1-003C] Red Mage</li>
+<li>(2x) [1-010C] Black Mage</li>
+<li>(3x) [2-005C] Sage</li>
+<li>(3x) [3-020H] Phoenix</li>
+<li>(3x) [11-139S] Aerith</li>
+</ul>
+<p><strong>Sephiroth Deck</strong></p>
+<ul>
+<li>(3x) [11-138S] Sephiroth</li>
+<li>(3x) [11-137S] Azul</li>
+<li>(3x) [3-099R] Angeal Penance</li>
+<li>(2x) [1-121C] Red Mage</li>
+<li>(2x) [4-120R] Restrictor</li>
+<li>(2x) [8-110R] Reno</li>
+<li>(2x) [9-098C] Reeve</li>
+<li>(3x) [7-103C] Ramuh</li>
+<li>(3x) [11-134S] Don Corneo</li>
+<li>(3x) [11-133S] Cait Sith</li>
+<li>(3x) [3-040C] DGS Trooper 1st Class</li>
+<li>(3x) [3-041C] Deepground Soldier</li>
+<li>(3x) [3-042C] Deepground Soldier</li>
+<li>(3x) [10-034H] Sephiroth</li>
+<li>(3x) [4-030C] Black Mage</li>
+<li>(3x) [7-028C] Black Mage</li>
+<li>(3x) [8-032R] Shiva</li>
+<li>(3x) [11-140S] Kadaj</li>
+</ul>
+<h3 id="shadowbringers-2021" tabindex="-1"><a class="header-anchor" href="#shadowbringers-2021" aria-hidden="true">#</a> Shadowbringers (2021)</h3>
+<img src="https://i.imgur.com/pIX86Gv.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/final-fantasy-xiv-shadowbringers-two-player-starter-cards-reveal">Feb 2021</a></p>
+<p><strong>The Crystal Exarch Deck (Earth/Lightning)</strong></p>
+<ul>
+<li>(1x) [13-133S] The Crystal Exarch Full Art</li>
+<li>(2x) [13-133S] The Crystal Exarch</li>
+<li>(3x) [13-134S] Y'shtola</li>
+<li>(3x) [13-135S] Urienger</li>
+<li>(3x) [13-136S] Thancred</li>
+<li>(3x) [13-138S] The Oracle of Light</li>
+<li>(2x) [5-107H] Thancred</li>
+<li>(3x) [8-092C] Alphinaud</li>
+<li>(3x) [4-096H] Raubahn</li>
+<li>(3x) [6-104C] Dragoon</li>
+<li>(3x) [6-065C] Dark Knight</li>
+<li>(2x) [5-094R] Momodi</li>
+<li>(3x) [6-071H] Krile (XIV)</li>
+<li>(2x) [6-079L] Minfilia</li>
+<li>(2x) [5-082C] Miner</li>
+<li>(3x) [8-090C] Alisaie</li>
+<li>(2x) [5-120C] Louisoix</li>
+<li>(2x) [6-091C] Black Mage</li>
+<li>(2x) [2-108C] Black Mage</li>
+<li>(3x) [7-103C] Ramuh</li>
+</ul>
+<p><strong>Emet-Selch Deck (Fire/Ice)</strong></p>
+<ul>
+<li>(1x) [13-131S] Emet-Selch Full Art</li>
+<li>(2x) [13-131S] Emet-Selch</li>
+<li>(3x) [13-132S] Titania</li>
+<li>(3x) [13-129S] Philia</li>
+<li>(3x) [13-130S] Ran'jit</li>
+<li>(3x) [13-137S] Innocence</li>
+<li>(3x) [12-024H] Emet-Selch</li>
+<li>(2x) [9-014L] Nael</li>
+<li>(3x) [9-007H] Gaius</li>
+<li>(3x) [9-020R] ​​Rhitahtyn</li>
+<li>(3x) [8-020R] ​​Yotsuyu</li>
+<li>(3x) [8-002C] Red Mage</li>
+<li>(3x) [12-007C] Black Mage</li>
+<li>(3x) [5-035C] Conjurer</li>
+<li>(3x) [8-029C] Bard</li>
+<li>(3x) [6-026C] Bard</li>
+<li>(3x) [7-005C] Ifrit</li>
+<li>(3x) [4-043C] Flan</li>
+</ul>
+<h3 id="avalanche-vs-shinra-2021" tabindex="-1"><a class="header-anchor" href="#avalanche-vs-shinra-2021" aria-hidden="true">#</a> Avalanche vs Shinra (2021)</h3>
+<img src="https://i.imgur.com/Ewc19aV.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/avalanche-vs-shinra-two-player-starter-set">Oct 2021</a></p>
 <p><strong>Avalanche Deck</strong></p>
 <p>Forwards (26)</p>
 <ul>
@@ -640,7 +661,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [6-102R] Ramuh</li>
 <li>(3x) [6-038R] Hades</li>
 </ul>
-<h3 id="golbez-vs-cecil" tabindex="-1"><a class="header-anchor" href="#golbez-vs-cecil" aria-hidden="true">#</a> Golbez vs Cecil</h3>
+<h3 id="golbez-vs-cecil-2022" tabindex="-1"><a class="header-anchor" href="#golbez-vs-cecil-2022" aria-hidden="true">#</a> Golbez vs Cecil (2022)</h3>
+<img src="https://i.imgur.com/e9sfVOt.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/na/news/new-booster-and-starter-sets-rebellion-s-call-and-golbez-vs-cecil">Jul 2022</a></p>
 <p><strong>Golbez Deck</strong></p>
 <p>Forwards (23)</p>
 <ul>
@@ -702,7 +725,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(1x) [15-090H] Odin</li>
 <li>(2x) [2-133R] Cuchulainn, the Impure</li>
 </ul>
-<h3 id="noctis-vs-ardyn" tabindex="-1"><a class="header-anchor" href="#noctis-vs-ardyn" aria-hidden="true">#</a> Noctis vs. Ardyn</h3>
+<h3 id="noctis-vs-ardyn-2022" tabindex="-1"><a class="header-anchor" href="#noctis-vs-ardyn-2022" aria-hidden="true">#</a> Noctis vs. Ardyn (2022)</h3>
+<img src="https://i.imgur.com/nFX2pjz.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/new-product-information-noctis-vs-ardyn-two-player-starter-set-resurgence-of-power-booster-pack">Oct 2022</a></p>
 <p>Noctis Deck
 Forwards (26)</p>
 <ul>
@@ -765,8 +790,10 @@ Forwards (26)</p>
 <li>(2x) [10-090C] Kanna Kamuy</li>
 </ul>
 <h2 id="multi-player-boss-decks" tabindex="-1"><a class="header-anchor" href="#multi-player-boss-decks" aria-hidden="true">#</a> Multi Player Boss Decks</h2>
-<h3 id="chaos" tabindex="-1"><a class="header-anchor" href="#chaos" aria-hidden="true">#</a> Chaos</h3>
-<p>Start Card
+<h3 id="chaos-2021" tabindex="-1"><a class="header-anchor" href="#chaos-2021" aria-hidden="true">#</a> Chaos (2021)</h3>
+<img src="https://i.imgur.com/IuxnYgN.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/so-who-s-the-boss">Mar 2021</a></p>
+<p>Starting Cards
 The following 3 cards will start the game with them placed on the BOSS field at the start of the game. (Common to difficulty NORMAL / HARD)</p>
 <ul>
 <li>(1) [B-001] Chaos</li>
@@ -824,7 +851,9 @@ If you want to play with HARD difficulty , replace all the cards marked with ★
 <li>(3x) [B-026] Exdeath</li>
 <li>(2x) [B-027] Zalera, the Death Seraph</li>
 </ul>
-<h3 id="ff-vii" tabindex="-1"><a class="header-anchor" href="#ff-vii" aria-hidden="true">#</a> FF VII</h3>
+<h3 id="ff-vii-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-2023" aria-hidden="true">#</a> FF VII (2023)</h3>
+<img src="https://i.imgur.com/IiGoIEx.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-vii-boss-deck">Jan 2023</a></p>
 <p>NORMAL/HARD</p>
 <ul>
 <li>(1x) [B-028] Sephiroth</li>
@@ -882,7 +911,9 @@ BOSS uses the following 80 cards as a deck <br></p>
 <li>(2x) [B-054] Restrictor</li>
 </ul>
 <h2 id="collection-sets" tabindex="-1"><a class="header-anchor" href="#collection-sets" aria-hidden="true">#</a> Collection Sets</h2>
-<h3 id="anniversary-2022" tabindex="-1"><a class="header-anchor" href="#anniversary-2022" aria-hidden="true">#</a> Anniversary 2022</h3>
+<h3 id="anniversary-2022" tabindex="-1"><a class="header-anchor" href="#anniversary-2022" aria-hidden="true">#</a> Anniversary (2022)</h3>
+<img src="https://i.imgur.com/jNYQXCn.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/anniversary-collection-set-2022-full-card-list">May 2022</a></p>
 <p>Fire/Water Starter Deck</p>
 <p>Forwards (27)</p>
 <ul>
@@ -1008,38 +1039,65 @@ Fire</p>
 <li>(3x) [1-183H] Cosmos</li>
 <li>(3x) [1-184H] Chaos</li>
 </ul>
-<h3 id="dissidia-2023" tabindex="-1"><a class="header-anchor" href="#dissidia-2023" aria-hidden="true">#</a> Dissidia 2023</h3>
-<p>Starter Cards</p>
+<h3 id="dissidia-2023" tabindex="-1"><a class="header-anchor" href="#dissidia-2023" aria-hidden="true">#</a> Dissidia (2023)</h3>
+<img src="https://i.imgur.com/rEBwSYw.jpg" height=320>
+<p><a href="https://fftcg.square-enix-games.com/en/news/dissidia-final-fantasy-collection-set-2023">Oct 2023</a></p>
+<p><strong>Starter Cards</strong></p>
 <p>Fire</p>
 <ul>
 <li>(3x) [21-125S] Onion Knight</li>
 <li>(3x) [21-126S] Cloud</li>
 <li>(3x) [21-127S] Firion</li>
+<li>(3x) [11-003R] Cyan</li>
+<li>(3x) [19-009C] Bahamut</li>
+<li>(2x) [15-004C] Edgar</li>
+<li>(3x) [15-007C] Samurai</li>
+<li>(3x) [7-009C] Samurai</li>
 </ul>
 <p>Ice</p>
 <ul>
 <li>(3x) [21-128S] Shantotto</li>
 <li>(3x) [21-129S] Terra</li>
 <li>(3x) [21-130S] Noctis</li>
+<li>(3x) [9-037C] Laguna</li>
+<li>(3x) [13-021R] Shiva</li>
+<li>(3x) [15-038C] Knight</li>
+<li>(3x) [16-036C] Devout</li>
+<li>(2x) [11-133S] Cait Sith</li>
 </ul>
 <p>Wind</p>
 <ul>
 <li>(3x) [21-131S] Warrior of Light</li>
 <li>(3x) [21-132S] Cecil</li>
 <li>(3x) [21-133S] Tidus</li>
+<li>(3x) [8-046R] Alexander</li>
+<li>(2x) [7-136S] Y'Shtola</li>
+<li>(3x) [16-052C] Selkie</li>
+<li>(3x) [15-058C] Dragoon</li>
 </ul>
 <p>Light</p>
 <ul>
-<li>(3x) [21-134S] Bartz</li>
+<li>(3x) [21-134S] Bartz ※</li>
+<li>(1x) [1-183H] Cosmos</li>
 </ul>
 <p>※1 of the cards is a Full Art Standard card.</p>
-<p>Reprinted Legendary Cards</p>
+<p><strong>Customizeable Cards</strong></p>
+<ul>
+<li>(3x) [15-049C] Garchimacera</li>
+<li>(3x) [10-044H] Vaan</li>
+<li>(3x) [15-031C] Shiva</li>
+<li>(3x) [15-034R] Snow</li>
+<li>(3x) [12-005C] Ifrit</li>
+<li>(3x) [16-004C] Onion Knight</li>
+<li>(3x) [10-132S] Terra</li>
+</ul>
+<p><strong>Reprinted Legendary Cards</strong></p>
 <ul>
 <li>(2x) [6-044L] Zidane</li>
 <li>(2x) [10-033L] Squall
 ※Both cards are Standard cards with frames.</li>
 </ul>
-<p>DISSIDIA FINAL FANTASY 4th Anniversary Illustration Cards</p>
+<p><strong>DISSIDIA FINAL FANTASY 4th Anniversary Illustration Cards</strong></p>
 <ul>
 <li>(2x) [12-052H] Bartz</li>
 <li>(2x) [12-121R] Noctis</li>
@@ -1061,6 +1119,24 @@ Fire</p>
 </ul>
 <p>※There are 18 cards in total, including 1 Full Art Standard card for each card and 1 Premium Framed card of Y'shtola [21-036H].
 ◆Crystal cards: 2 types, 1 each</p>
+<h2 id="special-sets" tabindex="-1"><a class="header-anchor" href="#special-sets" aria-hidden="true">#</a> Special Sets</h2>
+<h3 id="ff-vii-noir-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-noir-2023" aria-hidden="true">#</a> FF VII Noir (2023)</h3>
+<img src="https://i.imgur.com/wWImG3l.jpg" height=320>
+<p><a href="http://redirect.viglink.com/?key=f846cd2f542a5d478a743d8ee8173d7d&subId=6694769&u=https%3A//m.facebook.com/story.php%3Fstory_fbid%3Dpfbid02i5ofbTqPSj9n6p7J6rwaAcLij9iMMCmGiuPvSNoMX2gkavKyx8QswZpMThY1XWb4l%26id%3D100045469401301%26mibextid%3DNif5oz">Mar 2023</a></p>
+<ul>
+<li>[11-139S] Aerith</li>
+<li>[14-121L] Barret</li>
+<li>[8-006L] Cloud</li>
+<li>[11-127L] Cloud</li>
+<li>[3-033L] Genesis</li>
+<li>[14-019R] Red XIII</li>
+<li>[15-138S] Reno</li>
+<li>[7-034L] Sephiroth</li>
+<li>[11-071L] Tifa</li>
+<li>[9-062H] Vincent</li>
+<li>[PR-029] Vincent</li>
+<li>[3-012L] Zack</li>
+</ul>
 </div></template>
 
 
