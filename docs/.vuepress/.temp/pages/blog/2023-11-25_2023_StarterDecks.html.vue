@@ -1099,22 +1099,22 @@ Fire</p>
 </ul>
 <p><strong>DISSIDIA FINAL FANTASY 4th Anniversary Illustration Cards</strong></p>
 <ul>
-<li>(2x) [12-052H] Bartz</li>
-<li>(2x) [12-121R] Noctis</li>
-<li>(2x) [13-081H] Lightning</li>
-<li>(2x) [13-106H] Onion Knight</li>
-<li>(2x) [13-121R] Ramza</li>
-<li>(2x) [14-065L] Cloud</li>
-<li>(2x) [14-125L] Vaan</li>
-<li>(2x) [15-037L] Terra</li>
-<li>(2x) [16-030L] Shantotto</li>
-<li>(2x) [16-051L] Cecil</li>
-<li>(2x) [16-116L] Tidus</li>
-<li>(2x) [16-127L] Warrior of Light</li>
-<li>(2x) [18-130L] Firion</li>
-<li>(2x) [19-002L] Ace</li>
-<li>(2x) [19-108L] Zidane</li>
-<li>(2x) [PR-108] Squall</li>
+<li>(1x) [12-052H] Bartz</li>
+<li>(1x) [12-121R] Noctis</li>
+<li>(1x) [13-081H] Lightning</li>
+<li>(1x) [13-106H] Onion Knight</li>
+<li>(1x) [13-121R] Ramza</li>
+<li>(1x) [14-065L] Cloud</li>
+<li>(1x) [14-125L] Vaan</li>
+<li>(1x) [15-037L] Terra</li>
+<li>(1x) [16-030L] Shantotto</li>
+<li>(1x) [16-051L] Cecil</li>
+<li>(1x) [16-116L] Tidus</li>
+<li>(1x) [16-127L] Warrior of Light</li>
+<li>(1x) [18-130L] Firion</li>
+<li>(1x) [19-002L] Ace</li>
+<li>(1x) [19-108L] Zidane</li>
+<li>(1x) [PR-108] Squall</li>
 <li>(2x) [21-036H] Y’shtola</li>
 </ul>
 <p>※There are 18 cards in total, including 1 Full Art Standard card for each card and 1 Premium Framed card of Y'shtola [21-036H].

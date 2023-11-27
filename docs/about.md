@@ -65,11 +65,21 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Website**: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a>
 * **Facebook**: <a href="https://www.facebook.com/BerkeleyGames/"> https://www.facebook.com/BerkeleyGames/</a>
 * **Location**: 2510 Durant Ave Berkeley, CA 94704 <a href="https://goo.gl/maps/khweY1mnJ2U9dmEA7">[Google Maps]</a> 
-* **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/paul.dennis.773">Paul Dennis</a> 
 * **Discord**: <a href="https://discord.com/channels/689264919274717302/689269720687575057">[Link]</a> 
 * **Event Days/Times**: 
-    - Mondays
+    - Wednesdays
     - 6:30pm (Open Play $5)
+
+### Galaxy Games
+* **Website**: <a href="https://www.galaxygamesca.com/"> https://www.galaxygamesca.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/galaxygamestore/"> https://www.facebook.com/galaxygamestore/</a>
+* **Location**: 6715 Dublin Blvd, Unit H Dublin, CA 94568 <a href="https://maps.app.goo.gl/tXfXkw5VwaFiJViL7">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Gavin</a> 
+* **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a> 
+* **Event Days/Times**: 
+    - Fridays
+    - 8:00pm (Constructed $10)
   
 ## NorCal Stores
 ### Final Cut TCG

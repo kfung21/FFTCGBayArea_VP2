@@ -1,6 +1,7 @@
 <template><div><h1 id="final-fantasy-tcg-bay-area" tabindex="-1"><a class="header-anchor" href="#final-fantasy-tcg-bay-area" aria-hidden="true">#</a> <center>Final Fantasy TCG Bay Area </center></h1>
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
 <img src="https://imgur.com/UPxUrSW.jpg">
+<p><a href="./blog/2023-05-24_2023_Summary_Organized_Play"><strong>Organized Play 2023 Summary (Nov 2023)</strong></a></p>
 <h2 id="news-and-announcements" tabindex="-1"><a class="header-anchor" href="#news-and-announcements" aria-hidden="true">#</a> News and Announcements</h2>
 <p><strong>Event</strong>: Christmas Party at <a href="about#king-kong-games">King Kong Games</a>!</p>
 <p><strong>Date</strong>: Fri, Dec 15</p>

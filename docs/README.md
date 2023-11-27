@@ -13,6 +13,8 @@ summary: Home
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
 <img src="https://imgur.com/UPxUrSW.jpg">
 
+<a href="./blog/2023-05-24_2023_Summary_Organized_Play">**Organized Play 2023 Summary (Nov 2023)**</a>
+
 ## News and Announcements
 **Event**: Christmas Party at <a href="about#king-kong-games">King Kong Games</a>! 
 
