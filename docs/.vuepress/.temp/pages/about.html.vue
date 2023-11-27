@@ -74,7 +74,7 @@
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Wednesdays</li>
-<li>6:30pm (Open Play $5)</li>
+<li>6:00pm (Open Play $5)</li>
 </ul>
 </li>
 </ul>
@@ -83,12 +83,12 @@
 <li><strong>Website</strong>: <a href="https://www.galaxygamesca.com/"> https://www.galaxygamesca.com/</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/galaxygamestore/"> https://www.facebook.com/galaxygamestore/</a></li>
 <li><strong>Location</strong>: 6715 Dublin Blvd, Unit H Dublin, CA 94568 <a href="https://maps.app.goo.gl/tXfXkw5VwaFiJViL7">[Google Maps]</a></li>
-<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Gavin</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a></li>
+<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/people/Gavin-Scott/pfbid02Prdket8VefjL3VmqSFbD6PDhE5CBrZQBbmkqUc5EjU8skP6zdAvHoDyzF4N3Yyz3l/">Gavin Scott</a></li>
+<li><strong>Discord</strong>: <a href="https://discord.com/channels/690631763051151390/690631763889750080"> [Link]</a></li>
 <li><strong>Event Days/Times</strong>:
 <ul>
-<li>Fridays</li>
-<li>8:00pm (Constructed $10)</li>
+<li>Saturdays</li>
+<li>2:00pm (Free Play)</li>
 </ul>
 </li>
 </ul>

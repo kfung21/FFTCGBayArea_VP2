@@ -1115,7 +1115,7 @@ Fire</p>
 <li>(1x) [19-002L] Ace</li>
 <li>(1x) [19-108L] Zidane</li>
 <li>(1x) [PR-108] Squall</li>
-<li>(2x) [21-036H] Y’shtola</li>
+<li>(2x) [21-036H] Y’shtola ※</li>
 </ul>
 <p>※There are 18 cards in total, including 1 Full Art Standard card for each card and 1 Premium Framed card of Y'shtola [21-036H].
 ◆Crystal cards: 2 types, 1 each</p>
