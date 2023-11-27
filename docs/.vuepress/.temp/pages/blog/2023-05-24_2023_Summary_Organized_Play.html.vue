@@ -1,5 +1,5 @@
 <template><div><TagLinks /><h1 id="summary-of-organized-play-2023" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023</h1>
-<p>(UPDATED June 2023) <br>
+<p>(UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="oregon-8-19-2023" tabindex="-1"><a class="header-anchor" href="#oregon-8-19-2023" aria-hidden="true">#</a> Oregon (8/19/2023)</h3>
