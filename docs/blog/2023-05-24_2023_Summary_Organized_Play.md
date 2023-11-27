@@ -79,10 +79,6 @@ summary: Overview of OP 2023
 * Zulu's Board Game Cafe Decklists <a href="https://ffdecks.com/tournament/seattle-store-championship-zulus-board-game-cafe/6061898849058816">[FFDecks]</a>
 ###  California (6/17/23)
 * CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
-###  California (6/17/23)
-* CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
-###  California (6/17/23)
-* CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a>
 ###  Germany (6/16/23)
 * Kinder- und Jugendfreizeithaus CORN (Top 16) Decklists <a href="https://ffdecks.com/tournament/store-championship-berlin-1-16/6022934771531776">[FFDecks]</a>
 * Kinder- und Jugendfreizeithaus CORN (Top 28) Decklists <a href="https://ffdecks.com/tournament/store-championship-berlin-17-28/5413264700735488">[FFDecks]</a>
