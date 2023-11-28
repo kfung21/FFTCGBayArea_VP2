@@ -17,8 +17,7 @@ summary: Overview of OP 2023
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
 
 ## National Championships
-
-## Japan (10/28/2023)
+### Japan (10/28/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a>
 
 ### South East Asia (10/14/2023)
