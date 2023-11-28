@@ -16,6 +16,20 @@ summary: Overview of OP 2023
 (UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
 
+## National Championships
+
+## Japan (10/28/2023)
+* Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a>
+
+### South East Asia (10/14/2023)
+* Top 8 <a href="https://ffdecks.com/tournament/south-east-asia-championship-2023-1st-8th/6217018719076352">[FFDecks]</a>
+  
+### Europe (9/16/2023)
+* Top 8 <a href="https://ffdecks.com/tournament/european-championship-2023-1st-8th/5957921595719680">[FFDecks]</a>
+  
+### North America (9/9/2023)
+* Top 8 <a href="https://ffdecks.com/tournament/north-american-continental-championship-2023-1st-8th/6267335536017408">[FFDecks]</a>
+
 ## Materia Cups
 
 ### Oregon (8/19/2023)
