@@ -23,6 +23,8 @@ export const pagesComponents = {
   "v-1670bc3b": defineAsyncComponent(() => import(/* webpackChunkName: "v-1670bc3b" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-06-19_BennyCardArtTop8Report.html.vue")),
   // path: /blog/2023-11-25_2023_StarterDecks.html
   "v-aa559032": defineAsyncComponent(() => import(/* webpackChunkName: "v-aa559032" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-11-25_2023_StarterDecks.html.vue")),
+  // path: /blog/2023-12-01_2023_Promos.html
+  "v-d9b7c3be": defineAsyncComponent(() => import(/* webpackChunkName: "v-d9b7c3be" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-12-01_2023_Promos.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /404.html

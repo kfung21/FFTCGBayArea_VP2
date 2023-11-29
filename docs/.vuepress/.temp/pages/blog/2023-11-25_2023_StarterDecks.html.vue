@@ -2,9 +2,11 @@
 <p>(UPDATED Nov 2023) <br></p>
 <h2 id="opus-starter-decks" tabindex="-1"><a class="header-anchor" href="#opus-starter-decks" aria-hidden="true">#</a> Opus Starter Decks</h2>
 <h3 id="opus-i-2016" tabindex="-1"><a class="header-anchor" href="#opus-i-2016" aria-hidden="true">#</a> Opus I (2016)</h3>
-<p><a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a></p>
+<p>[<a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a>]</p>
 <img src="https://i.imgur.com/f1KKnzj.jpg">
 <p><strong>VII Fire/Earth Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/3">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/133817/final-fantasy-tcg-opus-i-final-fantasy-vii-starter-set">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-004C] Ifrit</li>
 <li>(2x) [1-010C] Black Mage</li>
@@ -28,6 +30,8 @@
 <li>(3x) [1-206S] Biggs</li>
 </ul>
 <p><strong>FFX Water/Wind Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/4">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/133818/final-fantasy-tcg-opus-i-final-fantasy-x-starter-set">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-068C] Evoker</li>
 <li>(2x) [1-074R] Sylph</li>
@@ -51,6 +55,8 @@
 <li>(3x) [1-216S] Wakka</li>
 </ul>
 <p><strong>FFXIII Ice/Lighting Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/5">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/133819/final-fantasy-tcg-opus-i-final-fantasy-xiii-starter-set">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-036C] Bard</li>
 <li>(2x) [1-038R] Shiva</li>
@@ -78,6 +84,8 @@
 <p><a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_TYPE-0_Starter_Set">Jul 2017</a></p>
 <img src="https://i.imgur.com/vOzk1hx.png">
 <p><strong>FF Type-0 Wind/Lightning Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/15">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/133564/final-fantasy-tcg-opus-iii-final-fantasy-type-0-starter-set">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-068C] Evoker</li>
 <li>(2x) [1-075C] Chocobo</li>
@@ -103,6 +111,8 @@
 <li>(3x) [3-153S] Ace</li>
 </ul>
 <p><strong>FF IX Fire/Water Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/16">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/133565/final-fantasy-tcg-opus-iii-final-fantasy-ix-starter-set">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-008C] Ranger</li>
 <li>(2x) [1-011C] Evoker</li>
@@ -131,6 +141,8 @@
 <h3 id="opus-v-2018" tabindex="-1"><a class="header-anchor" href="#opus-v-2018" aria-hidden="true">#</a> Opus V (2018)</h3>
 <img src="https://i.imgur.com/Lbc78Hn.jpg">
 <p><strong>FF XII Wind/Water Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/33">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/157797/final-fantasy-tcg-opus-v-final-fantasy-xii-starter-set-2018">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-068C] Evoker</li>
 <li>(2x) [1-088C] Archer</li>
@@ -156,6 +168,8 @@
 <li>(3x) [5-166S] Rasler</li>
 </ul>
 <p><strong>FF XIII-2 Ice/Fire Starter Decks</strong></p>
+<p>[<a href="https://materiahunter.com/products/34">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/157798/final-fantasy-tcg-opus-v-final-fantasy-xiii-starter-set-2018">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-010C] Black Mage</li>
 <li>(2x) [1-011C] Evoker</li>
@@ -181,6 +195,8 @@
 <li>(3x) [5-154S] Yeul</li>
 </ul>
 <p><strong>FF XIV Earth/Lightning Starter Deck</strong></p>
+<p>[<a href="https://materiahunter.com/products/35">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/157799/final-fantasy-tcg-opus-v-final-fantasy-xiv-starter-set-2018">TCGPlayer</a>]</p>
 <ul>
 <li>(2x) [1-099C] Black Belt</li>
 <li>(2x) [1-105C] Evoker</li>
@@ -207,7 +223,9 @@
 <h3 id="opus-viii-2019" tabindex="-1"><a class="header-anchor" href="#opus-viii-2019" aria-hidden="true">#</a> Opus VIII (2019)</h3>
 <img src="https://i.imgur.com/FBoW1w3.jpg"> 
 <p><a href="https://fftcg.boards.net/thread/649/starter-deck-lists">Mar 2019</a></p>
-<p><strong>FFVII Earth/Wind Starter Deck</strong> <br></p>
+<p><strong>FFVII Earth/Wind Starter Deck</strong> <br>
+[<a href="https://materiahunter.com/products/56">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/184329/final-fantasy-tcg-opus-viii-final-fantasy-vii-starter-set-2019">TCGPlayer</a>]</p>
 <p>Deck list</p>
 <ul>
 <li>(2x) [1-065C] Aerith</li>
@@ -234,7 +252,9 @@
 <li>(3x) [8-145S] Barrett</li>
 </ul>
 <img src="https://i.imgur.com/O2xegQF.jpg">
-<p><strong>FFXIV Fire/Lightning Starter Deck</strong></p>
+<p><strong>FFXIV Fire/Lightning Starter Deck</strong>
+[<a href="https://materiahunter.com/products/57">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/184330/final-fantasy-tcg-opus-viii-final-fantasy-xiv-starter-set-2019">TCGPlayer</a>]</p>
 <p>Deck list</p>
 <ul>
 <li>(2x) [1-011C] Evoker</li>
@@ -263,7 +283,9 @@
 <h2 id="customizeable-decks" tabindex="-1"><a class="header-anchor" href="#customizeable-decks" aria-hidden="true">#</a> Customizeable Decks</h2>
 <h3 id="ffx-2022" tabindex="-1"><a class="header-anchor" href="#ffx-2022" aria-hidden="true">#</a> FFX (2022)</h3>
 <img src="https://i.imgur.com/1jhiLcV.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/fftcg-custom-starter-set-final-fantasy-x-first-look">Feb 2022</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/fftcg-custom-starter-set-final-fantasy-x-first-look">Feb 2022</a>
+[<a href="https://materiahunter.com/products/133">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/266940/final-fantasy-tcg-emissaries-of-light-custom-starter-set-final-fantasy-x">TCGPlayer</a>]</p>
 <p><strong>Starter deck</strong></p>
 <p>Forwards (27)</p>
 <ul>
@@ -319,7 +341,9 @@ Summons (5)</li>
 </ul>
 <h3 id="ff-xiii-2023" tabindex="-1"><a class="header-anchor" href="#ff-xiii-2023" aria-hidden="true">#</a> FF XIII (2023)</h3>
 <img src="https://i.imgur.com/8pM8Gmx.jpg">
-<p><a href ="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-xiii-custom-starter-set-and-from-nightmares-booster-pack">Feb 2023</a></p>
+<p><a href ="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-xiii-custom-starter-set-and-from-nightmares-booster-pack">Feb 2023</a>
+[<a href="https://materiahunter.com/products/160">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/477189/final-fantasy-tcg-from-nightmares-custom-starter-set-final-fantasy-xiii">TCGPlayer</a>]</p>
 <p><strong>Default Starter Deck</strong>  <br>
 Forwards (23)</p>
 <p>Fire</p>
@@ -408,7 +432,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <h2 id="two-player-decks" tabindex="-1"><a class="header-anchor" href="#two-player-decks" aria-hidden="true">#</a> Two Player Decks</h2>
 <h3 id="villains-heroes-2018" tabindex="-1"><a class="header-anchor" href="#villains-heroes-2018" aria-hidden="true">#</a> Villains &amp; Heroes (2018)</h3>
 <img src="https://i.imgur.com/F3RVxxB.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/release/opus-vii">Nov 2018</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/release/opus-vii">Nov 2018</a>
+[<a href="https://materiahunter.com/products/46">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/179212/final-fantasy-tcg-opus-vii-two-player-starter-set-villains-and-heroes">TCGPlayer</a>]</p>
 <p><strong>Villains</strong></p>
 <ul>
 <li>(2x) [1-048C] Devout</li>
@@ -459,7 +485,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <h3 id="wraith-vs-knight-2019" tabindex="-1"><a class="header-anchor" href="#wraith-vs-knight-2019" aria-hidden="true">#</a> Wraith vs Knight (2019)</h3>
 <img src="https://i.imgur.com/yd5m39R.jpg">
-<p><a href="https://press.na.square-enix.com/FINAL-FANTASY-TRADING-CARD-GAME-WRAITH-VS-KNIGHT-2-PLAYER-STARTER-SET-">Sep 2019</a></p>
+<p><a href="https://press.na.square-enix.com/FINAL-FANTASY-TRADING-CARD-GAME-WRAITH-VS-KNIGHT-2-PLAYER-STARTER-SET-">Sep 2019</a>
+[<a href="https://materiahunter.com/products/74">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/198837/final-fantasy-tcg-opus-x-two-player-starter-set-wraith-vs-knight-2-player">TCGPlayer</a>]</p>
 <p><strong>Wraith Deck</strong> [Fire/Earth]</p>
 <ul>
 <li>(3x) [10-140S] Cloud of Darkness</li>
@@ -504,10 +532,11 @@ By replacing the cards in the deck according to your preference, you can adjust 
 <li>(3x) [05-114C] Cannoneer</li>
 <li>(2x) [07-103C] Ramuh</li>
 </ul>
-<img src="https://i.imgur.com/DSKilz9.jpg">
 <h3 id="cloud-vs-sephiroth-2020" tabindex="-1"><a class="header-anchor" href="#cloud-vs-sephiroth-2020" aria-hidden="true">#</a> Cloud vs Sephiroth (2020)</h3>
 <img src="https://i.imgur.com/DSKilz9.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/cloud-vs-sephiroth-two-player-starter-set-full-reveal">Feb 2020</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/cloud-vs-sephiroth-two-player-starter-set-full-reveal">Feb 2020</a>
+[<a href="https://materiahunter.com/products/83">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/206224/Final%20Fantasy%20TCG-Opus%20XI-Two%20Player%20Starter%20Set%20Cloud%20vs%20Sephiroth">TCGPlayer</a>]</p>
 <p><strong>Cloud Deck</strong></p>
 <ul>
 <li>(3x) [11-136S] Cloud</li>
@@ -552,7 +581,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <h3 id="shadowbringers-2021" tabindex="-1"><a class="header-anchor" href="#shadowbringers-2021" aria-hidden="true">#</a> Shadowbringers (2021)</h3>
 <img src="https://i.imgur.com/pIX86Gv.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/final-fantasy-xiv-shadowbringers-two-player-starter-cards-reveal">Feb 2021</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/final-fantasy-xiv-shadowbringers-two-player-starter-cards-reveal">Feb 2021</a>
+[<a href="https://materiahunter.com/products/106">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/230157/final-fantasy-tcg-opus-xiii-crystal-radiance-two-player-starter-set-final-fantasy-xiv-shadowbringers">TCGPlayer</a>]</p>
 <p><strong>The Crystal Exarch Deck (Earth/Lightning)</strong></p>
 <ul>
 <li>(1x) [13-133S] The Crystal Exarch Full Art</li>
@@ -599,7 +630,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <h3 id="avalanche-vs-shinra-2021" tabindex="-1"><a class="header-anchor" href="#avalanche-vs-shinra-2021" aria-hidden="true">#</a> Avalanche vs Shinra (2021)</h3>
 <img src="https://i.imgur.com/Ewc19aV.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/avalanche-vs-shinra-two-player-starter-set">Oct 2021</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/avalanche-vs-shinra-two-player-starter-set">Oct 2021</a>
+[<a href="https://materiahunter.com/products/124">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/245898/final-fantasy-tcg-crystal-dominion-two-player-starter-set-avalanche-vs-shinra">TCGPlayer</a>]</p>
 <p><strong>Avalanche Deck</strong></p>
 <p>Forwards (26)</p>
 <ul>
@@ -663,7 +696,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <h3 id="golbez-vs-cecil-2022" tabindex="-1"><a class="header-anchor" href="#golbez-vs-cecil-2022" aria-hidden="true">#</a> Golbez vs Cecil (2022)</h3>
 <img src="https://i.imgur.com/e9sfVOt.jpg">
-<p><a href="https://fftcg.square-enix-games.com/na/news/new-booster-and-starter-sets-rebellion-s-call-and-golbez-vs-cecil">Jul 2022</a></p>
+<p><a href="https://fftcg.square-enix-games.com/na/news/new-booster-and-starter-sets-rebellion-s-call-and-golbez-vs-cecil">Jul 2022</a>
+[<a href="https://materiahunter.com/products/143">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/271565/final-fantasy-tcg-rebellions-call-two-player-starter-set-golbez-vs-cecil">TCGPlayer</a>]</p>
 <p><strong>Golbez Deck</strong></p>
 <p>Forwards (23)</p>
 <ul>
@@ -727,7 +762,9 @@ By replacing the cards in the deck according to your preference, you can adjust 
 </ul>
 <h3 id="noctis-vs-ardyn-2022" tabindex="-1"><a class="header-anchor" href="#noctis-vs-ardyn-2022" aria-hidden="true">#</a> Noctis vs. Ardyn (2022)</h3>
 <img src="https://i.imgur.com/nFX2pjz.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/new-product-information-noctis-vs-ardyn-two-player-starter-set-resurgence-of-power-booster-pack">Oct 2022</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/new-product-information-noctis-vs-ardyn-two-player-starter-set-resurgence-of-power-booster-pack">Oct 2022</a>
+[<a href="https://materiahunter.com/products/150">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/282031/final-fantasy-tcg-resurgence-of-power-two-player-starter-set-noctis-vs-ardyn">TCGPlayer</a>]</p>
 <p>Noctis Deck
 Forwards (26)</p>
 <ul>
@@ -792,7 +829,9 @@ Forwards (26)</p>
 <h2 id="multi-player-boss-decks" tabindex="-1"><a class="header-anchor" href="#multi-player-boss-decks" aria-hidden="true">#</a> Multi Player Boss Decks</h2>
 <h3 id="chaos-2021" tabindex="-1"><a class="header-anchor" href="#chaos-2021" aria-hidden="true">#</a> Chaos (2021)</h3>
 <img src="https://i.imgur.com/IuxnYgN.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/so-who-s-the-boss">Mar 2021</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/so-who-s-the-boss">Mar 2021</a>
+[<a href="https://materiahunter.com/products/108">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/230387/final-fantasy-tcg-boss-deck-chaos-multiplayer-challenge-boss-deck-chaos">TCGPlayer</a>]</p>
 <p>Starting Cards
 The following 3 cards will start the game with them placed on the BOSS field at the start of the game. (Common to difficulty NORMAL / HARD)</p>
 <ul>
@@ -853,7 +892,9 @@ If you want to play with HARD difficulty , replace all the cards marked with ★
 </ul>
 <h3 id="ff-vii-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-2023" aria-hidden="true">#</a> FF VII (2023)</h3>
 <img src="https://i.imgur.com/IiGoIEx.jpg">
-<p><a href="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-vii-boss-deck">Jan 2023</a></p>
+<p><a href="https://fftcg.square-enix-games.com/na/news/new-product-final-fantasy-vii-boss-deck">Jan 2023</a>
+[<a href="https://materiahunter.com/products/158">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/477236/final-fantasy-tcg-boss-deck-final-fantasy-vii-multiplayer-challenge-boss-deck-final-fantasy-vii">TCGPlayer</a>]</p>
 <p>NORMAL/HARD</p>
 <ul>
 <li>(1x) [B-028] Sephiroth</li>
@@ -913,19 +954,21 @@ BOSS uses the following 80 cards as a deck <br></p>
 <h2 id="collection-sets" tabindex="-1"><a class="header-anchor" href="#collection-sets" aria-hidden="true">#</a> Collection Sets</h2>
 <h3 id="anniversary-2022" tabindex="-1"><a class="header-anchor" href="#anniversary-2022" aria-hidden="true">#</a> Anniversary (2022)</h3>
 <img src="https://i.imgur.com/jNYQXCn.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/anniversary-collection-set-2022-full-card-list">May 2022</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/anniversary-collection-set-2022-full-card-list">May 2022</a>
+[<a href="https://materiahunter.com/products/139">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/270499/final-fantasy-tcg-ff-promo-cards-anniversary-collection-set-2022-box">TCGPlayer</a>]</p>
 <p>Fire/Water Starter Deck</p>
 <p>Forwards (27)</p>
 <ul>
 <li>(3x) Squall [PR-108]</li>
 <li>(3x) Dadaluma [11-011R]</li>
-<li>(2x) Cloud [8-006L]</li>
+<li>(2x) Cloud [8-006L] ※</li>
 <li>(3x) Yuna [PR-109]</li>
 <li>(3x) Viking [4-133C]</li>
 <li>(3x) Leila [6-126R]</li>
-<li>(2x) Zidane [8-115L]</li>
+<li>(2x) Zidane [8-115L] ※</li>
 <li>(3x) Porom [9-115R]</li>
-<li>(2x) Ashe [10-106L]</li>
+<li>(2x) Ashe [10-106L] ※</li>
 <li>(3x) Lightning [PR-110]</li>
 </ul>
 <p>Backups (17)</p>
@@ -944,7 +987,7 @@ BOSS uses the following 80 cards as a deck <br></p>
 </ul>
 <p>Anniversary Promotion Card</p>
 <ul>
-<li>(3x) [PR-111] Yuna &amp; Tidus</li>
+<li>(3x) [PR-111] Yuna &amp; Tidus (Full Art Foils)</li>
 </ul>
 <p>Reprint Card List <br>
 Fire</p>
@@ -967,7 +1010,7 @@ Fire</p>
 <li>(3x) [4-034R] Cid (WOFF)</li>
 <li>(3x) [5-032H] Glasya Labolas</li>
 <li>(3x) [6-022R] Ysayle</li>
-<li>(2x) [6-041L] Rinoa</li>
+<li>(2x) [6-041L] Rinoa ※</li>
 <li>(3x) [9-030H] Hurdy</li>
 <li>(3x) [9-033C] Class Ninth Moogle</li>
 <li>(3x) [10-036R] Terra</li>
@@ -981,20 +1024,20 @@ Fire</p>
 <li>(3x) [3-056H] Zidane</li>
 <li>(3x) [4-058C] Cactuar</li>
 <li>(3x) [5-059R] Semih Lafihna</li>
-<li>(2x) [5-062L] Diabolos</li>
+<li>(2x) [5-062L] Diabolos ※</li>
 <li>(2x) [5-068L] Y'shtola</li>
 <li>(2x) [6-044L] Zidane</li>
 <li>(3x) [8-058R] Norschtalen</li>
 <li>(3x) [10-045C] Unsaganashi</li>
 <li>(3x) [10-047R] Echo</li>
 <li>(3x) [10-061C] Class Eighth Moogle</li>
-<li>(2x) [11-063L] Ritz</li>
+<li>(2x) [11-063L] Ritz ※</li>
 <li>(3x) [12-048R] Chocolatte</li>
 </ul>
 <p>Earth</p>
 <ul>
 <li>(3x) [1-095R] Enna Kros</li>
-<li>(2x) [1-107L] Shantotto</li>
+<li>(2x) [1-107L] Shantotto ※</li>
 <li>(3x) [1-110C] Titan</li>
 <li>(3x) [1-204S] Jessie</li>
 <li>(3x) [3-096R] Rydia</li>
@@ -1002,7 +1045,7 @@ Fire</p>
 <li>(3x) [5-091H] Star Sibyl</li>
 <li>(3x) [6-067R] Epitav</li>
 <li>(3x) [7-069C] Kolka</li>
-<li>(2x) [9-063L] Gabranth</li>
+<li>(2x) [9-063L] Gabranth ※</li>
 <li>(3x) [9-068H] Mist Dragon</li>
 <li>(3x) [9-074C] Class Tenth Moogle</li>
 <li>(3x) [9-076H] Larkeicus</li>
@@ -1010,7 +1053,7 @@ Fire</p>
 </ul>
 <p>Lightning</p>
 <ul>
-<li>(2x) [1-135L] Golbez</li>
+<li>(2x) [1-135L] Golbez ※</li>
 <li>(3x) [1-150R] Lulu</li>
 <li>(3x) [2-106R] Gramis</li>
 <li>(3x) [3-112H] Exodus, the Judge-Sal</li>
@@ -1021,7 +1064,7 @@ Fire</p>
 <li>(3x) [7-094R] Seymour</li>
 <li>(3x) [9-084H] Kain</li>
 <li>(3x) [9-093H] Bahamut ZERO</li>
-<li>(2x) [9-094L] Fusoya</li>
+<li>(2x) [9-094L] Fusoya ※</li>
 <li>(3x) [9-097C] Class Sixth Moogle</li>
 <li>(3x) [10-086C] Aldo</li>
 </ul>
@@ -1039,9 +1082,12 @@ Fire</p>
 <li>(3x) [1-183H] Cosmos</li>
 <li>(3x) [1-184H] Chaos</li>
 </ul>
+<p>※All of the Legend cards within the set come with two copies; one will be a Standard card, and the other will be a Standard Full Art card (not a Premium Foil version).</p>
 <h3 id="dissidia-2023" tabindex="-1"><a class="header-anchor" href="#dissidia-2023" aria-hidden="true">#</a> Dissidia (2023)</h3>
 <img src="https://i.imgur.com/rEBwSYw.jpg">
-<p><a href="https://fftcg.square-enix-games.com/en/news/dissidia-final-fantasy-collection-set-2023">Oct 2023</a></p>
+<p><a href="https://fftcg.square-enix-games.com/en/news/dissidia-final-fantasy-collection-set-2023">Oct 2023</a>
+[<a href="https://materiahunter.com/products/173">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/509416">TCGPlayer</a>]</p>
 <p><strong>Starter Cards</strong></p>
 <p>Fire</p>
 <ul>
@@ -1122,7 +1168,9 @@ Fire</p>
 <h2 id="special-sets" tabindex="-1"><a class="header-anchor" href="#special-sets" aria-hidden="true">#</a> Special Sets</h2>
 <h3 id="ff-vii-noir-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-noir-2023" aria-hidden="true">#</a> FF VII Noir (2023)</h3>
 <img src="https://i.imgur.com/wWImG3l.jpg">
-<p><a href="http://redirect.viglink.com/?key=f846cd2f542a5d478a743d8ee8173d7d&subId=6694769&u=https%3A//m.facebook.com/story.php%3Fstory_fbid%3Dpfbid02i5ofbTqPSj9n6p7J6rwaAcLij9iMMCmGiuPvSNoMX2gkavKyx8QswZpMThY1XWb4l%26id%3D100045469401301%26mibextid%3DNif5oz">Mar 2023</a></p>
+<p><a href="http://redirect.viglink.com/?key=f846cd2f542a5d478a743d8ee8173d7d&subId=6694769&u=https%3A//m.facebook.com/story.php%3Fstory_fbid%3Dpfbid02i5ofbTqPSj9n6p7J6rwaAcLij9iMMCmGiuPvSNoMX2gkavKyx8QswZpMThY1XWb4l%26id%3D100045469401301%26mibextid%3DNif5oz">Mar 2023</a>
+[<a href="https://materiahunter.com/products/161">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/product/487550/final-fantasy-tcg-ff-promo-cards-final-fantasy-annual-special-pr-card-collection-noir">TCGPlayer</a>]</p>
 <ul>
 <li>[11-139S] Aerith</li>
 <li>[14-121L] Barret</li>

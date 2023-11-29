@@ -21,6 +21,8 @@ export const pagesData = {
   "v-1670bc3b": () => import(/* webpackChunkName: "v-1670bc3b" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-06-19_BennyCardArtTop8Report.html.js").then(({ data }) => data),
   // path: /blog/2023-11-25_2023_StarterDecks.html
   "v-aa559032": () => import(/* webpackChunkName: "v-aa559032" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-11-25_2023_StarterDecks.html.js").then(({ data }) => data),
+  // path: /blog/2023-12-01_2023_Promos.html
+  "v-d9b7c3be": () => import(/* webpackChunkName: "v-d9b7c3be" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-12-01_2023_Promos.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
   // path: /404.html

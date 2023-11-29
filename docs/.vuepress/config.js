@@ -51,6 +51,10 @@ export default {
                         text: 'Starter Sets+',
                         link: '/blog/2023-11-25_2023_StarterDecks',
                     },
+                    {
+                        text: 'Promo Cards',
+                        link: '/blog/2023-12-01_2023_Promos',
+                    },
                 ],
 
             },

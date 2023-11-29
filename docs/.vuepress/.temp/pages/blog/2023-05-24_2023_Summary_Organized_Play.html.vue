@@ -1,6 +1,23 @@
 <template><div><TagLinks /><h1 id="summary-of-organized-play-2023" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023</h1>
 <p>(UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
+<h2 id="national-championships" tabindex="-1"><a class="header-anchor" href="#national-championships" aria-hidden="true">#</a> National Championships</h2>
+<h3 id="japan-10-28-2023" tabindex="-1"><a class="header-anchor" href="#japan-10-28-2023" aria-hidden="true">#</a> Japan (10/28/2023)</h3>
+<ul>
+<li>Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a></li>
+</ul>
+<h3 id="south-east-asia-10-14-2023" tabindex="-1"><a class="header-anchor" href="#south-east-asia-10-14-2023" aria-hidden="true">#</a> South East Asia (10/14/2023)</h3>
+<ul>
+<li>Top 8 <a href="https://ffdecks.com/tournament/south-east-asia-championship-2023-1st-8th/6217018719076352">[FFDecks]</a></li>
+</ul>
+<h3 id="europe-9-16-2023" tabindex="-1"><a class="header-anchor" href="#europe-9-16-2023" aria-hidden="true">#</a> Europe (9/16/2023)</h3>
+<ul>
+<li>Top 8 <a href="https://ffdecks.com/tournament/european-championship-2023-1st-8th/5957921595719680">[FFDecks]</a></li>
+</ul>
+<h3 id="north-america-9-9-2023" tabindex="-1"><a class="header-anchor" href="#north-america-9-9-2023" aria-hidden="true">#</a> North America (9/9/2023)</h3>
+<ul>
+<li>Top 8 <a href="https://ffdecks.com/tournament/north-american-continental-championship-2023-1st-8th/6267335536017408">[FFDecks]</a></li>
+</ul>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="oregon-8-19-2023" tabindex="-1"><a class="header-anchor" href="#oregon-8-19-2023" aria-hidden="true">#</a> Oregon (8/19/2023)</h3>
 <ul>
@@ -78,14 +95,6 @@
 <li>Zulu's Board Game Cafe Decklists <a href="https://ffdecks.com/tournament/seattle-store-championship-zulus-board-game-cafe/6061898849058816">[FFDecks]</a></li>
 </ul>
 <h3 id="california-6-17-23" tabindex="-1"><a class="header-anchor" href="#california-6-17-23" aria-hidden="true">#</a> California (6/17/23)</h3>
-<ul>
-<li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
-</ul>
-<h3 id="california-6-17-23-1" tabindex="-1"><a class="header-anchor" href="#california-6-17-23-1" aria-hidden="true">#</a> California (6/17/23)</h3>
-<ul>
-<li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
-</ul>
-<h3 id="california-6-17-23-2" tabindex="-1"><a class="header-anchor" href="#california-6-17-23-2" aria-hidden="true">#</a> California (6/17/23)</h3>
 <ul>
 <li>CardArt Decklists <a href="https://ffdecks.com/tournament/cardart-store-championship/6271782827851776">[FFDecks]</a></li>
 </ul>
