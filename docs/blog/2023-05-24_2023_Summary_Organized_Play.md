@@ -28,6 +28,8 @@ summary: Overview of OP 2023
   
 ### North America (9/9/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/north-american-continental-championship-2023-1st-8th/6267335536017408">[FFDecks]</a>
+* Day 2 Video <a href="https://youtu.be/0Xs_ZL7NrUY">[YouTube]</a>
+* Day 1 Video <a href="https://youtu.be/3iJrU7ym73M">[YouTube]</a>
 
 ## Materia Cups
 
