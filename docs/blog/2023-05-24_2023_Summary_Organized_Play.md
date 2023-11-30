@@ -26,6 +26,10 @@ summary: Overview of OP 2023
 * Top 8 <a href="https://ffdecks.com/tournament/south-east-asia-championship-2023-1st-8th/6217018719076352">[FFDecks]</a>
 * Day 2 Video <a href="https://www.youtube.com/live/UJs-X6fWrFg">[YouTube]</a>
 * Day 1 Video <a href="https://www.youtube.com/live/S0XhZB4xxZ0">[YouTube]</a>
+
+### Oceania (10/13/2023)
+* Top 8 <a href="https://ffdecks.com/tournament/oceania-continental-championships-2023-1st-8th/4998231084761088">[FFDecks]</a>
+* Finals Video <a href="https://youtu.be/CW8Lp4KhJ4E">[YouTube]</a>
   
 ### Europe (9/16/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/european-championship-2023-1st-8th/5957921595719680">[FFDecks]</a>
@@ -38,6 +42,10 @@ summary: Overview of OP 2023
 * Day 1 Video <a href="https://youtu.be/3iJrU7ym73M">[YouTube]</a>
 
 ## Materia Cups
+
+### Australia (8/28/2023)
+* Good Games Adelaide Finals Decklists (Top 8) <a href="https://ffdecks.com/tournament/materia-cup-adelaide/5185186112208896">[FFDecks]</a>
+* Finals Video <a href="https://youtu.be/ju3HCtTfFu8?si=iMBTHnfLkc0SwC3a">[YouTube]</a>
 
 ### Oregon (8/19/2023)
 * Epic Gaming PDX Decklists Day 2 (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-portland-day-2-top-8/4826865836490752">[FFDecks]</a>
