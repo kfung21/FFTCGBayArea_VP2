@@ -3,6 +3,8 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /about.html
   "v-22a39d25": defineAsyncComponent(() => import(/* webpackChunkName: "v-22a39d25" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/about.html.vue")),
+  // path: /blog.html
+  "v-35f5db9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-35f5db9e" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog.html.vue")),
   // path: /calendar.html
   "v-7299f3fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7299f3fc" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/calendar.html.vue")),
   // path: /pricecheck.html
@@ -25,8 +27,6 @@ export const pagesComponents = {
   "v-aa559032": defineAsyncComponent(() => import(/* webpackChunkName: "v-aa559032" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-11-25_2023_StarterDecks.html.vue")),
   // path: /blog/2023-12-01_2023_Promos.html
   "v-d9b7c3be": defineAsyncComponent(() => import(/* webpackChunkName: "v-d9b7c3be" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-12-01_2023_Promos.html.vue")),
-  // path: /blog/
-  "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.vue")),
 }
