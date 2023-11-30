@@ -17,6 +17,8 @@
 <h3 id="north-america-9-9-2023" tabindex="-1"><a class="header-anchor" href="#north-america-9-9-2023" aria-hidden="true">#</a> North America (9/9/2023)</h3>
 <ul>
 <li>Top 8 <a href="https://ffdecks.com/tournament/north-american-continental-championship-2023-1st-8th/6267335536017408">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://youtu.be/0Xs_ZL7NrUY">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://youtu.be/3iJrU7ym73M">[YouTube]</a></li>
 </ul>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="oregon-8-19-2023" tabindex="-1"><a class="header-anchor" href="#oregon-8-19-2023" aria-hidden="true">#</a> Oregon (8/19/2023)</h3>

@@ -11,7 +11,7 @@ summary: Home
 # <center>Final Fantasy TCG Bay Area </center>
 
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
-<img src="https://imgur.com/UPxUrSW.jpg">
+<a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://imgur.com/UPxUrSW.jpg"></a>
 
 <a href="./blog/2023-05-24_2023_Summary_Organized_Play">**Organized Play 2023 Summary (Nov 2023)**</a>
 

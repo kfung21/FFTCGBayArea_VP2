@@ -183,20 +183,20 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <p><a href="2023-11-25_2023_StarterDecks#ffx-2022">Final Fantasy X (2022)</a></p>
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/16/16-139_FA.jpg">[16-139S]</a> - Tidus</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/16/2-138L_NF_FA.jpg">[2-138L]</a> - Yuna</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/16/2-138L_NF_FA.jpg">[2-138L]</a> - Yuna (NF)</li>
 </ul>
 <p><a href="2023-11-25_2023_StarterDecks#ff-xiii-2023">Final Fantasy XIII (2023)</a></p>
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/19-138_FA.jpg">[19-138S]</a> - Lightning</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/13-081_FA.jpg">[13-081H]</a> - Lightning</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/13-081_FA.jpg">[13-081H]</a> - Lightning (NF)</li>
 </ul>
 <h3 id="two-player-sets" tabindex="-1"><a class="header-anchor" href="#two-player-sets" aria-hidden="true">#</a> Two Player Sets</h3>
 <p><a href="2023-11-25_2023_StarterDecks#wraith-vs-knight-2019">Wraith vs Knight (2019)</a></p>
 <ul>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-019_FA.jpg">[5-019L]</a> - Phoenix</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-062_FA.jpg">[5-062L]</a> - Diabolos</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-086_FA.jpg">[5-086L]</a> - Cecil</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/4-054_FA.jpg">[4-054L]</a> - Onion Knight</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-019_FA.jpg">[5-019L]</a> - Phoenix (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-062_FA.jpg">[5-062L]</a> - Diabolos (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-086_FA.jpg">[5-086L]</a> - Cecil (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/4-054_FA.jpg">[4-054L]</a> - Onion Knight (NF)</li>
 </ul>
 <p><a href="2023-11-25_2023_StarterDecks#cloud-vs-sephiroth-2020">Cloud vs Sephiroth (2020)</a></p>
 <ul>
@@ -207,20 +207,20 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/13-131_FA.jpg">[13-131S]</a> - Emet-Selch</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/13-133_FA.jpg">[13-133S]</a> - The Crystal Exarch</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/9-014_FA.jpg">[9-014L]</a> - Nael</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/6-079_FA.jpg">[6-079L]</a> - Minfilia</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/9-014_FA.jpg">[9-014L]</a> - Nael (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/6-079_FA.jpg">[6-079L]</a> - Minfilia (NF)</li>
 </ul>
 <p><a href="2023-11-25_2023_StarterDecks#avalanche-vs-shinra-2021">Avalanche vs Shinra (2021)</a></p>
 <ul>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-139_FA.jpg">[15-139S]</a> - Cloud</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-140_FA.jpg">[15-140S]</a> - Rufus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-139_FA.jpg">[15-139S]</a> - Cloud (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-140_FA.jpg">[15-140S]</a> - Rufus (NF)</li>
 </ul>
 <p><a href="2023-11-25_2023_StarterDecks#golbez-vs-cecil-2022">Golbez vs Cecil (2022)</a></p>
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/17-139_FA.jpg">[17-139S]</a> - Cecil</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/17-140_FA.jpg">[17-140S]</a> - Golbez</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/15-014_FA.jpg">[15-014H]</a> - Brynhildr</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/15-090_FA.jpg">[15-090H]</a> - Odin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/15-014_FA.jpg">[15-014H]</a> - Brynhildr (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/15-090_FA.jpg">[15-090H]</a> - Odin (NF)</li>
 </ul>
 <p><a href="2023-11-25_2023_StarterDecks#noctis-vs-ardyn-2022">Noctis vs Ardyn (2022)</a></p>
 <ul>
@@ -239,45 +239,45 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <h3 id="collection-sets" tabindex="-1"><a class="header-anchor" href="#collection-sets" aria-hidden="true">#</a> Collection Sets</h3>
 <p><a href="2023-11-25_2023_StarterDecks#anniversary-2022">Anniversary (2022)</a></p>
 <ul>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/10-106_FA.jpg">[10-106L]</a> - Ashe</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/8-006_FA.jpg">[8-006L]</a> - Cloud</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-062_FA.jpg">[5-062L]</a> - Diabolos</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/9-094_FA.jpg">[9-094L]</a> - Fusoya</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/1-135L_NF_FA.jpg">[1-135L]</a> - Golbez</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/9-063_FA.jpg">[9-063L]</a> - Gabranth</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/11-063_FA.jpg">[11-063L]</a> - Ritz</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/10-106_FA.jpg">[10-106L]</a> - Ashe (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/8-006_FA.jpg">[8-006L]</a> - Cloud (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-062_FA.jpg">[5-062L]</a> - Diabolos (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/9-094_FA.jpg">[9-094L]</a> - Fusoya (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/1-135L_NF_FA.jpg">[1-135L]</a> - Golbez (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/9-063_FA.jpg">[9-063L]</a> - Gabranth (NF)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-110_FA_F.jpg">[PR-110]</a> - Lightning</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/6-041_FA.jpg">[6-041L]</a> - Rinoa</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/12/1-107_FA.jpg">[1-107L]</a> - Shantotto</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/6-041_FA.jpg">[6-041L]</a> - Rinoa (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/11-063_FA.jpg">[11-063L]</a> - Ritz (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/12/1-107_FA.jpg">[1-107L]</a> - Shantotto (NF)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-108_FA_F.jpg">[PR-108]</a> - Squall</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/5-068_FA.jpg">[5-068L]</a> - Y’shtola</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/5-068_FA.jpg">[5-068L]</a> - Y’shtola (NF)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-109_FA_F.jpg">[PR-109]</a> - Yuna</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-111_F.jpg">[PR-111]</a> - Yuna &amp; Tidus</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/6-044_FA.jpg">[6-044L]</a> - Zidane</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/8-115_FA.jpg">[8-115L]</a> - Zidane</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/6-044_FA.jpg">[6-044L]</a> - Zidane (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/8-115_FA.jpg">[8-115L]</a> - Zidane (NF)</li>
 </ul>
 <p><a href="2023-11-25_2023_StarterDecks#dissidia-2023">Dissidia (2023)</a></p>
 <ul>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-002L_NF_FA.jpg">[19-002L]</a> - Ace</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/12-052H_NF_FA.jpg">[12-052H]</a> - Bartz</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-134S_NF_FA.jpg">[21-134S]</a> - Bartz</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-051L_NF_FA.jpg">[16-051L]</a> - Cecil</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/14-065L_NF_FA.jpg">[14-065L]</a> - Cloud</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/18-130L_NF_FA.jpg">[18-130L]</a> - Firion</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/13-081_FA.jpg">[13-081H]</a> - Lightning</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/12-121R_NF_FA.jpg">[12-121R]</a> - Noctis</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/13-106H_NF_FA.jpg">[13-106H]</a> - Onion Knight</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/13-121R_NF_FA.jpg">[13-121R]</a> - Ramza</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-030L_NF_FA.jpg">[16-030L]</a> - Shantotto</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-108_FA_F.jpg">[PR-108]</a> - Squall</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/15-037L_NF_FA.jpg">[15-037L]</a> - Terra</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-116L_NF_FA.jpg">[16-116L]</a> - Tidus</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/14-125L_NF_FA.jpg">[14-125L]</a> - Vaan</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-127L_NF_FA.jpg">[16-127L]</a> - Warrior of Light</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-036H_FA.jpg">[21-036H]</a> - Y’shtola</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-108L_NF_FA.jpg">[19-108L]</a> - Zidane</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/C-001_NF_FA.jpg">[C-001]</a> - Crystal (Red)</li>
-<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/C-002_NF_FA.jpg">[C-002]</a> - Crystal (Green)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-002L_NF_FA.jpg">[19-002L]</a> - Ace (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/12-052H_NF_FA.jpg">[12-052H]</a> - Bartz (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-134S_NF_FA.jpg">[21-134S]</a> - Bartz (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-051L_NF_FA.jpg">[16-051L]</a> - Cecil (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/14-065L_NF_FA.jpg">[14-065L]</a> - Cloud (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/18-130L_NF_FA.jpg">[18-130L]</a> - Firion (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/13-081_FA.jpg">[13-081H]</a> - Lightning (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/12-121R_NF_FA.jpg">[12-121R]</a> - Noctis (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/13-106H_NF_FA.jpg">[13-106H]</a> - Onion Knight (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/13-121R_NF_FA.jpg">[13-121R]</a> - Ramza (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-030L_NF_FA.jpg">[16-030L]</a> - Shantotto (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-108_FA_F.jpg">[PR-108]</a> - Squall (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/15-037L_NF_FA.jpg">[15-037L]</a> - Terra (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-116L_NF_FA.jpg">[16-116L]</a> - Tidus (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/14-125L_NF_FA.jpg">[14-125L]</a> - Vaan (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-127L_NF_FA.jpg">[16-127L]</a> - Warrior of Light (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-036H_FA.jpg">[21-036H]</a> - Y’shtola (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-108L_NF_FA.jpg">[19-108L]</a> - Zidane (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/C-001_NF_FA.jpg">[C-001]</a> - Crystal (Red) (NF)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/C-002_NF_FA.jpg">[C-002]</a> - Crystal (Green) (NF)</li>
 </ul>
 <h2 id="noir-full-art-signatures" tabindex="-1"><a class="header-anchor" href="#noir-full-art-signatures" aria-hidden="true">#</a> <a href="2023-11-25_2023_StarterDecks#ff-vii-noir-2023">Noir Full Art Signatures</a></h2>
 <ul>
