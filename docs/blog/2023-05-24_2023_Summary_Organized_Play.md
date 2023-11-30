@@ -19,11 +19,13 @@ summary: Overview of OP 2023
 ## National Championships
 ### Japan (10/28/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a>
-* Video <a href="https://www.youtube.com/live/n97r0j3gb1k?si=BiwWzzENlwKatdFV">[YouTube]</a>
+* Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k?si=BiwWzzENlwKatdFV">[YouTube]</a>
+* Day 1 Video <a href="https://www.youtube.com/live/aaOGnEY9lO4">[YouTube]</a>
 
 ### South East Asia (10/14/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/south-east-asia-championship-2023-1st-8th/6217018719076352">[FFDecks]</a>
-* Video <a href="https://www.youtube.com/live/aaOGnEY9lO4">[YouTube]</a>
+* Day 2 Video <a href="https://www.youtube.com/live/UJs-X6fWrFg">[YouTube]</a>
+* Day 1 Video <a href="https://www.youtube.com/live/S0XhZB4xxZ0">[YouTube]</a>
   
 ### Europe (9/16/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/european-championship-2023-1st-8th/5957921595719680">[FFDecks]</a>
