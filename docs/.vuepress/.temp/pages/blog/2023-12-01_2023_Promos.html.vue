@@ -2,6 +2,7 @@
 <p>(UPDATED Dec 2023) <br>
 All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-variant-cards">FFTCG Boards</a> and <a href="https://materiahunter.com/">Materia Hunter</a></p>
 <h2 id="list-of-promos" tabindex="-1"><a class="header-anchor" href="#list-of-promos" aria-hidden="true">#</a> List of Promos</h2>
+<h3 id="_1-50" tabindex="-1"><a class="header-anchor" href="#_1-50" aria-hidden="true">#</a> 1-50</h3>
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-001_F.jpg">[PR-001]</a> - Sephiroth</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-002_F.jpg">[PR-002]</a> - Vincent</li>
@@ -54,6 +55,9 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-048_6-127L_F.jpg">[PR-048/6-127L]</a> - Hraesvelgr Chinese FA Chinese Opus VI Box</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-049_2-093.jpg">[PR-049/2-093H]</a> - Raubahn Japanese FA</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-050_1-080H_F.jpg">[PR-050/1-080H]</a> - Bartz FA World Champion Promo (6/19)</li>
+</ul>
+<h3 id="_51-100" tabindex="-1"><a class="header-anchor" href="#_51-100" aria-hidden="true">#</a> 51-100</h3>
+<ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-051_11-083R_F.jpg">[PR-051]</a> - Rydia FA (7/19)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-052_9-014L_F.jpg">[PR-052/9-014L]</a> - Nael Opus IX Booster Box FA</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-053_9-062H_F.jpg">[PR-053/9-062H]</a> - Vincent Opus IX Prerelease FA</li>
@@ -104,6 +108,9 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-098_2-137H_F.jpg">[PR-098/2-137H]</a> - Merlwyb FA(7/21)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-099_12-032R_F.jpg">[PR-099/12-032R]</a> - The Crystal Exarch FA (8/21)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-100_5-160S_F.jpg">[PR-100/5-160S]</a> - Minfilia FA (9/21)</li>
+</ul>
+<h3 id="_101-150" tabindex="-1"><a class="header-anchor" href="#_101-150" aria-hidden="true">#</a> 101-150</h3>
+<ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-101_13-114H_F.jpg">[PR-101/13-114H]</a> - Kunshira FA (10/21)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-102_15-128L_F.jpg">[PR-102/15-128L]</a> - Noctis Crystal Dominion Box Topper FA</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-103_15-055.jpg">[PR-103/15-055H]</a> - Bartz Crystal Dominion Prerelease FA</li>
@@ -154,6 +161,9 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-148_21-048L.jpg">[PR-148/21-048L]</a> - Princess Sarah Beyond Destiny Box Topper FA</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-149_21-123H.jpg">[PR-149/21-123H]</a> - Darkness Manifest Prerelease FA</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-150.jpg">[PR-150]</a> - The Scions of the Seventh Dawn FFXIV Anniversary Playmat</li>
+</ul>
+<h3 id="_151-200" tabindex="-1"><a class="header-anchor" href="#_151-200" aria-hidden="true">#</a> 151-200</h3>
+<ul>
 <li><a href="">[PR-151]</a></li>
 <li><a href="">[PR-152]</a></li>
 <li><a href="">[PR-153]</a></li>

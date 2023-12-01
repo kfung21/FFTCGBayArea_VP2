@@ -5,14 +5,25 @@
 <h3 id="japan-10-28-2023" tabindex="-1"><a class="header-anchor" href="#japan-10-28-2023" aria-hidden="true">#</a> Japan (10/28/2023)</h3>
 <ul>
 <li>Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k?si=BiwWzzENlwKatdFV">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://www.youtube.com/live/aaOGnEY9lO4">[YouTube]</a></li>
 </ul>
 <h3 id="south-east-asia-10-14-2023" tabindex="-1"><a class="header-anchor" href="#south-east-asia-10-14-2023" aria-hidden="true">#</a> South East Asia (10/14/2023)</h3>
 <ul>
 <li>Top 8 <a href="https://ffdecks.com/tournament/south-east-asia-championship-2023-1st-8th/6217018719076352">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://www.youtube.com/live/UJs-X6fWrFg">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://www.youtube.com/live/S0XhZB4xxZ0">[YouTube]</a></li>
+</ul>
+<h3 id="oceania-10-13-2023" tabindex="-1"><a class="header-anchor" href="#oceania-10-13-2023" aria-hidden="true">#</a> Oceania (10/13/2023)</h3>
+<ul>
+<li>Top 8 <a href="https://ffdecks.com/tournament/oceania-continental-championships-2023-1st-8th/4998231084761088">[FFDecks]</a></li>
+<li>Finals Video <a href="https://youtu.be/CW8Lp4KhJ4E">[YouTube]</a></li>
 </ul>
 <h3 id="europe-9-16-2023" tabindex="-1"><a class="header-anchor" href="#europe-9-16-2023" aria-hidden="true">#</a> Europe (9/16/2023)</h3>
 <ul>
 <li>Top 8 <a href="https://ffdecks.com/tournament/european-championship-2023-1st-8th/5957921595719680">[FFDecks]</a></li>
+<li>Day 2 Video <a href="https://www.youtube.com/live/Re4bSUZEZQo">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://www.youtube.com/live/-0dz9b7gZqc">[YouTube]</a></li>
 </ul>
 <h3 id="north-america-9-9-2023" tabindex="-1"><a class="header-anchor" href="#north-america-9-9-2023" aria-hidden="true">#</a> North America (9/9/2023)</h3>
 <ul>
@@ -21,6 +32,11 @@
 <li>Day 1 Video <a href="https://youtu.be/3iJrU7ym73M">[YouTube]</a></li>
 </ul>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
+<h3 id="australia-8-28-2023" tabindex="-1"><a class="header-anchor" href="#australia-8-28-2023" aria-hidden="true">#</a> Australia (8/28/2023)</h3>
+<ul>
+<li>Good Games Adelaide Finals Decklists (Top 8) <a href="https://ffdecks.com/tournament/materia-cup-adelaide/5185186112208896">[FFDecks]</a></li>
+<li>Finals Video <a href="https://youtu.be/ju3HCtTfFu8?si=iMBTHnfLkc0SwC3a">[YouTube]</a></li>
+</ul>
 <h3 id="oregon-8-19-2023" tabindex="-1"><a class="header-anchor" href="#oregon-8-19-2023" aria-hidden="true">#</a> Oregon (8/19/2023)</h3>
 <ul>
 <li>Epic Gaming PDX Decklists Day 2 (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-portland-day-2-top-8/4826865836490752">[FFDecks]</a></li>

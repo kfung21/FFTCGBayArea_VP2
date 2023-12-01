@@ -2,8 +2,8 @@
 <p>(UPDATED Nov 2023) <br></p>
 <h2 id="opus-starter-decks" tabindex="-1"><a class="header-anchor" href="#opus-starter-decks" aria-hidden="true">#</a> Opus Starter Decks</h2>
 <h3 id="opus-i-2016" tabindex="-1"><a class="header-anchor" href="#opus-i-2016" aria-hidden="true">#</a> Opus I (2016)</h3>
-<p>[<a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a>]</p>
 <img src="https://i.imgur.com/f1KKnzj.jpg">
+<a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a>
 <p><strong>VII Fire/Earth Starter Deck</strong></p>
 <p>[<a href="https://materiahunter.com/products/3">Materia Hunter</a>]
 [<a href="https://www.tcgplayer.com/product/133817/final-fantasy-tcg-opus-i-final-fantasy-vii-starter-set">TCGPlayer</a>]</p>
