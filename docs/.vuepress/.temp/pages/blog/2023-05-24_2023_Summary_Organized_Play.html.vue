@@ -1,6 +1,19 @@
 <template><div><TagLinks /><h1 id="summary-of-organized-play-2023" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023</h1>
 <p>(UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
+<h2 id="world-championships-12-2-2023" tabindex="-1"><a class="header-anchor" href="#world-championships-12-2-2023" aria-hidden="true">#</a> World Championships (12/2/2023)</h2>
+<ul>
+<li>Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM?si=wUNzMiFCxqrQYTyN">[YouTube]</a>
+<ul>
+<li>2 Deck Format:
+<ul>
+<li>Rounds 1-4: Deck A</li>
+<li>Rounds 5-8: Deck B</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 <h2 id="national-championships" tabindex="-1"><a class="header-anchor" href="#national-championships" aria-hidden="true">#</a> National Championships</h2>
 <h3 id="japan-10-28-2023" tabindex="-1"><a class="header-anchor" href="#japan-10-28-2023" aria-hidden="true">#</a> Japan (10/28/2023)</h3>
 <ul>

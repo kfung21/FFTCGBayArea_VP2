@@ -164,8 +164,8 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 </ul>
 <h3 id="_151-200" tabindex="-1"><a class="header-anchor" href="#_151-200" aria-hidden="true">#</a> 151-200</h3>
 <ul>
-<li><a href="">[PR-151]</a></li>
-<li><a href="">[PR-152]</a></li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-151_16-104R_F_FA.jpg">[PR-151/16-104R]</a> - Reeve (11/23)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-152_17-065H_F_FA.jpg">[PR-152]</a> - Arciela (12/23)</li>
 <li><a href="">[PR-153]</a></li>
 <li><a href="">[PR-154]</a></li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-155_F_FA.jpg">[PR-155]</a> - Laguna Anniversary Collection Set 2024 Exclusive</li>

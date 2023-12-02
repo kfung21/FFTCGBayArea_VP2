@@ -18,6 +18,9 @@ summary: Overview of OP 2023
 
 ## World Championships (12/2/2023)
 * Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM?si=wUNzMiFCxqrQYTyN">[YouTube]</a>
+  * 2 Deck Format:
+    * Rounds 1-4: Deck A
+    * Rounds 5-8: Deck B
 
 ## National Championships
 ### Japan (10/28/2023)
