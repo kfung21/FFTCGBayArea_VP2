@@ -17,7 +17,8 @@ summary: Overview of OP 2023
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
 
 ## World Championships (12/2/2023)
-* Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM?si=wUNzMiFCxqrQYTyN">[YouTube]</a>
+* Day 2 Video <a href="https://www.youtube.com/live/WtovkJk8qqM">[YouTube]</a>
+* Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM">[YouTube]</a>
   * 2 Deck Format:
     * Rounds 1-4: Deck A
     * Rounds 5-8: Deck B
@@ -25,7 +26,7 @@ summary: Overview of OP 2023
 ## National Championships
 ### Japan (10/28/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a>
-* Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k?si=BiwWzzENlwKatdFV">[YouTube]</a>
+* Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k">[YouTube]</a>
 * Day 1 Video <a href="https://www.youtube.com/live/aaOGnEY9lO4">[YouTube]</a>
 
 ### South East Asia (10/14/2023)
