@@ -24,6 +24,9 @@ summary: Overview of OP 2023
     * Rounds 5-8: Deck B
 
 ## National Championships
+2 Deck Format:
+  * Best of 3 swiss
+  * Must win with both Decks
 ### Japan (10/28/2023)
 * Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a>
 * Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k">[YouTube]</a>
