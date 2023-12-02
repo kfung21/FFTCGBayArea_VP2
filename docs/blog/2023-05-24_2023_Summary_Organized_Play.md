@@ -16,7 +16,7 @@ summary: Overview of OP 2023
 (UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
 
-## World Championships
+## World Championships (12/2/2023)
 * Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM?si=wUNzMiFCxqrQYTyN">[YouTube]</a>
 
 ## National Championships
