@@ -3,7 +3,8 @@
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
 <h2 id="world-championships-12-2-2023" tabindex="-1"><a class="header-anchor" href="#world-championships-12-2-2023" aria-hidden="true">#</a> World Championships (12/2/2023)</h2>
 <ul>
-<li>Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM?si=wUNzMiFCxqrQYTyN">[YouTube]</a>
+<li>Day 2 Video <a href="https://www.youtube.com/live/WtovkJk8qqM">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM">[YouTube]</a>
 <ul>
 <li>2 Deck Format:
 <ul>
@@ -15,10 +16,15 @@
 </li>
 </ul>
 <h2 id="national-championships" tabindex="-1"><a class="header-anchor" href="#national-championships" aria-hidden="true">#</a> National Championships</h2>
+<p>2 Deck Format:</p>
+<ul>
+<li>Best of 3 swiss, 70 mins</li>
+<li>Must win with both Deck A and Deck B</li>
+</ul>
 <h3 id="japan-10-28-2023" tabindex="-1"><a class="header-anchor" href="#japan-10-28-2023" aria-hidden="true">#</a> Japan (10/28/2023)</h3>
 <ul>
 <li>Top 8 <a href="https://ffdecks.com/tournament/japan-national-championships-2023-day-2-1st-8th/5355446467559424">[FFDecks]</a></li>
-<li>Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k?si=BiwWzzENlwKatdFV">[YouTube]</a></li>
+<li>Day 2 Video <a href="https://www.youtube.com/live/n97r0j3gb1k">[YouTube]</a></li>
 <li>Day 1 Video <a href="https://www.youtube.com/live/aaOGnEY9lO4">[YouTube]</a></li>
 </ul>
 <h3 id="south-east-asia-10-14-2023" tabindex="-1"><a class="header-anchor" href="#south-east-asia-10-14-2023" aria-hidden="true">#</a> South East Asia (10/14/2023)</h3>
