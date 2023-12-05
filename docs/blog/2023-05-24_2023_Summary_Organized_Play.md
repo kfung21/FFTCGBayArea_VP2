@@ -4,19 +4,22 @@ date: 05-24-2023
 tags: 
   - FFTCG
   - Opus 19
-contributors: False
+contributors: FalseWorld Championship WinnersWorld Championship Winners
 blog: true
 sidebar: auto
 summary: Overview of OP 2023
 ---
 <TagLinks />
 
-# SUMMARY OF ORGANIZED PLAY 2023
+# SUMMARY OF ORGANIZED PLAY 2023World Championship Winners
 
 (UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
 
+
+
 ## World Championships (12/2/2023)
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1h8tmjjztdu-yZ8ZuWyt4GkxiGysTTu6hLzHcztmLlhk%3Ffbclid%3DIwAR3YtSJLa2wHZ45ev-7wJMbjUrhsAQ8CBEZZ2Hz2o8A8ZGKt1BKaNZZ3LRs&h=AT0bRxuuvceE-zYmjGsb8YPqthe_5juBHp9Yjuq6q-4YzIxALrBwz_Q9n5wBb9TXH7vCUgYn7Cz81AzJErO0BS1fJS69d5pg_o_Ukh92-slvdE28UYdyZJ9xrNHVnVmx7Wzx6GFzJKU5K3DxDiFlTA">List of World Championship Winners</a>
 * Day 2 Video <a href="https://www.youtube.com/live/WtovkJk8qqM">[YouTube]</a>
 * Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM">[YouTube]</a>
   * 2 Deck Format:
