@@ -1,7 +1,8 @@
-<template><div><TagLinks /><h1 id="summary-of-organized-play-2023" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023</h1>
+<template><div><TagLinks /><h1 id="summary-of-organized-play-2023world-championship-winners" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023world-championship-winners" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023World Championship Winners</h1>
 <p>(UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
 <h2 id="world-championships-12-2-2023" tabindex="-1"><a class="header-anchor" href="#world-championships-12-2-2023" aria-hidden="true">#</a> World Championships (12/2/2023)</h2>
+<p><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1h8tmjjztdu-yZ8ZuWyt4GkxiGysTTu6hLzHcztmLlhk%3Ffbclid%3DIwAR3YtSJLa2wHZ45ev-7wJMbjUrhsAQ8CBEZZ2Hz2o8A8ZGKt1BKaNZZ3LRs&h=AT0bRxuuvceE-zYmjGsb8YPqthe_5juBHp9Yjuq6q-4YzIxALrBwz_Q9n5wBb9TXH7vCUgYn7Cz81AzJErO0BS1fJS69d5pg_o_Ukh92-slvdE28UYdyZJ9xrNHVnVmx7Wzx6GFzJKU5K3DxDiFlTA">List of World Championship Winners</a></p>
 <ul>
 <li>Day 2 Video <a href="https://www.youtube.com/live/WtovkJk8qqM">[YouTube]</a></li>
 <li>Day 1 Video <a href="https://www.youtube.com/live/6aQg22fa6MM">[YouTube]</a>

@@ -51,6 +51,16 @@ A place for people to connect to grow the scene in Northern California (includin
     - Saturdays (Alternating, check FB group for details)
     - 1:00pm (Draft/Constructed)
 
+### **Destine Fantasy Games**
+* **Facebook**: <a href="https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB"> https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB</a>
+* **Location**: 650 Central Ave Ste D, Alameda, CA 94501 <a href="https://maps.app.goo.gl/tRg13yFdXiCjEiVX8">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/jensen.dang">Jensen Dang</a> 
+* **email**: <a href="Destinefantasygames@gmail.com">[Link]</a> 
+* **Instagram**: <a href="https://www.instagram.com/destinefantasygames">[Link]</a> 
+* **Event Days/Times**:
+    - Mondays (check FB group for details)
+    - 7:00pm (Draft/Constructed)
+
 ### **Games of Martinez**
 * **Website**: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a>
 * **Facebook**: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a>

@@ -50,6 +50,20 @@
 </ul>
 </li>
 </ul>
+<h3 id="destine-fantasy-games" tabindex="-1"><a class="header-anchor" href="#destine-fantasy-games" aria-hidden="true">#</a> <strong>Destine Fantasy Games</strong></h3>
+<ul>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB"> https://www.facebook.com/profile.php?id=61554042472818&amp;mibextid=gik2fB</a></li>
+<li><strong>Location</strong>: 650 Central Ave Ste D, Alameda, CA 94501 <a href="https://maps.app.goo.gl/tRg13yFdXiCjEiVX8">[Google Maps]</a></li>
+<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/jensen.dang">Jensen Dang</a></li>
+<li><strong>email</strong>: <a href="Destinefantasygames@gmail.com">[Link]</a></li>
+<li><strong>Instagram</strong>: <a href="https://www.instagram.com/destinefantasygames">[Link]</a></li>
+<li><strong>Event Days/Times</strong>:
+<ul>
+<li>Mondays (check FB group for details)</li>
+<li>7:00pm (Draft/Constructed)</li>
+</ul>
+</li>
+</ul>
 <h3 id="games-of-martinez" tabindex="-1"><a class="header-anchor" href="#games-of-martinez" aria-hidden="true">#</a> <strong>Games of Martinez</strong></h3>
 <ul>
 <li><strong>Website</strong>: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a></li>

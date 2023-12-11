@@ -3,31 +3,31 @@
 <h2 id="opus-starter-decks" tabindex="-1"><a class="header-anchor" href="#opus-starter-decks" aria-hidden="true">#</a> Opus Starter Decks</h2>
 <h3 id="opus-i-2016" tabindex="-1"><a class="header-anchor" href="#opus-i-2016" aria-hidden="true">#</a> Opus I (2016)</h3>
 <img src="https://i.imgur.com/f1KKnzj.jpg">
-<a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a>
+<p><a href="https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_X_Starter_Set">Oct 2016</a></p>
 <p><strong>VII Fire/Earth Starter Deck</strong></p>
 <p>[<a href="https://materiahunter.com/products/3">Materia Hunter</a>]
 [<a href="https://www.tcgplayer.com/product/133817/final-fantasy-tcg-opus-i-final-fantasy-vii-starter-set">TCGPlayer</a>]</p>
 <ul>
-<li>(2x) [1-004C] Ifrit</li>
-<li>(2x) [1-010C] Black Mage</li>
-<li>(2x) [1-011C] Evoker</li>
-<li>(2x) [1-014C] Samurai</li>
-<li>(2x) [1-024C] Magus</li>
-<li>(2x) [1-025C] Squire</li>
-<li>(2x) [1-092C] Dark Knight</li>
-<li>(2x) [1-099C] Black Belt</li>
-<li>(2x) [1-106C] Golem</li>
-<li>(2x) [1-120C] Monk</li>
-<li>(3x) [1-187S] Cloud</li>
-<li>(3x) [1-188S] Zangan</li>
-<li>(3x) [1-189S] Tifa</li>
-<li>(3x) [1-190S] Bahamut</li>
-<li>(3x) [1-191S] Red XIII</li>
-<li>(3x) [1-202S] Vincent</li>
-<li>(3x) [1-203S] Wedge</li>
-<li>(3x) [1-204S] Jessie</li>
-<li>(3x) [1-205S] Barret</li>
-<li>(3x) [1-206S] Biggs</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-004.jpg">[1-004C]</a> - Ifrit</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-010.jpg">[1-010C]</a> - Black Mage</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-011.jpg">[1-011C]</a> - Evoker</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-014.jpg">[1-014C]</a> - Samurai</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-024.jpg">[1-024C]</a> - Magus</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-025.jpg">[1-025C]</a> - Squire</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-092.jpg">[1-092C]</a> - Dark Knight</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-099.jpg">[1-099C]</a> - Black Belt</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-106.jpg">[1-106C]</a> - Golem</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-120.jpg">[1-120C]</a> - Monk</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-187.jpg">[1-187S]</a> - Cloud</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-188.jpg">[1-188S]</a> - Zangan</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-189.jpg">[1-189S]</a> - Tifa</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-190.jpg">[1-190S]</a> - Bahamut</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-191.jpg">[1-191S]</a> - Red XIII</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-202.jpg">[1-202S]</a> - Vincent</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-203.jpg">[1-203S]</a> - Wedge</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-204.jpg">[1-204S]</a> - Jessie</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-205.jpg">[1-205S]</a> - Barret</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-206.jpg">[1-206S]</a> - Biggs</li>
 </ul>
 <p><strong>FFX Water/Wind Starter Deck</strong></p>
 <p>[<a href="https://materiahunter.com/products/4">Materia Hunter</a>]
@@ -903,25 +903,25 @@ If you want to play with HARD difficulty , replace all the cards marked with ★
 </ul>
 <p>BOSS DECK <br>
 BOSS uses the following 80 cards as a deck <br></p>
-<p>Forwards (42)</p>
+<p><strong>Forwards (42)</strong></p>
 <ul>
-<li>(3x) [B-031] Weiss</li>
-<li>(3x) [B-032] Shelke</li>
-<li>(3x) [B-033] Genesis Avatar</li>
-<li>(3x) [B-034] Scarlet</li>
-<li>(3x) [B-035] Angeal Penance</li>
-<li>(3x) [B-036] Shinra Soldier</li>
-<li>(3x) [B-037] Tseng</li>
-<li>(2x) [B-038] Sephiroth</li>
-<li>(3x) [B-039] Sephiroth</li>
-<li>(3x) [8-109L] Rufus ★</li>
-<li>(3x) [11-104R] Rude ★</li>
-<li>(3x) [11-105R] Reno ★</li>
-<li>(2x) [11-088R] Elena</li>
-<li>(3x) [11-140S] Kadaj</li>
-<li>(2x) [17-098R] Cissnei <br></li>
+<li>(3x) <a href="">[B-031]</a> - Weiss</li>
+<li>(3x) <a href="">[B-032]</a> - Shelke</li>
+<li>(3x) <a href="">[B-033]</a> - Genesis Avatar</li>
+<li>(3x) <a href="">[B-034]</a> - Scarlet</li>
+<li>(3x) <a href="">[B-035]</a> - Angeal Penance</li>
+<li>(3x) <a href="">[B-036]</a> - Shinra Soldier</li>
+<li>(3x) <a href="">[B-037]</a> - Tseng</li>
+<li>(2x) <a href="">[B-038]</a> - Sephiroth</li>
+<li>(3x) <a href="">[B-039]</a> - Sephiroth</li>
+<li>(3x) <a href="">[8-109L]</a> -  Rufus ★</li>
+<li>(3x) <a href="">[11-104R]</a> -  Rude ★</li>
+<li>(3x) <a href="">[11-105R]</a> -  Reno ★</li>
+<li>(2x) <a href="">[11-088R]</a> -  Elena</li>
+<li>(3x) <a href="">[11-140S]</a> -  Kadaj</li>
+<li>(2x) <a href="">[17-098R]</a> -  Cissnei</li>
 </ul>
-<p>Backups (20)</p>
+<p><strong>Backups (20)</strong></p>
 <ul>
 <li>(3x) [B-040] Heidegger</li>
 <li>(3x) [B-041] Reeve</li>
@@ -932,7 +932,7 @@ BOSS uses the following 80 cards as a deck <br></p>
 <li>(3x) [16-025C] Bard</li>
 <li>(2x) [16-094C] Palmer <br></li>
 </ul>
-<p>Summons (18)</p>
+<p><strong>Summons (18)</strong></p>
 <ul>
 <li>(3x) [B-042] Bahamut</li>
 <li>(3x) [B-043] Shiva</li>
@@ -957,130 +957,130 @@ BOSS uses the following 80 cards as a deck <br></p>
 <p><a href="https://fftcg.square-enix-games.com/en/news/anniversary-collection-set-2022-full-card-list">May 2022</a>
 [<a href="https://materiahunter.com/products/139">Materia Hunter</a>]
 [<a href="https://www.tcgplayer.com/product/270499/final-fantasy-tcg-ff-promo-cards-anniversary-collection-set-2022-box">TCGPlayer</a>]</p>
-<p>Fire/Water Starter Deck</p>
-<p>Forwards (27)</p>
+<p><strong>Fire/Water Starter Deck</strong></p>
+<p><strong>Forwards (27)</strong></p>
 <ul>
-<li>(3x) Squall [PR-108]</li>
-<li>(3x) Dadaluma [11-011R]</li>
-<li>(2x) Cloud [8-006L] ※</li>
-<li>(3x) Yuna [PR-109]</li>
-<li>(3x) Viking [4-133C]</li>
-<li>(3x) Leila [6-126R]</li>
-<li>(2x) Zidane [8-115L] ※</li>
-<li>(3x) Porom [9-115R]</li>
-<li>(2x) Ashe [10-106L] ※</li>
-<li>(3x) Lightning [PR-110]</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-108_FA_F.jpg">[PR-108]</a> - Squall</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/11/11-011.jpg">[11-011R]</a> - Dadaluma</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/08/8-006.jpg">[8-006L]</a> - Cloud ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-177.jpg">[PR-109]</a> - Yuna</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-133.jpg">[4-133C]</a> - Viking</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/06/6-126.jpg">[6-126R]</a> - Leila</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-056.jpg">[8-115L]</a> - Zidane ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-115.jpg">[9-115R]</a> - Porom</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/10-106_FA.jpg">[10-106L]</a> - Ashe  ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-110_FA_F.jpg">[PR-110]</a> - Lightning</li>
 </ul>
-<p>Backups (17)</p>
+<p><strong>Backups (17)</strong></p>
 <ul>
-<li>(3x) Sage [2-005C]</li>
-<li>(3x) Vivi [3-018C]</li>
-<li>(3x) Black Mage [8-007C]</li>
-<li>(2x) Eiko [3-127R]</li>
-<li>(3x) Brahne [4-134C]</li>
-<li>(3x) Merlwyb [4-138R]</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/02/2-005.jpg">[2-005C]</a> - Sage</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-018.jpg">[3-018C]</a> - Vivi</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/08/8-007.jpg">[8-007C]</a> - Black Mage</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-127.jpg">[3-127R]</a> - Eiko</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-134.jpg">[4-134C]</a> - Brahne</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-138.jpg">[4-138R]</a> - Merlwyb</li>
 </ul>
-<p>Summons (6)</p>
+<p><strong>Summons (6)</strong></p>
 <ul>
-<li>(3x) Belias, the Gigas [2-019R]</li>
-<li>(3x) Bahamut [6-017C]</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/02/2-019.jpg">[2-019R]</a> - Belias, the Gigas</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/06/6-017.jpg">[6-017C]</a> - Bahamut</li>
 </ul>
-<p>Anniversary Promotion Card</p>
+<p><strong>Anniversary Promotion Card</strong></p>
 <ul>
-<li>(3x) [PR-111] Yuna &amp; Tidus (Full Art Foils)</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-111_F.jpg">[PR-111]</a> - Yuna &amp; Tidus (Full Art Foils)</li>
 </ul>
-<p>Reprint Card List <br>
-Fire</p>
+<p><strong>Reprint Card List</strong></p>
+<p><strong>Fire</strong></p>
 <ul>
-<li>(3x) [1-030R] Lebreau</li>
-<li>(3x) [4-022R] Montblanc</li>
-<li>(3x) [6-013R] Selphie</li>
-<li>(3x) [7-017H] Meeth</li>
-<li>(3x) [10-016C] Class Second Moogle</li>
-<li>(3x) [11-017H] Marche</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-030.jpg">[1-030R]</a> - Lebreau</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-022.jpg">[4-022R]</a> - Montblanc</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/06/6-013.jpg">[6-013R]</a> - Selphie</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/07/7-017.jpg">[7-017H]</a> - Meeth</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-016.jpg">[10-016C]</a> - Class Second Moogle</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/11/11-017.jpg">[11-017H]</a> - Marche</li>
 </ul>
-<p>Ice</p>
+<p><strong>Ice</strong></p>
 <ul>
-<li>(3x) [1-033C] Argath</li>
-<li>(3x) [1-044R] Sephiroth</li>
-<li>(3x) [1-057R] Duke Larg</li>
-<li>(3x) [1-196S] Mog (XIII-2)</li>
-<li>(3x) [2-037R] Jihl Nabaat</li>
-<li>(3x) [4-026H] Gestahlian Empire Cid</li>
-<li>(3x) [4-034R] Cid (WOFF)</li>
-<li>(3x) [5-032H] Glasya Labolas</li>
-<li>(3x) [6-022R] Ysayle</li>
-<li>(2x) [6-041L] Rinoa ※</li>
-<li>(3x) [9-030H] Hurdy</li>
-<li>(3x) [9-033C] Class Ninth Moogle</li>
-<li>(3x) [10-036R] Terra</li>
-<li>(3x) [10-039C] Nag'molada</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-033.jpg">[1-033C]</a> - Argath</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-044.jpg">[1-044R]</a> - Sephiroth</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-057.jpg">[1-057R]</a> - Duke Larg</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-196.jpg">[1-196S]</a> - Mog (XIII-2)</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/02/2-037.jpg">[2-037R]</a> - Jihl Nabaat</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-026.jpg">[4-026H]</a> - Gestahlian Empire Cid</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-034.jpg">[4-034R]</a> - Cid (WOFF)</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/05/5-032.jpg">[5-032H]</a> - Glasya Labolas</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/06/6-022.jpg">[6-022R]</a> - Ysayle</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/6-041_FA.jpg">[6-041L]</a> - Rinoa ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-030.jpg">[9-030H]</a> - Hurdy</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-033.jpg">[9-033C]</a> - Class Ninth Moogle</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-036.jpg">[10-036R]</a> - Terra</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-039.jpg">[10-039C]</a> - Nag'molada</li>
 </ul>
-<p>Wind</p>
+<p><strong>Wind</strong></p>
 <ul>
-<li>(2x) [1-083H] Maria</li>
-<li>(2x) [2-049H] Asura</li>
-<li>(3x) [3-049C] Izana</li>
-<li>(3x) [3-056H] Zidane</li>
-<li>(3x) [4-058C] Cactuar</li>
-<li>(3x) [5-059R] Semih Lafihna</li>
-<li>(2x) [5-062L] Diabolos ※</li>
-<li>(2x) [5-068L] Y'shtola</li>
-<li>(2x) [6-044L] Zidane</li>
-<li>(3x) [8-058R] Norschtalen</li>
-<li>(3x) [10-045C] Unsaganashi</li>
-<li>(3x) [10-047R] Echo</li>
-<li>(3x) [10-061C] Class Eighth Moogle</li>
-<li>(2x) [11-063L] Ritz ※</li>
-<li>(3x) [12-048R] Chocolatte</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-083.jpg">[1-083H]</a> - Maria</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/02/2-049.jpg">[2-049H]</a> - Asura</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-049.jpg">[3-049C]</a> - Izana</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-056.jpg">[3-056H]</a> - Zidane</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-058.jpg">[4-058C]</a> - Cactuar</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/05/5-059.jpg">[5-059R]</a> - Semih Lafihna</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/5-062_FA.jpg  ">[5-062L]</a> - Diabolos ※</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/5-068_FA.jpg">[5-068L]</a> - Y'shtola</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/6-044_FA.jpg">[6-044L]</a> - Zidane</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/08/8-058.jpg">[8-058R]</a> - Norschtalen</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-045.jpg">[10-045C]</a> - Unsaganashi</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-047.jpg">[10-047R]</a> - Echo</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-061.jpg">[10-061C]</a> - Class Eighth Moogle</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/11-063_FA.jpg">[11-063L]</a> - Ritz ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/12/12-048.jpg">[12-048R]</a> - Chocolatte</li>
 </ul>
-<p>Earth</p>
+<p><strong>Earth</strong></p>
 <ul>
-<li>(3x) [1-095R] Enna Kros</li>
-<li>(2x) [1-107L] Shantotto ※</li>
-<li>(3x) [1-110C] Titan</li>
-<li>(3x) [1-204S] Jessie</li>
-<li>(3x) [3-096R] Rydia</li>
-<li>(3x) [4-093R] Hecatoncheir</li>
-<li>(3x) [5-091H] Star Sibyl</li>
-<li>(3x) [6-067R] Epitav</li>
-<li>(3x) [7-069C] Kolka</li>
-<li>(2x) [9-063L] Gabranth ※</li>
-<li>(3x) [9-068H] Mist Dragon</li>
-<li>(3x) [9-074C] Class Tenth Moogle</li>
-<li>(3x) [9-076H] Larkeicus</li>
-<li>(3x) [10-068C] Cu Sith</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-095.jpg">[1-095R]</a> - Enna Kros</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/12/1-107_FA.jpg">[1-107L]</a> - Shantotto ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-110.jpg">[1-110C]</a> - Titan</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-204.jpg">[1-204S]</a> - Jessie</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-096.jpg">[3-096R]</a> - Rydia</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-093.jpg">[4-093R]</a> - Hecatoncheir</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/05/5-091.jpg">[5-091H]</a> - Star Sibyl</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/06/6-067.jpg">[6-067R]</a> - Epitav</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/07/7-069.jpg">[7-069C]</a> - Kolka</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/9-063_FA.jpg">[9-063L]</a> - Gabranth ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-068.jpg">[9-068H]</a> - Mist Dragon</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-074.jpg">[9-074C]</a> - Class Tenth Moogle</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-076.jpg">[9-076H]</a> - Larkeicus</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-068.jpg">[10-068C]</a> - Cu Sith</li>
 </ul>
-<p>Lightning</p>
+<p><strong>Lightning</strong></p>
 <ul>
-<li>(2x) [1-135L] Golbez ※</li>
-<li>(3x) [1-150R] Lulu</li>
-<li>(3x) [2-106R] Gramis</li>
-<li>(3x) [3-112H] Exodus, the Judge-Sal</li>
-<li>(3x) [3-114C] Freya</li>
-<li>(3x) [4-110R] King of Burmecia</li>
-<li>(3x) [5-099H] Illua</li>
-<li>(3x) [5-103R] Cid of Clan Gully</li>
-<li>(3x) [7-094R] Seymour</li>
-<li>(3x) [9-084H] Kain</li>
-<li>(3x) [9-093H] Bahamut ZERO</li>
-<li>(2x) [9-094L] Fusoya ※</li>
-<li>(3x) [9-097C] Class Sixth Moogle</li>
-<li>(3x) [10-086C] Aldo</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/1-135L_NF_FA.jpg">[1-135L]</a> - Golbez ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-150.jpg">[1-150R]</a> - Lulu</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/02/2-106.jpg">[2-106R]</a> - Gramis</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-112.jpg">[3-112H]</a> - Exodus, the Judge-Sal</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-114.jpg">[3-114C]</a> - Freya</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/04/4-110.jpg">[4-110R]</a> - King of Burmecia</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/05/5-099.jpg">[5-099H]</a> - Illua</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/05/5-103.jpg">[5-103R]</a> - Cid of Clan Gully</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/07/7-094.jpg">[7-094R]</a> - Seymour</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-084.jpg">[9-084H]</a> - Kain</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-093.jpg">[9-093H]</a> - Bahamut ZERO</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2022/9-094_FA.jpg">[9-094L]</a> - Fusoya ※</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-097.jpg">[9-097C]</a> - Class Sixth Moogle</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-086.jpg">[10-086C]</a> - Aldo</li>
 </ul>
-<p>Water</p>
+<p><strong>Water</strong></p>
 <ul>
-<li>(2x) [1-171H] Minwu</li>
-<li>(3x) [1-177R] Yuna</li>
-<li>(3x) [1-180R] Wakka</li>
-<li>(3x) [3-123R] Famfrit, the Darkening Cloud</li>
-<li>(3x) [3-143C] Leonora</li>
-<li>(3x) [10-121C] Class Fourth Moogle</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-171.jpg">[1-171H]</a> - Minwu</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-177.jpg">[1-177R]</a> - Yuna</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-180.jpg">[1-180R]</a> - Wakka</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-123.jpg">[3-123R]</a> - Famfrit, the Darkening Cloud</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/03/3-143.jpg">[3-143C]</a> - Leonora</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-121.jpg">[10-121C]</a> - Class Fourth Moogle</li>
 </ul>
-<p>Light/Dark</p>
+<p><strong>Light/Dark</strong></p>
 <ul>
-<li>(3x) [1-183H] Cosmos</li>
-<li>(3x) [1-184H] Chaos</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-183.jpg">[1-183H]</a> - Cosmos</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-184.jpg">[1-184H]</a> - Chaos</li>
 </ul>
 <p>※All of the Legend cards within the set come with two copies; one will be a Standard card, and the other will be a Standard Full Art card (not a Premium Foil version).</p>
 <h3 id="dissidia-2023" tabindex="-1"><a class="header-anchor" href="#dissidia-2023" aria-hidden="true">#</a> Dissidia (2023)</h3>
@@ -1091,80 +1091,110 @@ Fire</p>
 <p><strong>Starter Cards</strong></p>
 <p>Fire</p>
 <ul>
-<li>(3x) [21-125S] Onion Knight</li>
-<li>(3x) [21-126S] Cloud</li>
-<li>(3x) [21-127S] Firion</li>
-<li>(3x) [11-003R] Cyan</li>
-<li>(3x) [19-009C] Bahamut</li>
-<li>(2x) [15-004C] Edgar</li>
-<li>(3x) [15-007C] Samurai</li>
-<li>(3x) [7-009C] Samurai</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-125S.jpg">[21-125S]</a> - Onion Knight</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-126S.jpg">[21-126S]</a> - Cloud</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-127S.jpg">[21-127S]</a> - Firion</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/11/11-003.jpg">[11-003R]</a> - Cyan</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-009.jpg">[19-009C]</a> - Bahamut</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-004.jpg">[15-004C]</a> - Edgar</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-007.jpg">[15-007C]</a> - Samurai</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/17/17-009.jpg">[7-009C]</a> - Samurai</li>
 </ul>
 <p>Ice</p>
 <ul>
-<li>(3x) [21-128S] Shantotto</li>
-<li>(3x) [21-129S] Terra</li>
-<li>(3x) [21-130S] Noctis</li>
-<li>(3x) [9-037C] Laguna</li>
-<li>(3x) [13-021R] Shiva</li>
-<li>(3x) [15-038C] Knight</li>
-<li>(3x) [16-036C] Devout</li>
-<li>(2x) [11-133S] Cait Sith</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-128S.jpg">[21-128S]</a> - Shantotto</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-129S.jpg">[21-129S]</a> - Terra</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-130S.jpg">[21-130S]</a> - Noctis</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/09/9-037.jpg">[9-037C]</a> - Laguna</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/13-021.jpg">[13-021R]</a> - Shiva</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-038.jpg">[15-038C]</a> - Knight</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/16/16-036.jpg">[16-036C]</a> - Devout</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/11/11-133.jpg">[11-133S]</a> - Cait Sith</li>
 </ul>
 <p>Wind</p>
 <ul>
-<li>(3x) [21-131S] Warrior of Light</li>
-<li>(3x) [21-132S] Cecil</li>
-<li>(3x) [21-133S] Tidus</li>
-<li>(3x) [8-046R] Alexander</li>
-<li>(2x) [7-136S] Y'Shtola</li>
-<li>(3x) [16-052C] Selkie</li>
-<li>(3x) [15-058C] Dragoon</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-131S.jpg">[21-131S]</a> - Warrior of Light</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-132S.jpg">[21-132S]</a> - Cecil</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-133S.jpg">[21-133S]</a> - Tidus</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/08/8-046.jpg">[8-046R]</a> - Alexander</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/07/7-136.jpg">[7-136S]</a> - Y'Shtola</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/16/16-052.jpg">[16-052C]</a> - Selkie</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-058.jpg">[15-058C]</a> - Dragoon</li>
 </ul>
 <p>Light</p>
 <ul>
-<li>(3x) [21-134S] Bartz ※</li>
-<li>(1x) [1-183H] Cosmos</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-134S.jpg">[21-134S]</a> - Bartz ※</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/01/1-183.jpg">[1-183H]</a> - Cosmos</li>
 </ul>
 <p>※1 of the cards is a Full Art Standard card.</p>
 <p><strong>Customizeable Cards</strong></p>
 <ul>
-<li>(3x) [15-049C] Garchimacera</li>
-<li>(3x) [10-044H] Vaan</li>
-<li>(3x) [15-031C] Shiva</li>
-<li>(3x) [15-034R] Snow</li>
-<li>(3x) [12-005C] Ifrit</li>
-<li>(3x) [16-004C] Onion Knight</li>
-<li>(3x) [10-132S] Terra</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-049.jpg">[15-049C]</a> - Garchimacera</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-044.jpg">[10-044H]</a> - Vaan</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-031.jpg">[15-031C]</a> - Shiva</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/15/15-034.jpg">[15-034R]</a> - Snow</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/12/12-005.jpg">[12-005C]</a> - Ifrit</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/16/16-004.jpg">[16-004C]</a> - Onion Knight</li>
+<li>(3x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/10/10-132.jpg">[10-132S]</a> - Terra</li>
 </ul>
 <p><strong>Reprinted Legendary Cards</strong></p>
 <ul>
-<li>(2x) [6-044L] Zidane</li>
-<li>(2x) [10-033L] Squall
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/06/6-044.jpg">[6-044L]</a> - Zidane</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/PR-108_NF_FA.jpg">[10-033L]</a> - Squall
 ※Both cards are Standard cards with frames.</li>
 </ul>
 <p><strong>DISSIDIA FINAL FANTASY 4th Anniversary Illustration Cards</strong></p>
 <ul>
-<li>(1x) [12-052H] Bartz</li>
-<li>(1x) [12-121R] Noctis</li>
-<li>(1x) [13-081H] Lightning</li>
-<li>(1x) [13-106H] Onion Knight</li>
-<li>(1x) [13-121R] Ramza</li>
-<li>(1x) [14-065L] Cloud</li>
-<li>(1x) [14-125L] Vaan</li>
-<li>(1x) [15-037L] Terra</li>
-<li>(1x) [16-030L] Shantotto</li>
-<li>(1x) [16-051L] Cecil</li>
-<li>(1x) [16-116L] Tidus</li>
-<li>(1x) [16-127L] Warrior of Light</li>
-<li>(1x) [18-130L] Firion</li>
-<li>(1x) [19-002L] Ace</li>
-<li>(1x) [19-108L] Zidane</li>
-<li>(1x) [PR-108] Squall</li>
-<li>(2x) [21-036H] Y’shtola ※</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/12-052H_NF_FA.jpg">[12-052H]</a> - Bartz</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/12-121R_NF_FA.jpg">[12-121R]</a> - Noctis</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/13-081_FA.jpg">[13-081H]</a> - Lightning</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/13-106H_NF_FA.jpg">[13-106H]</a> - Onion Knight</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/13-121R_NF_FA.jpg">[13-121R]</a> - Ramza</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/14-065L_NF_FA.jpg">[14-065L]</a> - Cloud</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/14-125L_NF_FA.jpg">[14-125L]</a> - Vaan</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/15-037L_NF_FA.jpg">[15-037L]</a> - Terra</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-030L_NF_FA.jpg">[16-030L]</a> - Shantotto</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-051L_NF_FA.jpg">[16-051L]</a> - Cecil</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-116L_NF_FA.jpg">[16-116L]</a> - Tidus</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-127L_NF_FA.jpg">[16-127L]</a> - Warrior of Light</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/18-130L_NF_FA.jpg">[18-130L]</a> - Firion</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-002L_NF_FA.jpg">[19-002L]</a> - Ace</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-108L_NF_FA.jpg">[19-108L]</a> - Zidane</li>
+<li>(1x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/PR-108_NF_FA.jpg">[PR-108]</a> - Squall</li>
+<li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-036H_FA.jpg">[21-036H]</a> - Y’shtola ※</li>
 </ul>
 <p>※There are 18 cards in total, including 1 Full Art Standard card for each card and 1 Premium Framed card of Y'shtola [21-036H].
 ◆Crystal cards: 2 types, 1 each</p>
+<h3 id="anniversary-2024" tabindex="-1"><a class="header-anchor" href="#anniversary-2024" aria-hidden="true">#</a> Anniversary (2024)</h3>
+<img src="https://fftcg.cdn.sewest.net/2023-08/ff-box-acs2024.jpg">
+<p><a href="https://fftcg.square-enix-games.com/na/news/final-fantasy-trading-card-game-anniversary-collection-set-2024">Feb 2024</a>
+[<a href="https://materiahunter.com/products/180">Materia Hunter</a>]
+[<a href="">TCGPlayer</a>]</p>
+<p><strong>Commemorative PR Cards</strong></p>
+<ul>
+<li>[PR-158] Snow &amp; Lightning (all premium full-art cards)</li>
+<li>PR Cards in pre-made deck</li>
+<li>[PR-155] Laguna x 3</li>
+<li>[PR-156] Zack x 3</li>
+<li>[PR-157] Aerith x3</li>
+<li>One of each type is a premium full-art card</li>
+</ul>
+<p><strong>Reprint Legend Cards</strong></p>
+<ul>
+<li>[11-064L] Ursula</li>
+<li>[12-116L] Locke</li>
+<li>[12-119L] Y’shtola</li>
+<li>[13-002L] Akstar</li>
+<li>[13-028L] Physalis</li>
+<li>[14-042L] Bismarck, Lord of the Mists</li>
+<li>[14-102L] Leviathan, Lord of the Whorl</li>
+<li>[14-122L] Al-Cid</li>
+<li>[15-084L] Robel-Akbel</li>
+<li>[16-088L] Black Waltz 3</li>
+<li>[16-100L] Y’shtola</li>
+<li>[18-100L] Lenna</li>
+<li>2x 12 types for a total of 24 cards. One of each type is a normal version full-art card</li>
+</ul>
 <h2 id="special-sets" tabindex="-1"><a class="header-anchor" href="#special-sets" aria-hidden="true">#</a> Special Sets</h2>
 <h3 id="ff-vii-noir-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-noir-2023" aria-hidden="true">#</a> FF VII Noir (2023)</h3>
 <img src="https://i.imgur.com/wWImG3l.jpg">
@@ -1172,18 +1202,18 @@ Fire</p>
 [<a href="https://materiahunter.com/products/161">Materia Hunter</a>]
 [<a href="https://www.tcgplayer.com/product/487550/final-fantasy-tcg-ff-promo-cards-final-fantasy-annual-special-pr-card-collection-noir">TCGPlayer</a>]</p>
 <ul>
-<li>[11-139S] Aerith</li>
-<li>[14-121L] Barret</li>
-<li>[8-006L] Cloud</li>
-<li>[11-127L] Cloud</li>
-<li>[3-033L] Genesis</li>
-<li>[14-019R] Red XIII</li>
-<li>[15-138S] Reno</li>
-<li>[7-034L] Sephiroth</li>
-<li>[11-071L] Tifa</li>
-<li>[9-062H] Vincent</li>
-<li>[PR-029] Vincent</li>
-<li>[3-012L] Zack</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/11-139_FA.jpg">[11-139S]</a> - Aerith</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/14-121_FA.jpg">[14-121L]</a> - Barret</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/8-006_FA.jpg">[8-006L]</a> - Cloud</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/11-127_FA.jpg">[11-127L]</a> - Cloud</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/3-033_FA.jpg">[3-033L]</a> - Genesis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/14-019_FA.jpg">[14-019R]</a> - Red XIII</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/15-138_FA.jpg">[15-138S]</a> - Reno</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/7-034_FA.jpg">[7-034L]</a> - Sephiroth</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/11-071_FA.jpg">[11-071L]</a> - Tifa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/9-062_FA.jpg">[9-062H]</a> - Vincent</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/PR-029_4-075_FA.jpg">[PR-029]</a> - Vincent</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Noir_Collection/3-012_FA.jpg">[3-012L]</a> - Zack</li>
 </ul>
 </div></template>
 
