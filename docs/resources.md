@@ -37,8 +37,10 @@ summary: Resources
 ### **Official Website:**
 * **FFTCG NA** - <a href="https://www.fftradingcardgame.com/na"> https://www.fftradingcardgame.com/na</a>
 * **FFTCG JP** - <a href="http://www.square-enix-shop.com/jp/ff-tcg/index.html"> http://www.square-enix-shop.com/jp/ff-tcg/index.html</a>
+  
 ### **Tutorials:**
 * **Official** - <a href="https://fftcg.square-enix-games.com/na/gameplay#tutorial"> https://fftcg.square-enix-games.com/na/gameplay#tutorial</a>
+* **YT Short** - <a href="https://www.youtube.com/shorts/o2J9r8rE2js"> https://www.youtube.com/shorts/o2J9r8rE2js</a>
 * **FFTCG Priority Reference Guide** - <a href="https://imgur.com/a/wzE34"> https://imgur.com/a/wzE34</a>
 * **OCTGN** - <a href="http://octgngames.com/fftcg/how-to-play/"> http://octgngames.com/fftcg/how-to-play/</a>"
 * **FAQ** - <a href="https://fftcg.square-enix-games.com/na/gameplay#faq"> https://fftcg.square-enix-games.com/na/gameplay#faq</a>
