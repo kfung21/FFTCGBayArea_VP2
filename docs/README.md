@@ -15,13 +15,7 @@ summary: Home
 
 <a href="./blog/2023-05-24_2023_Summary_Organized_Play">**Organized Play 2023 Summary (Nov 2023)**</a>
 
-## News and Announcements
-**Event**: Christmas Party at <a href="about#king-kong-games">King Kong Games</a>! 
-
-**Date**: Fri, Dec 15
-
-**Info**: Raffles, Secret Santa, Potluck, and Constructed! 
-* <a href="https://www.facebook.com/photo/?fbid=10231895481353695&set=gm.2224690354401656&idorvanity=564324407104934">FB Announcement</a>
+<!-- ## News and Announcements -->
 ---
 
 Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
