@@ -17,6 +17,22 @@ summary: Home
 
 <!-- ## News and Announcements -->
 ---
+3 vs 3 Tournament at <a href="about#king-kong-games">King Kong Games</a> on Sat, Feb 17 @ 2:00 pm!
+
+Format:
+* 3-Round Swiss
+* 1 Playset shared of a card amongst team
+* $90 Entry per team
+
+Prizing
+* FFVII Rebirth Keyart Event Playmat
+* Official FFVII Merchandise
+
+FB Info: <br>
+<a href="https://www.facebook.com/groups/FFTCGSF/permalink/2260607384143286/">https://www.facebook.com/groups/FFTCGSF/permalink/2260607384143286/</a>
+
+Registration: <br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcw9sdTN4gghwSHLgVq005ZSevL0EaC4K7EgxvjGaBytMBQw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdcw9sdTN4gghwSHLgVq005ZSevL0EaC4K7EgxvjGaBytMBQw/viewform</a>
 
 Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
 * **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM
