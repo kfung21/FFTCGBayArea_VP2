@@ -10,7 +10,7 @@ summary: Overview of OP 2024
 ---
 <TagLinks />
 
-# SUMMARY OF ORGANIZED PLAY 2023World Championship Winners
+# SUMMARY OF ORGANIZED PLAY 2024
 
 (UPDATED Feb 2024) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a>
