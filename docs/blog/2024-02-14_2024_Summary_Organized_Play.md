@@ -4,6 +4,7 @@ date: 02-14-2024
 tags: 
   - FFTCG
   - Opus 22
+contributors: False
 blog: true
 sidebar: auto
 summary: Overview of OP 2024

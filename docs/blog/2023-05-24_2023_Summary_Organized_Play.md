@@ -4,7 +4,7 @@ date: 05-24-2023
 tags: 
   - FFTCG
   - Opus 19
-contributors: FalseWorld Championship WinnersWorld Championship Winners
+contributors: False
 blog: true
 sidebar: auto
 summary: Overview of OP 2023
