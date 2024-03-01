@@ -11,7 +11,7 @@ summary: Blog
 ## 2024
 * ### <a href="./blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap">**King Kong 3 vs 3 Recap (Feb. 2024)**</a>
 * ### <a href="./blog/2023-12-01_2023_Promos">**Promos (Feb 2024)**</a>
-* ### <a href="./2024-02-14_2024_Summary_Organized_Play">**Summary of Organized Play 2024 (Updated Mar 2024)**</a>
+* ### <a href="./blog/2024-02-14_2024_Summary_Organized_Play">**Summary of Organized Play 2024 (Updated Mar 2024)**</a>
 
 ## 2023
 * ### <a href="./blog/2023-11-25_2023_StarterDecks">**Starter Sets+ (Nov 2023)**</a>
