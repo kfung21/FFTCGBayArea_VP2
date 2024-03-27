@@ -87,20 +87,15 @@
 </ul>
 </li>
 </ul>
-<h3 id="galaxy-games" tabindex="-1"><a class="header-anchor" href="#galaxy-games" aria-hidden="true">#</a> Galaxy Games</h3>
-<ul>
-<li><strong>Website</strong>: <a href="https://www.galaxygamesca.com/"> https://www.galaxygamesca.com/</a></li>
-<li><strong>Facebook</strong>: <a href="https://www.facebook.com/galaxygamestore/"> https://www.facebook.com/galaxygamestore/</a></li>
-<li><strong>Location</strong>: 6715 Dublin Blvd, Unit H Dublin, CA 94568 <a href="https://maps.app.goo.gl/tXfXkw5VwaFiJViL7">[Google Maps]</a></li>
-<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/people/Gavin-Scott/pfbid02Prdket8VefjL3VmqSFbD6PDhE5CBrZQBbmkqUc5EjU8skP6zdAvHoDyzF4N3Yyz3l/">Gavin Scott</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/690631763051151390/690631763889750080"> [Link]</a></li>
-<li><strong>Event Days/Times</strong>:
-<ul>
-<li>Saturdays</li>
-<li>2:00pm (Free Play)</li>
-</ul>
-</li>
-</ul>
+<!-- ### Galaxy Games
+* **Website**: <a href="https://www.galaxygamesca.com/"> https://www.galaxygamesca.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/galaxygamestore/"> https://www.facebook.com/galaxygamestore/</a>
+* **Location**: 6715 Dublin Blvd, Unit H Dublin, CA 94568 <a href="https://maps.app.goo.gl/tXfXkw5VwaFiJViL7">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/people/Gavin-Scott/pfbid02Prdket8VefjL3VmqSFbD6PDhE5CBrZQBbmkqUc5EjU8skP6zdAvHoDyzF4N3Yyz3l/">Gavin Scott</a> 
+* **Discord**: <a href="https://discord.com/channels/690631763051151390/690631763889750080"> [Link]</a> 
+* **Event Days/Times**: 
+    - Saturdays
+    - 2:00pm (Free Play) -->
 <h2 id="norcal-stores" tabindex="-1"><a class="header-anchor" href="#norcal-stores" aria-hidden="true">#</a> NorCal Stores</h2>
 <h3 id="final-cut-tcg" tabindex="-1"><a class="header-anchor" href="#final-cut-tcg" aria-hidden="true">#</a> Final Cut TCG</h3>
 <ul>

@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"Home\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Home\",\"tags\":[\"Home\"],\"author\":\"FFTCG\",\"blog\":true,\"sidebar\":\"none\",\"contributors\":false,\"summary\":\"Home\"},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1711516222000,\"contributors\":[{\"name\":\"kf\",\"email\":\"kevtfung@gmail.com\",\"commits\":33}]},\"filePathRelative\":\"README.md\"}")
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"Home\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Home\",\"tags\":[\"Home\"],\"author\":\"FFTCG\",\"blog\":true,\"sidebar\":\"none\",\"contributors\":false,\"summary\":\"Home\"},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1711516506000,\"contributors\":[{\"name\":\"kf\",\"email\":\"kevtfung@gmail.com\",\"commits\":35}]},\"filePathRelative\":\"README.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

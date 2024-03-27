@@ -12,8 +12,8 @@
 <ul>
 <li><a href="about#anime-imports">Anime Imports</a> @1:00 PM</li>
 <li><a href="about#cardart">Card Art</a> @1:00 PM (alternating)</li>
-<li><a href="about#galaxy-games">Galaxy Games</a> @2:00 PM (alternating)</li>
 </ul>
+  <!-- - <a href="about#galaxy-games">Galaxy Games</a> @2:00 PM (alternating)  -->
 </li>
 <li><strong>Sundays</strong>: <a href="about#games-of-martinez">Games of Martinez</a> @4:00 PM</li>
 <li><strong>Mondays</strong>: <a href="about#destine-fantasy-games">Destine Fantasy Games</a> @7:00 PM</li>
