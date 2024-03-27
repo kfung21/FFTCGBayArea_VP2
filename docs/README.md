@@ -10,7 +10,7 @@ summary: Home
 
 # <center>Final Fantasy TCG Bay Area </center>
 
-<!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
+<img src="https://i.imgur.com/5l9Z0vA.jpeg">
 <a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://imgur.com/UPxUrSW.jpg"></a>
 
 <a href="./blog/2024-02-14_2024_Summary_Organized_Play">**Organized Play 2024 Summary (Feb 2024)**</a><br>
@@ -20,7 +20,7 @@ summary: Home
 ---
 
 Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
-* **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM
+<!-- * **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM -->
 * **Saturdays**: 
     - <a href="about#anime-imports">Anime Imports</a> @1:00 PM
     - <a href="about#cardart">Card Art</a> @1:00 PM (alternating) 

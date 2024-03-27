@@ -14,7 +14,7 @@ summary: About
 A place for people to connect to grow the scene in Northern California (including selling / trading product). Feel free to join, invite your friends, asks questions and help grow the playerbase in the SF Bay Area! For more information contact the store tournament organizers and also ask to join our fb group chats!
 
 ## Stores
-### King Kong Games
+<!-- ### King Kong Games
 * **Website**: <a href="https://kingkongcomicsandgames.com/"> https://kingkongcomicsandgames.com/</a>
 * **Facebook**: <a href="https://www.facebook.com/KingKongComicsandGames/"> https://www.facebook.com/KingKongComicsandGames/</a>
 * **Location**: 6700 Amador Plaza Road, Dublin, CA 94568 <a href="https://goo.gl/maps/fb3rpvhf1U29viDp7">[Google Maps]</a> 
@@ -22,7 +22,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a> 
 * **Event Days/Times**: 
     - Fridays
-    - 8:00pm (Constructed $10)
+    - 8:00pm (Constructed $10) -->
   
 ### **Anime Imports**
 * **Website**: <a href="www.animeimports.net"> www.animeimports.net</a>
