@@ -24,7 +24,7 @@ Come join us for our **<a href="calendar">Weekly Events</a>**! <br>
 * **Saturdays**: 
     - <a href="about#anime-imports">Anime Imports</a> @1:00 PM
     - <a href="about#cardart">Card Art</a> @1:00 PM (alternating) 
-    - <a href="about#galaxy-games">Galaxy Games</a> @2:00 PM (alternating) 
+    <!-- - <a href="about#galaxy-games">Galaxy Games</a> @2:00 PM (alternating)  -->
 * **Sundays**: <a href="about#games-of-martinez">Games of Martinez</a> @4:00 PM
 * **Mondays**: <a href="about#destine-fantasy-games">Destine Fantasy Games</a> @7:00 PM
 * **Wednesdays**: <a href="about#games-of-berkeley">Games of Berkeley</a> @6:00 PM
