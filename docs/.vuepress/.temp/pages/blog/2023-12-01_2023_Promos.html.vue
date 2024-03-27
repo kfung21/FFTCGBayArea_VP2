@@ -1,5 +1,5 @@
 <template><div><TagLinks /><h1 id="fftcg-promo-cards" tabindex="-1"><a class="header-anchor" href="#fftcg-promo-cards" aria-hidden="true">#</a> FFTCG Promo Cards</h1>
-<p>(UPDATED Dec 2023) <br>
+<p>(UPDATED Feb 2024) <br>
 All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-variant-cards">FFTCG Boards</a> and <a href="https://materiahunter.com/">Materia Hunter</a></p>
 <h2 id="list-of-promos" tabindex="-1"><a class="header-anchor" href="#list-of-promos" aria-hidden="true">#</a> List of Promos</h2>
 <h3 id="_1-50" tabindex="-1"><a class="header-anchor" href="#_1-50" aria-hidden="true">#</a> 1-50</h3>
@@ -166,13 +166,20 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-151_16-104R_F_FA.jpg">[PR-151/16-104R]</a> - Reeve (11/23)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-152_17-065H_F_FA.jpg">[PR-152]</a> - Arciela (12/23)</li>
-<li><a href="">[PR-153]</a></li>
-<li><a href="">[PR-154]</a></li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-153_12-002H_NF_FA.jpg">[PR-153]</a> - Amaterasu (1/24)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-154_19-064R_F_FA.jpg">[PR-154]</a> - Fenrir (2/24)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-155_F_FA.jpg">[PR-155]</a> - Laguna Anniversary Collection Set 2024 Exclusive</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-156_F_FA.jpg">[PR-156]</a> - Zack Anniversary Collection Set 2024 Exclusive</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-157_F_FA.jpg">[PR-157]</a> - Aerith Anniversary Collection Set 2024 Exclusive</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-158_F_FA.jpg">[PR-158]</a> - Snow &amp; Lightning Anniversary Collection Set 2024 Exclusive</li>
-<li><a href="">[PR-159/22-024]</a> - Kurasame Hidden Hope Box Topper FA</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-159_22-024L_FA.jpg">[PR-159/22-024]</a> - Kurasame Hidden Hope Box Topper FA</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-160_22-120H_FA.jpg">[PR-160]</a> - Cloud</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-161_16-058R_NF_FA.jpg">[PR-161]</a> - Fina (3/24)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-162_15-042R_FA.jpg">[PR-162]</a> - Locke (4/24)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-167_9-068H.jpg">[PR-167]</a> - Mist Dragon</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-168_20-040L.jpg">[PR-168]</a> - Rufus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-169_19-124L.jpg">[PR-169]</a> - Y'Shtola</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-170_15-037L.jpg">[PR-170]</a> - Terra</li>
 </ul>
 <h2 id="non-playable" tabindex="-1"><a class="header-anchor" href="#non-playable" aria-hidden="true">#</a> Non-Playable</h2>
 <ul>
@@ -187,6 +194,7 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/19/19-114_FA.jpg">[19-114L]</a> - Cloud</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/20/20-088L_FA.jpg">[20-088L]</a> - Estinien</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/21/21-124L_F_FA.jpg">[21-124L]</a> - Jack Garland</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/22/22-032L_FA.jpg">[22-032L]</a> - Sephiroth</li>
 </ul>
 <h2 id="starter-deck-full-art" tabindex="-1"><a class="header-anchor" href="#starter-deck-full-art" aria-hidden="true">#</a> Starter Deck Full Art</h2>
 <h3 id="customizeable-decks" tabindex="-1"><a class="header-anchor" href="#customizeable-decks" aria-hidden="true">#</a> Customizeable Decks</h3>
@@ -288,6 +296,21 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/19-108L_NF_FA.jpg">[19-108L]</a> - Zidane (NF)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/C-001_NF_FA.jpg">[C-001]</a> - Crystal (Red) (NF)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/C-002_NF_FA.jpg">[C-002]</a> - Crystal (Green) (NF)</li>
+</ul>
+<p><a href="2023-11-25_2023_StarterDecks#anniversary-2024">Anniversary (2024)</a></p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/14-122L_NF_FA.jpg">[14-122L]</a> - Al-Cid</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/13-002L_NF_FA.jpg">[13-002L]</a> - Akstar</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/14-042L_NF_FA.jpg">[14-042L]</a> - Bismarck, Lord of the Mists</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/16-088L_NF_FA.jpg">[16-088L]</a> - Black Waltz 3</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/18/18-100.jpg">[18-100L]</a> - Lenna</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/14-102L_NF_FA.jpg">[14-102L]</a> - Leviathan, Lord of the Whorl</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/12-116L_NF_FA.jpg">[12-116L]</a> - Locke</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/13-028L_NF_FA.jpg">[13-028L]</a> - Physalis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/15-084L_NF_FA.jpg">[15-084L]</a> - Robel-Akbel</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/11-064L_NF_FA.jpg">[11-064L]</a> - Ursula</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/12-119L_NF_FA.jpg">[12-119L]</a> - Y’shtola</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Anniversary_Collection_2024/16-100L_NF_FA.jpg">[16-100L]</a> - Y’shtola</li>
 </ul>
 <h2 id="noir-full-art-signatures" tabindex="-1"><a class="header-anchor" href="#noir-full-art-signatures" aria-hidden="true">#</a> <a href="2023-11-25_2023_StarterDecks#ff-vii-noir-2023">Noir Full Art Signatures</a></h2>
 <ul>

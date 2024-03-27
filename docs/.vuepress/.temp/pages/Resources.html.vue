@@ -47,6 +47,7 @@
 <h3 id="tutorials" tabindex="-1"><a class="header-anchor" href="#tutorials" aria-hidden="true">#</a> <strong>Tutorials:</strong></h3>
 <ul>
 <li><strong>Official</strong> - <a href="https://fftcg.square-enix-games.com/na/gameplay#tutorial"> https://fftcg.square-enix-games.com/na/gameplay#tutorial</a></li>
+<li><strong>YT Short</strong> - <a href="https://www.youtube.com/shorts/o2J9r8rE2js"> https://www.youtube.com/shorts/o2J9r8rE2js</a></li>
 <li><strong>FFTCG Priority Reference Guide</strong> - <a href="https://imgur.com/a/wzE34"> https://imgur.com/a/wzE34</a></li>
 <li><strong>OCTGN</strong> - <a href="http://octgngames.com/fftcg/how-to-play/"> http://octgngames.com/fftcg/how-to-play/</a>&quot;</li>
 <li><strong>FAQ</strong> - <a href="https://fftcg.square-enix-games.com/na/gameplay#faq"> https://fftcg.square-enix-games.com/na/gameplay#faq</a></li>

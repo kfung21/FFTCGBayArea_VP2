@@ -27,6 +27,10 @@ export const pagesComponents = {
   "v-aa559032": defineAsyncComponent(() => import(/* webpackChunkName: "v-aa559032" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-11-25_2023_StarterDecks.html.vue")),
   // path: /blog/2023-12-01_2023_Promos.html
   "v-d9b7c3be": defineAsyncComponent(() => import(/* webpackChunkName: "v-d9b7c3be" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-12-01_2023_Promos.html.vue")),
+  // path: /blog/2024-02-14_2024_Summary_Organized_Play.html
+  "v-7c81d5ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c81d5ce" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-02-14_2024_Summary_Organized_Play.html.vue")),
+  // path: /blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html
+  "v-1283c191": defineAsyncComponent(() => import(/* webpackChunkName: "v-1283c191" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.vue")),
 }

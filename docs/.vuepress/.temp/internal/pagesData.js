@@ -25,6 +25,10 @@ export const pagesData = {
   "v-aa559032": () => import(/* webpackChunkName: "v-aa559032" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-11-25_2023_StarterDecks.html.js").then(({ data }) => data),
   // path: /blog/2023-12-01_2023_Promos.html
   "v-d9b7c3be": () => import(/* webpackChunkName: "v-d9b7c3be" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2023-12-01_2023_Promos.html.js").then(({ data }) => data),
+  // path: /blog/2024-02-14_2024_Summary_Organized_Play.html
+  "v-7c81d5ce": () => import(/* webpackChunkName: "v-7c81d5ce" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-02-14_2024_Summary_Organized_Play.html.js").then(({ data }) => data),
+  // path: /blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html
+  "v-1283c191": () => import(/* webpackChunkName: "v-1283c191" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

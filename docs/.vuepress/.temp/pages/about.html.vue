@@ -1,20 +1,15 @@
 <template><div><h1 id="about" tabindex="-1"><a class="header-anchor" href="#about" aria-hidden="true">#</a> About</h1>
 <p>A place for people to connect to grow the scene in Northern California (including selling / trading product). Feel free to join, invite your friends, asks questions and help grow the playerbase in the SF Bay Area! For more information contact the store tournament organizers and also ask to join our fb group chats!</p>
 <h2 id="stores" tabindex="-1"><a class="header-anchor" href="#stores" aria-hidden="true">#</a> Stores</h2>
-<h3 id="king-kong-games" tabindex="-1"><a class="header-anchor" href="#king-kong-games" aria-hidden="true">#</a> King Kong Games</h3>
-<ul>
-<li><strong>Website</strong>: <a href="https://kingkongcomicsandgames.com/"> https://kingkongcomicsandgames.com/</a></li>
-<li><strong>Facebook</strong>: <a href="https://www.facebook.com/KingKongComicsandGames/"> https://www.facebook.com/KingKongComicsandGames/</a></li>
-<li><strong>Location</strong>: 6700 Amador Plaza Road, Dublin, CA 94568 <a href="https://goo.gl/maps/fb3rpvhf1U29viDp7">[Google Maps]</a></li>
-<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a></li>
-<li><strong>Event Days/Times</strong>:
-<ul>
-<li>Fridays</li>
-<li>8:00pm (Constructed $10)</li>
-</ul>
-</li>
-</ul>
+<!-- ### King Kong Games
+* **Website**: <a href="https://kingkongcomicsandgames.com/"> https://kingkongcomicsandgames.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/KingKongComicsandGames/"> https://www.facebook.com/KingKongComicsandGames/</a>
+* **Location**: 6700 Amador Plaza Road, Dublin, CA 94568 <a href="https://goo.gl/maps/fb3rpvhf1U29viDp7">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/LancetheHero?eid=ARC6jGd1gPa3zZXZo1VUbSKH90Y9hK2nTG8Omoe0uD4MinYlfHNkUk3QdOaBBprdjHDx47n4YKIpTkJP">Julian Highsmith</a> 
+* **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a> 
+* **Event Days/Times**: 
+    - Fridays
+    - 8:00pm (Constructed $10) -->
 <h3 id="anime-imports" tabindex="-1"><a class="header-anchor" href="#anime-imports" aria-hidden="true">#</a> <strong>Anime Imports</strong></h3>
 <ul>
 <li><strong>Website</strong>: <a href="www.animeimports.net"> www.animeimports.net</a></li>

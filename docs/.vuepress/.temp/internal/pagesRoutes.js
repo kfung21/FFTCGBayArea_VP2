@@ -12,5 +12,7 @@ export const pagesRoutes = [
   ["v-1670bc3b","/blog/2023-06-19_BennyCardArtTop8Report.html",{"_blog":{},"title":"CardArt FFTCG Store Championships Journey with Skyborne Legacy Deck"},["/blog/2023-06-19_BennyCardArtTop8Report","/blog/2023-06-19_BennyCardArtTop8Report.md"]],
   ["v-aa559032","/blog/2023-11-25_2023_StarterDecks.html",{"_blog":{},"title":"FFTCG Starter Decks"},["/blog/2023-11-25_2023_StarterDecks","/blog/2023-11-25_2023_StarterDecks.md"]],
   ["v-d9b7c3be","/blog/2023-12-01_2023_Promos.html",{"_blog":{},"title":"Promo Cards"},["/blog/2023-12-01_2023_Promos","/blog/2023-12-01_2023_Promos.md"]],
+  ["v-7c81d5ce","/blog/2024-02-14_2024_Summary_Organized_Play.html",{"_blog":{},"title":"Organized Play 2024 Overview"},["/blog/2024-02-14_2024_Summary_Organized_Play","/blog/2024-02-14_2024_Summary_Organized_Play.md"]],
+  ["v-1283c191","/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html",{"_blog":{},"title":"King Kong 3 vs 3 Team Tournament Recap"},["/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap","/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
