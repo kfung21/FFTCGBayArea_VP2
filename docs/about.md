@@ -81,7 +81,7 @@ A place for people to connect to grow the scene in Northern California (includin
     - Wednesdays
     - 6:00pm (Open Play $5)
 
-### Galaxy Games
+<!-- ### Galaxy Games
 * **Website**: <a href="https://www.galaxygamesca.com/"> https://www.galaxygamesca.com/</a>
 * **Facebook**: <a href="https://www.facebook.com/galaxygamestore/"> https://www.facebook.com/galaxygamestore/</a>
 * **Location**: 6715 Dublin Blvd, Unit H Dublin, CA 94568 <a href="https://maps.app.goo.gl/tXfXkw5VwaFiJViL7">[Google Maps]</a> 
@@ -89,7 +89,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Discord**: <a href="https://discord.com/channels/690631763051151390/690631763889750080"> [Link]</a> 
 * **Event Days/Times**: 
     - Saturdays
-    - 2:00pm (Free Play)
+    - 2:00pm (Free Play) -->
   
 ## NorCal Stores
 ### Final Cut TCG
