@@ -1,4 +1,4 @@
-<template><div><TagLinks /><h1 id="summary-of-organized-play-2023world-championship-winners" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023world-championship-winners" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023World Championship Winners</h1>
+<template><div><TagLinks /><h1 id="summary-of-organized-play-2023" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2023" aria-hidden="true">#</a> SUMMARY OF ORGANIZED PLAY 2023</h1>
 <p>(UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a></p>
 <h2 id="world-championships-12-2-2023" tabindex="-1"><a class="header-anchor" href="#world-championships-12-2-2023" aria-hidden="true">#</a> World Championships (12/2/2023)</h2>

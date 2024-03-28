@@ -11,37 +11,146 @@ summary: Overview of OP 2024
 ---
 <TagLinks />
 
-# SUMMARY OF ORGANIZED PLAY 2024
+# SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2024
 
-(UPDATED Feb 2024) <br>
+(UPDATED Mar 2024) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a>
 
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Materia Cups
 
-### Kansas (4/20/24)
+### Kansas (4/20)
   * Collector's Cache Decklists
   
-### Florida (5/11/24)
+### Florida (5/11)
   * The Haven Games Decklists
   
-### Illinois (5/25/24)
+### Illinois (5/25)
   * Good Games Chicago Decklists
   
-### California (6/8/24)
+### California (6/8)
   * Tabletop Tavern Decklists
   
-### Canada (6/22/24)
+### Canada (6/22)
   * Red Dragon Comics, Cards, Games Decklists
   
-### Texas (7/13/24)
+### Texas (7/13)
   * Lonestar Pack Breaks Decklists
   
-### Oregon (8/10/24)
+### Oregon (8/10)
   * Epic Gaming PDX Decklists
   
-### North Carolina (8/24/24)
+### North Carolina (8/24)
   * Game Theory Decklists
 
 
-## Store Championships TBD
+## Store Championships 
+### [PA] Pittsburgh (4/27)
+* Four Horseman Comics and Gaming, Robinson Township Decklists <a href="">[FFDecks]</a>
+### [AZ] Tempe (4/27)
+* Gamer's Guild AZ Decklists <a href="">[FFDecks]</a>
+### [FL] Miami (4/27)
+* Unfun Stuff Games and Hobby Decklists <a href="">[FFDecks]</a>
+### [ID] Boise (4/27)
+* Deadly Seven Games Decklists <a href="">[FFDecks]</a>
+### [TX] Houston (4/28)
+* Heroes Collectables Decklists <a href="">[FFDecks]</a>
+### [VA] Springfield (4/28)
+* Spieda Games Decklists <a href="">[FFDecks]</a>
+### [OH] Canton (5/04)
+* Freedom Hobby and Gaming Decklists <a href="">[FFDecks]</a>
+### [TX] Plano (5/04)
+* Mystery Cards and Gaming Decklists <a href="">[FFDecks]</a>
+### [CO] Federal Heights (5/04)
+* Level 7 Games Decklists <a href="">[FFDecks]</a>
+### [CA] Gold River (5/05)
+* Final Cut TCG Decklists <a href="">[FFDecks]</a>
+### [SC] Goose Creek (5/05)
+* Grandline Games Decklists <a href="">[FFDecks]</a>
+### [IA] Ankeny (5/05)
+* Game Kastle Ankeny Decklists <a href="">[FFDecks]</a>
+### [MO] St Peters (5/18)
+* Collector Store Decklists <a href="">[FFDecks]</a>
+### [CA] Alameda (5/18)
+* Destine Fantasy Games Decklists <a href="">[FFDecks]</a>
+### [RI] North Providence (5/19)
+* Rescue Gaming Collectibles Decklists <a href="">[FFDecks]</a>
+### [OR] Beaverton (5/19)
+* Chronos Games & Gifts Decklists <a href="">[FFDecks]</a>
+### [TX] North Richland Hills (5/19)
+* Eclipse Cards and Hobby Decklists <a href="">[FFDecks]</a>
+### [NE] Omaha (5/19)
+* Café Monster Decklists <a href="">[FFDecks]</a>
+### [PA] Wernersville (6/01)
+* The Banish Zone Decklists <a href="">[FFDecks]</a>
+### [TX] El Paso (6/01)
+* Game Vault Decklists <a href="">[FFDecks]</a>
+### [MO] Columbia (6/02)
+* Hexagon Alley Decklists <a href="">[FFDecks]</a>
+### [NY] New York (6/02)
+* The Uncommons Decklists <a href="">[FFDecks]</a>
+### [FL] Miami (6/15)
+* Pro-Play Games Decklists <a href="">[FFDecks]</a>
+### [IL] Niles (6/15)
+* Perfect Circle Games Decklists <a href="">[FFDecks]</a>
+### [VA] Yorktown (6/15)
+* Jerseys Cards and Comics Decklists <a href="">[FFDecks]</a>
+### [NJ] Hamilton (6/16)
+* Greg's Games Decklists <a href="">[FFDecks]</a>
+### [MN] Crystal (6/16)
+* Table Top Tournaments Decklists <a href="">[FFDecks]</a>
+### [CO] Aurora (6/29)
+* Dueling Land Decklists <a href="">[FFDecks]</a>
+### [NC] Wilson (6/29)
+* DreamDaze Comics Fun & Games Decklists <a href="">[FFDecks]</a>
+### [PA] Paoli (6/29)
+* Main Line Chess & Games Decklists <a href="">[FFDecks]</a>
+### [TX] San Antonio (6/30)
+* Shenanigans Gaming Decklists <a href="">[FFDecks]</a>
+### [MS] Pearl (6/30)
+* Penta Smite Gaming Decklists <a href="">[FFDecks]</a>
+### [PA] Erie (6/30)
+* Gateway Games Decklists <a href="">[FFDecks]</a>
+### [IL] Summit (7/20)
+* Game Knight Chicago Decklists <a href="">[FFDecks]</a>
+### [MO] Kansas City (7/20)
+* Spanky's Card Shop Decklists <a href="">[FFDecks]</a>
+### [GA] Duluth (7/20)
+* Level Up Games Decklists <a href="">[FFDecks]</a>
+### [MN] Burnsville (7/21)
+* Fox Den Board Game Café Decklists <a href="">[FFDecks]</a>
+### [CA] Clovis (7/21)
+* Ender's Games Decklists <a href="">[FFDecks]</a>
+### [TX] Houston (7/21)
+* Dragon's Lair Comics and Fantasy North Houston Decklists <a href="">[FFDecks]</a>
+### [FL] Brandon (7/27)
+* Gamers Command Decklists <a href="">[FFDecks]</a>
+### [CA] Ontario (7/27)
+* The Light Decklists <a href="">[FFDecks]</a>
+### [WA] Bothell (7/27)
+* Zulus Board Game Café Decklists <a href="">[FFDecks]</a>
+### [TX] Tyler (7/27)
+* Game Crave Decklists <a href="">[FFDecks]</a>
+### [VA] Woodbridge (7/28)
+* Born 2 Game Decklists <a href="">[FFDecks]</a>
+### [WI] Butler (7/28)
+* Evolution Gaming Decklists <a href="">[FFDecks]</a>
+### [NV] North Las Vegas (8/03)
+* Power 9 Games Decklists <a href="">[FFDecks]</a>
+### [WV] Morgantown (8/03)
+* Four Horsemen Comics and Gaming, Morgantown Decklists <a href="">[FFDecks]</a>
+### [MO] Jefferson City (8/04)
+* Mimics JC Decklists <a href="">[FFDecks]</a>
+### [OH] Milford (8/04)
+* Jesters Cards & Games Decklists <a href="">[FFDecks]</a>
+### [CA] Sunnyvale (8/17)
+* CardArt Decklists <a href="">[FFDecks]</a>
+### [TX] Little Elm (8/17)
+* New World Gaming Decklists <a href="">[FFDecks]</a>
+### [NY] Wantagh (8/17)
+* The Comic Book Depot Decklists <a href="">[FFDecks]</a>
+### [PA] Pleasant Hills (8/18)
+* Top Deck Cards and Games Decklists <a href="">[FFDecks]</a>
+### [KY] Louisville (8/18)
+* Miso's Game Room and Collectibles Decklists <a href="">[FFDecks]</a>

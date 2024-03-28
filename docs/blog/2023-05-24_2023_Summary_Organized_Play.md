@@ -11,7 +11,7 @@ summary: Overview of OP 2023
 ---
 <TagLinks />
 
-# SUMMARY OF ORGANIZED PLAY 2023World Championship Winners
+# SUMMARY OF ORGANIZED PLAY 2023 
 
 (UPDATED Nov 2023) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2023-details-and-schedule">Square Enix Schedule</a>
