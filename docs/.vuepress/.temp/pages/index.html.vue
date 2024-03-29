@@ -1,7 +1,7 @@
 <template><div><h1 id="final-fantasy-tcg-bay-area" tabindex="-1"><a class="header-anchor" href="#final-fantasy-tcg-bay-area" aria-hidden="true">#</a> <center>Final Fantasy TCG Bay Area </center></h1>
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
 <p><a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://i.imgur.com/5l9Z0vA.jpeg"></a></p>
-<p><a href="./blog/2024-02-14_2024_Summary_Organized_Play"><strong>Organized Play 2024 Summary (Feb 2024)</strong></a><br>
+<p><a href="./blog/2024-02-14_2024_Summary_Organized_Play"><strong>Organized Play 2024 Summary (Mar 2024)</strong></a><br>
 <a href="./blog/2023-05-24_2023_Summary_Organized_Play"><strong>Organized Play 2023 Summary (Nov 2023)</strong></a></p>
 <!-- ## News and Announcements -->
 <hr>

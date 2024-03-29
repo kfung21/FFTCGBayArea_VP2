@@ -1,6 +1,9 @@
 <template><div><h2 id="_2024" tabindex="-1"><a class="header-anchor" href="#_2024" aria-hidden="true">#</a> 2024</h2>
 <ul>
 <li>
+<h3 id="limit-break-cards-updated-apr-2024" tabindex="-1"><a class="header-anchor" href="#limit-break-cards-updated-apr-2024" aria-hidden="true">#</a> <a href="./blog/2024-03-29_2024_LimitBreaks"><strong>Limit Break Cards (Updated Apr 2024)</strong></a></h3>
+</li>
+<li>
 <h3 id="summary-of-organized-play-2024-updated-mar-2024" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2024-updated-mar-2024" aria-hidden="true">#</a> <a href="./blog/2024-02-14_2024_Summary_Organized_Play"><strong>Summary of Organized Play 2024 (Updated Mar 2024)</strong></a></h3>
 </li>
 <li>
