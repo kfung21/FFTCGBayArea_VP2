@@ -31,6 +31,10 @@ export const pagesData = {
   "v-1283c191": () => import(/* webpackChunkName: "v-1283c191" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html.js").then(({ data }) => data),
   // path: /blog/2024-03-29_2024_LimitBreaks.html
   "v-865c78fc": () => import(/* webpackChunkName: "v-865c78fc" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-03-29_2024_LimitBreaks.html.js").then(({ data }) => data),
+  // path: /blog/2024-04-30_DeckbuildingTheory.html
+  "v-697c4e45": () => import(/* webpackChunkName: "v-697c4e45" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-04-30_DeckbuildingTheory.html.js").then(({ data }) => data),
+  // path: /blog/2024-04-30_Opus22_Decks.html
+  "v-329577c6": () => import(/* webpackChunkName: "v-329577c6" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-04-30_Opus22_Decks.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

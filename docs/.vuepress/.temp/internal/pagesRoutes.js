@@ -15,5 +15,7 @@ export const pagesRoutes = [
   ["v-7c81d5ce","/blog/2024-02-14_2024_Summary_Organized_Play.html",{"_blog":{},"title":"Organized Play 2024 Overview"},["/blog/2024-02-14_2024_Summary_Organized_Play","/blog/2024-02-14_2024_Summary_Organized_Play.md"]],
   ["v-1283c191","/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html",{"_blog":{},"title":"King Kong 3 vs 3 Team Tournament Recap"},["/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap","/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.md"]],
   ["v-865c78fc","/blog/2024-03-29_2024_LimitBreaks.html",{"_blog":{},"title":"Limit Break Cards"},["/blog/2024-03-29_2024_LimitBreaks","/blog/2024-03-29_2024_LimitBreaks.md"]],
+  ["v-697c4e45","/blog/2024-04-30_DeckbuildingTheory.html",{"_blog":{},"title":"FFTCG Deckbuilding"},["/blog/2024-04-30_DeckbuildingTheory","/blog/2024-04-30_DeckbuildingTheory.md"]],
+  ["v-329577c6","/blog/2024-04-30_Opus22_Decks.html",{"_blog":{},"title":"Opus 22 Decks"},["/blog/2024-04-30_Opus22_Decks","/blog/2024-04-30_Opus22_Decks.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

@@ -33,6 +33,10 @@ export const pagesComponents = {
   "v-1283c191": defineAsyncComponent(() => import(/* webpackChunkName: "v-1283c191" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-02-17_King_Kong_Winter_3vs3_Team_Tournament_Recap.html.vue")),
   // path: /blog/2024-03-29_2024_LimitBreaks.html
   "v-865c78fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-865c78fc" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-03-29_2024_LimitBreaks.html.vue")),
+  // path: /blog/2024-04-30_DeckbuildingTheory.html
+  "v-697c4e45": defineAsyncComponent(() => import(/* webpackChunkName: "v-697c4e45" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-04-30_DeckbuildingTheory.html.vue")),
+  // path: /blog/2024-04-30_Opus22_Decks.html
+  "v-329577c6": defineAsyncComponent(() => import(/* webpackChunkName: "v-329577c6" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-04-30_Opus22_Decks.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.vue")),
 }
