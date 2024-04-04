@@ -30,7 +30,7 @@
 <img src="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/18/18-086_FA.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Dissidia_Collection_2023/16-116L_NF_FA.jpg" style="max-width:20%; height:auto;">
 <p>This is the million dollar question.</p>
-<p>To better understand the concepts, I'll go over an <a href ="https://ffdecks.com/deck/5608547535552512">example deck</a> I made and used in a big  tournament last year.</p>
+<p>To better understand the concepts, I'll go over an <a href ="https://ffdecks.com/deck/5608547535552512">example deck</a> I made and used in a <a href ="https://ffdecks.com/tournament/materia-cup-lspb-tx-1-16/5195805473374208">big tournament</a> last year.</p>
 <h3 id="unfair-core" tabindex="-1"><a class="header-anchor" href="#unfair-core" aria-hidden="true">#</a> Unfair Core</h3>
 <img src="https://storage.googleapis.com/ffdecks-card-images/12-097H_eg.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/18/18-100_FA.jpg" style="max-width:20%; height:auto;">
@@ -42,6 +42,7 @@
 <img src="https://storage.googleapis.com/ffdecks-card-images-qas/4-128.jpg" style="max-width:20%; height:auto;">
 <h3 id="weaknesses" tabindex="-1"><a class="header-anchor" href="#weaknesses" aria-hidden="true">#</a> Weaknesses</h3>
 <img src="https://storage.googleapis.com/ffdecks-card-images/11-140s-eg.jpg" style="max-width:20%; height:auto;">
+<p><a href="https://youtu.be/SaN3ulTqM4w?si=orkvdIfluOa2Vrt5">previous water decks</a></p>
 <h3 id="good-cards" tabindex="-1"><a class="header-anchor" href="#good-cards" aria-hidden="true">#</a> &quot;Good&quot; Cards</h3>
 <img src="https://storage.googleapis.com/ffdecks-card-images-qas/9-114C_eg.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/ffdecks-card-images/14-113R_eg.jpg" style="max-width:20%; height:auto;">

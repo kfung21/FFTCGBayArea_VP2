@@ -58,7 +58,7 @@ Usually when I start making a new deck, I identify the core cards that I want to
 
 This is the million dollar question. 
 
-To better understand the concepts, I'll go over an <a href ="https://ffdecks.com/deck/5608547535552512">example deck</a> I made and used in a big  tournament last year.
+To better understand the concepts, I'll go over an <a href ="https://ffdecks.com/deck/5608547535552512">example deck</a> I made and used in a <a href ="https://ffdecks.com/tournament/materia-cup-lspb-tx-1-16/5195805473374208">big tournament</a> last year.
 
 
 ### Unfair Core
@@ -73,8 +73,11 @@ To better understand the concepts, I'll go over an <a href ="https://ffdecks.com
 <img src="https://storage.googleapis.com/ffdecks-card-images/134_548b0479-4fda-42e5-a5b7-61bc09606b82.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/ffdecks-card-images-qas/4-128.jpg" style="max-width:20%; height:auto;">
 
+
 ### Weaknesses
 <img src="https://storage.googleapis.com/ffdecks-card-images/11-140s-eg.jpg" style="max-width:20%; height:auto;">
+
+<a href="https://youtu.be/SaN3ulTqM4w?si=orkvdIfluOa2Vrt5">previous water decks</a>
 
 ### "Good" Cards
 <img src="https://storage.googleapis.com/ffdecks-card-images-qas/9-114C_eg.jpg" style="max-width:20%; height:auto;">

@@ -1,5 +1,6 @@
 <template><div><TagLinks /><!-- http://localhost:8080/blog/2024-04-30_Opus22_Decks.html -->
 <h1 id="opus-22-decks" tabindex="-1"><a class="header-anchor" href="#opus-22-decks" aria-hidden="true">#</a> Opus 22 Decks</h1>
+<p>For deckbuilding advice <a href="2024-04-30_DeckbuildingTheory">click here</a></p>
 <h2 id="tier-list" tabindex="-1"><a class="header-anchor" href="#tier-list" aria-hidden="true">#</a> Tier List</h2>
 <h4 id="tier-1" tabindex="-1"><a class="header-anchor" href="#tier-1" aria-hidden="true">#</a> Tier 1</h4>
 <h4 id="tier-2" tabindex="-1"><a class="header-anchor" href="#tier-2" aria-hidden="true">#</a> Tier 2</h4>
@@ -16,7 +17,13 @@
 <img src="https://storage.googleapis.com/ffdecks-card-images/14-023L_eg.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/ffdecks-card-images/19-102L_eg.jpg" style="max-width:20%; height:auto;">
 <p><a href="https://ffdecks.com/deck/5182233607405568">[FFDecks]</a></p>
-<h3 id="warriors" tabindex="-1"><a class="header-anchor" href="#warriors" aria-hidden="true">#</a> Warriors</h3>
+<ul>
+<li><strong>Playstyle</strong>: Aggro</li>
+<li><strong>Win Con</strong>: Flood the field using WoL 7 ETB. Dull/freeze or remove forwards.</li>
+<li><strong>Key Cards</strong>: Warrior of Light, Gilgamesh, Refia</li>
+<li><strong>Weaknesses</strong>: Flood the field using WoL 7 ETB. Dull/freeze or remove forwards.</li>
+</ul>
+<h2 id="warriors" tabindex="-1"><a class="header-anchor" href="#warriors" aria-hidden="true">#</a> Warriors</h2>
 <img src="https://storage.googleapis.com/ffdecks-card-images/21-010H_eg.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/ffdecks-card-images/18-130L_eg.jpg" style="max-width:20%; height:auto;">
 <img src="https://storage.googleapis.com/ffdecks-card-images/13-125R_eg.jpg" style="max-width:20%; height:auto;">
