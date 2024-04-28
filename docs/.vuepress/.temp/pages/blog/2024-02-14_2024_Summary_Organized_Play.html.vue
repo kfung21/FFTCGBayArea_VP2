@@ -5,7 +5,10 @@
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="kansas-4-20" tabindex="-1"><a class="header-anchor" href="#kansas-4-20" aria-hidden="true">#</a> Kansas (4/20)</h3>
 <ul>
-<li>Collector's Cache Decklists</li>
+<li>Collector's Cache Decklists Day 2 (Top 8) <a href="https://ffdecks.com/tournament/collectors-cache-materia-cup-2024-1-8/5211105619083264">[FFDecks]</a></li>
+<li>Collector's Cache Decklists Day 1 (Top 32) <a href="https://www.facebook.com/photo?fbid=866502072185392">[Facebook]</a></li>
+<li>Day 2 Video <a href="https://youtu.be/3JRNSsidMmg">[YouTube]</a></li>
+<li>Day 1 Video <a href="">[YouTube]</a></li>
 </ul>
 <h3 id="florida-5-11" tabindex="-1"><a class="header-anchor" href="#florida-5-11" aria-hidden="true">#</a> Florida (5/11)</h3>
 <ul>
