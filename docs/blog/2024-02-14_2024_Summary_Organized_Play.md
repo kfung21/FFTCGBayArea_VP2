@@ -24,7 +24,7 @@ summary: Overview of OP 2024
   * Collector's Cache Decklists Day 2 (Top 8) <a href="https://ffdecks.com/tournament/collectors-cache-materia-cup-2024-1-8/5211105619083264">[FFDecks]</a>
   * Collector's Cache Decklists Day 1 (Top 32) <a href="https://www.facebook.com/photo?fbid=866502072185392">[Facebook]</a>
 * Day 2 Video <a href="https://youtu.be/3JRNSsidMmg">[YouTube]</a>
-* Day 1 Video <a href="">[YouTube]</a>
+* Day 1 Video <a href="https://youtu.be/klD2nZPo7cU">[YouTube]</a>
   
 ### Florida (5/11)
   * The Haven Games Decklists
