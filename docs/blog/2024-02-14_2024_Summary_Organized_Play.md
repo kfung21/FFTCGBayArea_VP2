@@ -19,34 +19,39 @@ summary: Overview of OP 2024
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Materia Cups
-
-### Kansas (4/20)
-  * Collector's Cache Decklists Day 2 (Top 8) <a href="https://ffdecks.com/tournament/collectors-cache-materia-cup-2024-1-8/5211105619083264">[FFDecks]</a>
-  * Collector's Cache Decklists Day 1 (Top 32) <a href="https://www.facebook.com/photo?fbid=866502072185392">[Facebook]</a>
-* Day 2 Video <a href="https://youtu.be/3JRNSsidMmg">[YouTube]</a>
-* Day 1 Video <a href="https://youtu.be/klD2nZPo7cU">[YouTube]</a>
-  
-### Florida (5/11)
-  * The Haven Games Decklists
-  
-### Illinois (5/25)
-  * Good Games Chicago Decklists
-  
-### California (6/8)
-  * Tabletop Tavern Decklists
-  
-### Canada (6/22)
-  * Red Dragon Comics, Cards, Games Decklists
-  
-### Texas (7/13)
-  * Lonestar Pack Breaks Decklists
+### North Carolina (8/24)
+* Game Theory Decklists
   
 ### Oregon (8/10)
   * Epic Gaming PDX Decklists
   
-### North Carolina (8/24)
-  * Game Theory Decklists
+### Texas (7/13)
+  * Lonestar Pack Breaks Decklists
 
+### Canada (6/22)
+  * Red Dragon Comics, Cards, Games Decklists
+
+### California (6/8)
+  * Tabletop Tavern Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/sUbjqndLUiwwDP6aPXjC">[Materia Hunter]</a> 
+  * Day 2 (Top 8) Video <a href="https://youtu.be/JnvqkHsNNCs">[YouTube]</a>
+  * Day 2 (Top 16) Video <a href="https://youtu.be/DH__oVjnFUM">[YouTube]</a>
+  * Day 1 Video <a href="https://youtu.be/U0Ulxu5ZBnM">[YouTube]</a>
+   
+### Illinois (5/25)
+  * Good Games Chicago Decklists (Top 32)  <a href="https://materiahunter.com/tournaments/r1IqwYEmRpA3YjAjfHWW">[Materia Hunter]</a> 
+  * Day 2 Video <a href="https://www.youtube.com/live/OKPNcTyAhRI">[YouTube]</a>
+  * Day 1 Video <a href="https://www.youtube.com/live/LusulPmZrgI">[YouTube]</a>
+   
+### Florida (5/11)
+  * The Haven Games Decklists (Top 16) <a href="https://ffdecks.com/tournament/florida-materia-cup-at-the-haven-games/5968272986996736">[FFDecks]</a>
+  * Day 2 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a>
+  * Day 1 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a>
+  
+### Kansas (4/20)
+  * Collector's Cache Decklists Day 2 (Top 8) <a href="https://ffdecks.com/tournament/collectors-cache-materia-cup-2024-1-8/5211105619083264">[FFDecks]</a>
+  * Collector's Cache Decklists Day 1 (Top 32) <a href="https://materiahunter.com/tournaments/WKDQcn55xbqiJrmqiuYQ">[Materia Hunter]</a>
+  * Day 2 Video <a href="https://youtu.be/3JRNSsidMmg">[YouTube]</a>
+  * Day 1 Video <a href="https://youtu.be/klD2nZPo7cU">[YouTube]</a>
 
 ## Store Championships 
 ### [PA] Pittsburgh (4/27)
