@@ -49,7 +49,8 @@ summary: Overview of OP 2024
   
 ### Kansas (4/20)
   * Collector's Cache Decklists Day 2 (Top 8) <a href="https://ffdecks.com/tournament/collectors-cache-materia-cup-2024-1-8/5211105619083264">[FFDecks]</a>
-  * Collector's Cache Decklists Day 1 (Top 32) <a href="https://materiahunter.com/tournaments/WKDQcn55xbqiJrmqiuYQ">[Materia Hunter]</a>
+  * Collector's Cache Decklists Day 1 (Top 16) <a href="https://materiahunter.com/tournaments/WKDQcn55xbqiJrmqiuYQ">[Materia Hunter]</a>
+  * Collector's Cache Decklists Day 1 (Top 32) <a href="https://www.facebook.com/photo?fbid=866502072185392">[FB]</a>
   * Day 2 Video <a href="https://youtu.be/3JRNSsidMmg">[YouTube]</a>
   * Day 1 Video <a href="https://youtu.be/klD2nZPo7cU">[YouTube]</a>
 
