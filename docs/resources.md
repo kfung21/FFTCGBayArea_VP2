@@ -46,8 +46,9 @@ summary: Resources
 * **FAQ** - <a href="https://fftcg.square-enix-games.com/na/gameplay#faq"> https://fftcg.square-enix-games.com/na/gameplay#faq</a>
 
 ### Tournament Rules:
-* Official - <a href="https://fftcg.square-enix-games.com/na/play-article/rules"> https://fftcg.square-enix-games.com/na/play-article/rules</a>
+* Official Page - <a href="https://fftcg.square-enix-games.com/na/play-article/rules"> https://fftcg.square-enix-games.com/na/play-article/rules</a>
   
+* Tournament Rules - <a href="https://fftcg.cdn.sewest.net/assets/fftcg-tournament-rules-guidelines-2.0.pdf"> https://fftcg.cdn.sewest.net/assets/fftcg-tournament-rules-guidelines-2.0.pdf</a>
 * Advanced Rules - <a href="https://fftcg.cdn.sewest.net/2024-03/fftcg-rules-v3.0.pdf"> https://fftcg.cdn.sewest.net/2024-03/fftcg-rules-v3.0.pdf</a>
 * Ban List & Errata - <a href="https://fftcg.square-enix-games.com/en/play-article/ban-list-errata"> https://fftcg.square-enix-games.com/en/play-article/ban-list-errata</a>
 * FAQs - <a href="https://fftcg.square-enix-games.com/en/play-article/faq"> https://fftcg.square-enix-games.com/en/play-article/faq</a>
