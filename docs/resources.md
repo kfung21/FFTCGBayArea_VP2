@@ -46,11 +46,18 @@ summary: Resources
 * **FAQ** - <a href="https://fftcg.square-enix-games.com/na/gameplay#faq"> https://fftcg.square-enix-games.com/na/gameplay#faq</a>
 
 ### Tournament Rules:
-* Official - <a href="https://fftcg.cdn.sewest.net/OP%20Section/fftcg-tournament-rules-guidelines.pdf?2a25cbcb08"> https://fftcg.cdn.sewest.net/OP%20Section/fftcg-tournament-rules-guidelines.pdf?2a25cbcb08</a>
+* Official - <a href="https://fftcg.square-enix-games.com/na/play-article/rules"> https://fftcg.square-enix-games.com/na/play-article/rules</a>
   
-* Advanced Rules - <a href="https://fftcg.cdn.sewest.net/2021-12/fftcg-advancedrules-20213011-2.pdf"> https://fftcg.cdn.sewest.net/2021-12/fftcg-advancedrules-20213011-2.pdf</a>
-* Judge Penalties - <a href="https://fftcg.cdn.sqexeu.com/files/downloadables/fftcg_penalties_en.pdf"> https://fftcg.cdn.sqexeu.com/files/downloadables/fftcg_penalties_en.pdf</a>
-* Ban List & Errata - <a href="https://fftcg.square-enix-games.com/na/gameplay#errata"> https://fftcg.square-enix-games.com/na/gameplay#errata</a>
+* Advanced Rules - <a href="https://fftcg.cdn.sewest.net/2024-03/fftcg-rules-v3.0.pdf"> https://fftcg.cdn.sewest.net/2024-03/fftcg-rules-v3.0.pdf</a>
+* Ban List & Errata - <a href="https://fftcg.square-enix-games.com/en/play-article/ban-list-errata"> https://fftcg.square-enix-games.com/en/play-article/ban-list-errata</a>
+* FAQs - <a href="https://fftcg.square-enix-games.com/en/play-article/faq"> https://fftcg.square-enix-games.com/en/play-article/faq</a>
+* White Mage Discord - <a href="https://discord.com/channels/1115717709192237158/1125166151035539558"> https://discord.com/channels/1115717709192237158/1125166151035539558</a>
+  * Auto Abiities Slides - <a href="https://docs.google.com/presentation/d/1LUoHpf2odZ2vRXM0zBDQ5wyrWGi7QX6QgxHUpdYC48A"> GSlides</a>
+  * When/If You Do So - <a href="https://docs.google.com/presentation/d/1xl8lVlbqojKgOC6Xw2_Bgb6nQLBi_DcLBxlhIYP-nMc/"> GSlides</a>
+* Twitter/X
+  * Square Enix - <a href="https://x.com/FFTCG_SQEX/with_replies"> X</a>
+  * Torou Kageyama - <a href="https://x.com/john_monocolor/with_replies"> X</a>
+  * Torou Kageyama - <a href="https://docs.google.com/spreadsheets/d/1m0V2L1RUmjXhOjUx2x4teHwIArxyXiuPoI4B5Hyru9s"> GSheets</a>
   
 ### Articles and Spoilers:
 * Ban's Final Fantasy Corner - <a href="https://www.facebook.com/Banffcorner/"> https://www.facebook.com/Banffcorner/</a>"
