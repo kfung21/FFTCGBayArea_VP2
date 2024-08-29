@@ -13,23 +13,28 @@ summary: Overview of OP 2024
 
 # SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2024
 
-(UPDATED Mar 2024) <br>
+(UPDATED Aug 2024) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a>
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Materia Cups
 ### North Carolina (8/24)
-* Game Theory Decklists
+* Game Theory Decklists <a href="https://materiahunter.com/tournaments/xKFs6IP258jyoGZQToKm">[Materia Hunter]</a>
+* Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
+* Day 1 Video <a href="https://youtu.be/o3C4jS29EqA">[YouTube]</a>
   
 ### Oregon (8/10)
-  * Epic Gaming PDX Decklists
+  * Epic Gaming PDX Decklists <a href="https://materiahunter.com/tournaments/k4nagh6qqWsLfeJqADhS">[Materia Hunter]</a>
+  * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/W0Qq7-d9F7g?si=BA0RwxnN8rh-fA_l">[YouTube]</a>
+  * Day 1 Video <a href="https://www.youtube.com/live/jEM4pNSxYhw?si=p_fL0hWLGsc1l8ix">[YouTube]</a>
   
 ### Texas (7/13)
-  * Lonestar Pack Breaks Decklists
+  * Lonestar Pack Breaks Decklists <a href="https://materiahunter.com/tournaments/ZDDnEiz94L82cmueL5Iz">[Materia Hunter]</a>
 
 ### Canada (6/22)
-  * Red Dragon Comics, Cards, Games Decklists
+  * Red Dragon Comics, Cards Day 2 Decklists (Top 16) <a href="https://materiahunter.com/tournaments/aq9OxwqKjyDHHhUlPEQk">[Materia Hunter]</a>
+  * Red Dragon Comics, Cards Day 1 Decklists <a href="https://materiahunter.com/tournaments/Fcpra39VhBFZUwMZP9DK">[Materia Hunter]</a>
 
 ### California (6/8)
   * Tabletop Tavern Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/sUbjqndLUiwwDP6aPXjC">[Materia Hunter]</a> 
