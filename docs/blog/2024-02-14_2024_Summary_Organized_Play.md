@@ -21,8 +21,8 @@ summary: Overview of OP 2024
 ## Materia Cups
 ### North Carolina (8/24)
 * Game Theory Decklists <a href="https://materiahunter.com/tournaments/xKFs6IP258jyoGZQToKm">[Materia Hunter]</a>
-* Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
-* Day 1 Video <a href="https://youtu.be/o3C4jS29EqA">[YouTube]</a>
+<!-- * Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
+* Day 1 Video <a href="https://youtu.be/o3C4jS29EqA">[YouTube]</a> -->
   
 ### Oregon (8/10)
   * Epic Gaming PDX Decklists <a href="https://materiahunter.com/tournaments/k4nagh6qqWsLfeJqADhS">[Materia Hunter]</a>
