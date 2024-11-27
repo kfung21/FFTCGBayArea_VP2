@@ -55,16 +55,34 @@
 <h3 id="tournament-rules" tabindex="-1"><a class="header-anchor" href="#tournament-rules" aria-hidden="true">#</a> Tournament Rules:</h3>
 <ul>
 <li>
-<p>Official - <a href="https://fftcg.cdn.sewest.net/OP%20Section/fftcg-tournament-rules-guidelines.pdf?2a25cbcb08"> https://fftcg.cdn.sewest.net/OP%20Section/fftcg-tournament-rules-guidelines.pdf?2a25cbcb08</a></p>
+<p>Official Page - <a href="https://fftcg.square-enix-games.com/na/play-article/rules"> https://fftcg.square-enix-games.com/na/play-article/rules</a></p>
 </li>
 <li>
-<p>Advanced Rules - <a href="https://fftcg.cdn.sewest.net/2021-12/fftcg-advancedrules-20213011-2.pdf"> https://fftcg.cdn.sewest.net/2021-12/fftcg-advancedrules-20213011-2.pdf</a></p>
+<p>Tournament Rules - <a href="https://fftcg.cdn.sewest.net/assets/fftcg-tournament-rules-guidelines-2.0.pdf"> https://fftcg.cdn.sewest.net/assets/fftcg-tournament-rules-guidelines-2.0.pdf</a></p>
 </li>
 <li>
-<p>Judge Penalties - <a href="https://fftcg.cdn.sqexeu.com/files/downloadables/fftcg_penalties_en.pdf"> https://fftcg.cdn.sqexeu.com/files/downloadables/fftcg_penalties_en.pdf</a></p>
+<p>Advanced Rules - <a href="https://fftcg.cdn.sewest.net/2024-03/fftcg-rules-v3.0.pdf"> https://fftcg.cdn.sewest.net/2024-03/fftcg-rules-v3.0.pdf</a></p>
 </li>
 <li>
-<p>Ban List &amp; Errata - <a href="https://fftcg.square-enix-games.com/na/gameplay#errata"> https://fftcg.square-enix-games.com/na/gameplay#errata</a></p>
+<p>Ban List &amp; Errata - <a href="https://fftcg.square-enix-games.com/en/play-article/ban-list-errata"> https://fftcg.square-enix-games.com/en/play-article/ban-list-errata</a></p>
+</li>
+<li>
+<p>FAQs - <a href="https://fftcg.square-enix-games.com/en/play-article/faq"> https://fftcg.square-enix-games.com/en/play-article/faq</a></p>
+</li>
+<li>
+<p>White Mage Discord - <a href="https://discord.com/channels/1115717709192237158/1125166151035539558"> https://discord.com/channels/1115717709192237158/1125166151035539558</a></p>
+<ul>
+<li>Auto Abiities Slides - <a href="https://docs.google.com/presentation/d/1LUoHpf2odZ2vRXM0zBDQ5wyrWGi7QX6QgxHUpdYC48A"> GSlides</a></li>
+<li>When/If You Do So - <a href="https://docs.google.com/presentation/d/1xl8lVlbqojKgOC6Xw2_Bgb6nQLBi_DcLBxlhIYP-nMc/"> GSlides</a></li>
+</ul>
+</li>
+<li>
+<p>Twitter/X</p>
+<ul>
+<li>Square Enix - <a href="https://x.com/FFTCG_SQEX/with_replies"> X</a></li>
+<li>Torou Kageyama - <a href="https://x.com/john_monocolor/with_replies"> X</a></li>
+<li>Torou Kageyama - <a href="https://docs.google.com/spreadsheets/d/1m0V2L1RUmjXhOjUx2x4teHwIArxyXiuPoI4B5Hyru9s"> GSheets</a></li>
+</ul>
 </li>
 </ul>
 <h3 id="articles-and-spoilers" tabindex="-1"><a class="header-anchor" href="#articles-and-spoilers" aria-hidden="true">#</a> Articles and Spoilers:</h3>

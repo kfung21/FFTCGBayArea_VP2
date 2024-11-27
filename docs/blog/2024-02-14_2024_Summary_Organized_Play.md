@@ -18,6 +18,8 @@ summary: Overview of OP 2024
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 
+<a href="https://drive.google.com/file/d/1PVxv6y25_PEH3y3Z68pgvNRFzsNl4XPA/view?usp=drive_link">World's Handbook</a>
+
 ## Materia Cups
 ### North Carolina (8/24)
 * Game Theory Decklists <a href="https://materiahunter.com/tournaments/xKFs6IP258jyoGZQToKm">[Materia Hunter]</a>

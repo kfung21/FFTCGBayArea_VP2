@@ -176,10 +176,15 @@ All info courtesy of <a href="https://fftcg.boards.net/thread/742/list-promo-var
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-160_22-120H_FA.jpg">[PR-160]</a> - Cloud</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-161_16-058R_NF_FA.jpg">[PR-161]</a> - Fina (3/24)</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-162_15-042R_FA.jpg">[PR-162]</a> - Locke (4/24)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-163_19-104H.jpg">[PR-163]</a> - Madeen (5/24)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-164_18-086H_FA.jpg">[PR-164]</a> - Ashe (6/24)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-165_23-115L_FA.jpg">[PR-165]</a> - Venat</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/23/23-129H.jpg">[PR-166]</a> - Lunafreya</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-167_9-068H.jpg">[PR-167]</a> - Mist Dragon</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-168_20-040L.jpg">[PR-168]</a> - Rufus</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-169_19-124L.jpg">[PR-169]</a> - Y'Shtola</li>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-170_15-037L.jpg">[PR-170]</a> - Terra</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/PR/PR-172_9-114C_FA.jpg">[PR-172]</a> - Cuchulainn, the Impure (7/24)</li>
 </ul>
 <h2 id="non-playable" tabindex="-1"><a class="header-anchor" href="#non-playable" aria-hidden="true">#</a> Non-Playable</h2>
 <ul>
