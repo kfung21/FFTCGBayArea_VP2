@@ -5,7 +5,7 @@
 <a href="./blog/2023-05-24_2023_Summary_Organized_Play"><strong>Organized Play 2023 Summary (Nov 2023)</strong></a></p>
 <!-- ## News and Announcements -->
 <hr>
-<p>Winter Cup 2025</p>
+<h3 id="winter-cup-2025" tabindex="-1"><a class="header-anchor" href="#winter-cup-2025" aria-hidden="true">#</a> Winter Cup 2025</h3>
 <ul>
 <li>
 <p>Date: 2/21 - 2/23</p>

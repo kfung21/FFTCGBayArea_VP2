@@ -18,7 +18,8 @@ summary: Home
 
 <!-- ## News and Announcements -->
 ---
-Winter Cup 2025 
+### Winter Cup 2025
+
 * Date: 2/21 - 2/23
 * Location: <a href="about#king-kong-games">King Kong Games</a>
 * Format: Team Constructed (3 players per team)
