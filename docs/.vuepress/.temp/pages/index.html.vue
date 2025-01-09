@@ -5,9 +5,44 @@
 <a href="./blog/2023-05-24_2023_Summary_Organized_Play"><strong>Organized Play 2023 Summary (Nov 2023)</strong></a></p>
 <!-- ## News and Announcements -->
 <hr>
-<p>Come join us for our <strong><a href="calendar">Weekly Events</a></strong>! <br></p>
-<!-- * **Fridays**: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM -->
+<p>Winter Cup 2025</p>
 <ul>
+<li>
+<p>Date: 2/21 - 2/23</p>
+</li>
+<li>
+<p>Location: <a href="about#king-kong-games">King Kong Games</a></p>
+</li>
+<li>
+<p>Format: Team Constructed (3 players per team)</p>
+</li>
+<li>
+<p>Entry Fee: $90 per team</p>
+</li>
+<li>
+<p>Tickets On Sale Sunday, January 12th, at 1PM PST</p>
+</li>
+<li>
+<p>Day 0: Friday, February 21st – Pre-Event Mixer
+Kick things off with a special pre-event mixer! 🎉 Enjoy food, drinks, and great company while mingling with the local FFTCG community. This event happens alongside our weekly Local Standard Tournament, so come to play, socialize, and visit the store before the big weekend</p>
+</li>
+<li>
+<p>Day 1: Saturday, February 22nd – Team Swiss Rounds
+Compete in Swiss Rounds for the main team tournament. This is a reminder that decks in a team can't use the same cards between each other. Only the best will rise to the Top 8!</p>
+</li>
+<li>
+<p>Day 2: Sunday, February 23rd – Top Cut &amp; Side Events
+The top 8 teams will finish battling it out to see which team makes it out on top! Dive into exciting side events, including:
+Standard Constructed Tournament: Show off your skills in the classic format.
+F5 Tournament: Take on a unique challenge where only the first five sets are legal!
+Chaos Draft: Build a deck by drafting from multiple sets in the FFTCG library for an unpredictable and thrilling experience!</p>
+</li>
+</ul>
+<p>More Info: <a href="https://www.facebook.com/groups/625543084274349/permalink/2876821982479770/?mibextid=Nif5oz&_rdr">Facebook Event</a></p>
+<hr>
+<p>Come join us for our <strong><a href="calendar">Weekly Events</a></strong>! <br></p>
+<ul>
+<li><strong>Fridays</strong>: <a href="about#king-kong-games">King Kong Games</a>  @8:00 PM</li>
 <li><strong>Saturdays</strong>:
 <ul>
 <li><a href="about#anime-imports">Anime Imports</a> @1:00 PM</li>
