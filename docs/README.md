@@ -25,7 +25,7 @@ summary: Home
 * Format: Team Constructed (3 players per team)
 * Entry Fee: $90 per team
 
-* Tickets On Sale Sunday, January 12th, at 1PM PST
+* Tickets: <a href="https://www.eventbrite.com/e/fftcg-west-coast-winter-cup-tickets-1148588391799">Purchase Here</a>
 
 * Day 0: Friday, February 21st – Pre-Event Mixer
 Kick things off with a special pre-event mixer! 🎉 Enjoy food, drinks, and great company while mingling with the local FFTCG community. This event happens alongside our weekly Local Standard Tournament, so come to play, socialize, and visit the store before the big weekend
