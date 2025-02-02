@@ -41,7 +41,8 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Event Days/Times**:
     - Sunday
     - 6:00pm (Constructed $10) -->
-### **CardArt**
+  
+<!-- ### **CardArt**
 * **Website**: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a>
 * **Facebook**: <a href="https://www.facebook.com/svcardart/"> https://www.facebook.com/svcardart/</a>
 * **Location**: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087 <a href="https://goo.gl/maps/wvkRKUxSLRSFpL5w6">[Google Maps]</a> 
@@ -49,7 +50,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Discord**: <a href="https://discord.com/channels/895013795242606603/895227871054929961">[Link]</a> 
 * **Event Days/Times**:
     - Saturdays (Alternating, check FB group for details)
-    - 1:00pm (Draft/Constructed)
+    - 1:00pm (Draft/Constructed) -->
 
 ### **Destine Fantasy Games**
 * **Facebook**: <a href="https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB"> https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB</a>
