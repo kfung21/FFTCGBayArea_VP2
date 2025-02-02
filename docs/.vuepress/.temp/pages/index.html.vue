@@ -20,7 +20,7 @@
 <p>Entry Fee: $90 per team</p>
 </li>
 <li>
-<p>Tickets On Sale Sunday, January 12th, at 1PM PST</p>
+<p>Tickets: <a href="https://www.eventbrite.com/e/fftcg-west-coast-winter-cup-tickets-1148588391799">Purchase Here</a></p>
 </li>
 <li>
 <p>Day 0: Friday, February 21st – Pre-Event Mixer
