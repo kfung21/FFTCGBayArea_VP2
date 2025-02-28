@@ -18,28 +18,18 @@ summary: Home
 
 <!-- ## News and Announcements -->
 ---
-### Winter Cup 2025
+### California (SF) Materia Cup 2025
 
-* Date: 2/21 - 2/23
+* Date: 4/19 - 4/20
 * Location: <a href="about#king-kong-games">King Kong Games</a>
-* Format: Team Constructed (3 players per team)
-* Entry Fee: $90 per team
+* Format: Single Deck Constructed 
+* Entry Fee: $50
 
-* Tickets: <a href="https://www.eventbrite.com/e/fftcg-west-coast-winter-cup-tickets-1148588391799">Purchase Here</a>
+* Tickets: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a>
 
-* Day 0: Friday, February 21st – Pre-Event Mixer
-Kick things off with a special pre-event mixer! 🎉 Enjoy food, drinks, and great company while mingling with the local FFTCG community. This event happens alongside our weekly Local Standard Tournament, so come to play, socialize, and visit the store before the big weekend
+First Materia Cup of 2025!
 
-* Day 1: Saturday, February 22nd – Team Swiss Rounds
-Compete in Swiss Rounds for the main team tournament. This is a reminder that decks in a team can't use the same cards between each other. Only the best will rise to the Top 8!
-
-* Day 2: Sunday, February 23rd – Top Cut & Side Events
-The top 8 teams will finish battling it out to see which team makes it out on top! Dive into exciting side events, including:
-Standard Constructed Tournament: Show off your skills in the classic format.
-F5 Tournament: Take on a unique challenge where only the first five sets are legal!
-Chaos Draft: Build a deck by drafting from multiple sets in the FFTCG library for an unpredictable and thrilling experience!
-
-More Info: <a href="https://www.facebook.com/groups/625543084274349/permalink/2876821982479770/?mibextid=Nif5oz&_rdr">Facebook Event</a>
+More Info: <a href="https://www.facebook.com/groups/625543084274349">Facebook Event</a>
 
 ---
 
