@@ -20,16 +20,18 @@ summary: Home
 ---
 ### California (SF) Materia Cup 2025
 
-* Date: 4/19 - 4/20
-* Location: <a href="about#king-kong-games">King Kong Games</a>
-* Format: Single Deck Constructed 
-* Entry Fee: $50
+**Date**: April 19 - 20 <br>
+**Location**: <a href="about#king-kong-games">King Kong Games</a> <br>
+**Format**: Single Deck Constructed  <br>
+**Entry Fee**: $50 <br>
 
-* Tickets: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a>
 
-First Materia Cup of 2025!
 
-More Info: <a href="https://www.facebook.com/groups/625543084274349">Facebook Event</a>
+* **Event Details**: <a href="">FB Page</a>
+* **Tickets**: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a>
+* **Hotel Group Discount**: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1740788861110&key=GRP&guestreslink2=true&app=resvlink">AC Hotel Marriot</a>
+
+Come Join Us For the First North America Materia Cup of 2025!
 
 ---
 

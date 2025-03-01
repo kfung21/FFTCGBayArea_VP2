@@ -36,20 +36,15 @@
 * **Event Days/Times**:
     - Sunday
     - 6:00pm (Constructed $10) -->
-<h3 id="cardart" tabindex="-1"><a class="header-anchor" href="#cardart" aria-hidden="true">#</a> <strong>CardArt</strong></h3>
-<ul>
-<li><strong>Website</strong>: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a></li>
-<li><strong>Facebook</strong>: <a href="https://www.facebook.com/svcardart/"> https://www.facebook.com/svcardart/</a></li>
-<li><strong>Location</strong>: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087 <a href="https://goo.gl/maps/wvkRKUxSLRSFpL5w6">[Google Maps]</a></li>
-<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.com/channels/895013795242606603/895227871054929961">[Link]</a></li>
-<li><strong>Event Days/Times</strong>:
-<ul>
-<li>Saturdays (Alternating, check FB group for details)</li>
-<li>1:00pm (Draft/Constructed)</li>
-</ul>
-</li>
-</ul>
+<!-- ### **CardArt**
+* **Website**: <a href="https://www.svcardart.com/"> https://www.svcardart.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/svcardart/"> https://www.facebook.com/svcardart/</a>
+* **Location**: 781 E El Camino Real Suite 100, Sunnyvale, CA 94087 <a href="https://goo.gl/maps/wvkRKUxSLRSFpL5w6">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/Mechaf?eid=ARAxKoU0RtHpbff-RAsfFQHVQjqIdEL7JfCDWR0d9Jmlduj3iQ9H7fXqt7PNsThEKEdHXXBjqs0jPzp1">Jordan Pang</a> 
+* **Discord**: <a href="https://discord.com/channels/895013795242606603/895227871054929961">[Link]</a> 
+* **Event Days/Times**:
+    - Saturdays (Alternating, check FB group for details)
+    - 1:00pm (Draft/Constructed) -->
 <h3 id="destine-fantasy-games" tabindex="-1"><a class="header-anchor" href="#destine-fantasy-games" aria-hidden="true">#</a> <strong>Destine Fantasy Games</strong></h3>
 <ul>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB"> https://www.facebook.com/profile.php?id=61554042472818&amp;mibextid=gik2fB</a></li>
