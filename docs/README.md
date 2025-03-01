@@ -27,7 +27,7 @@ summary: Home
 
 
 
-* **Event Details**: <a href="">FB Page</a>
+* **Event Details**: <a href="https://www.facebook.com/events/1674073833493647">FB Page</a>
 * **Tickets**: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a>
 * **Hotel Group Discount**: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1740788861110&key=GRP&guestreslink2=true&app=resvlink">AC Hotel Marriot</a>
 
