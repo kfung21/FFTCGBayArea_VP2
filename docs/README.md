@@ -20,7 +20,7 @@ summary: Home
 ---
 ### California (SF) Materia Cup 2025
 
-**Date**: April 19 - 20 <br>
+**Date**: <a href="https://calendar.app.google/QvHsj5ABf8cPpTam6">April 19 - 20 </a><br>
 **Location**: <a href="about#king-kong-games">King Kong Games</a> <br>
 **Format**: Single Deck Constructed  <br>
 **Entry Fee**: $50 <br>
