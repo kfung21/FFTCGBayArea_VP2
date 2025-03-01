@@ -22,7 +22,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Discord**: <a href="https://discord.com/channels/673661131658625024/673663787274076170"> [Link]</a> 
 * **Event Days/Times**: 
     - Fridays
-    - 8:00pm (Constructed $10)
+    - 8:00pm - 12:00AM (Constructed $12)
   
 ### **Anime Imports**
 * **Website**: <a href="www.animeimports.net"> www.animeimports.net</a>
@@ -62,7 +62,7 @@ A place for people to connect to grow the scene in Northern California (includin
     - Mondays (check FB group for details)
     - 7:00pm (Draft/Constructed)
 
-### **Games of Martinez**
+<!-- ### **Games of Martinez**
 * **Website**: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a>
 * **Facebook**: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a>
 * **Location**: 1155 Arnold Dr, Martinez, CA 94553 <a href="https://goo.gl/maps/XHhT1Ck7BPx5yqK8A">[Google Maps]</a> 
@@ -70,7 +70,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Discord**: <a href="https://discord.gg/cHEGNu2c92">[Link]</a> 
 * **Event Days/Times**: 
     - Sundays
-    - 4:00pm (Draft/Constructed)
+    - 4:00pm (Draft/Constructed) -->
   
 ### **Games of Berkeley**
 * **Website**: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a>
@@ -80,7 +80,7 @@ A place for people to connect to grow the scene in Northern California (includin
 * **Discord**: <a href="https://discord.com/channels/689264919274717302/689269720687575057">[Link]</a> 
 * **Event Days/Times**: 
     - Wednesdays
-    - 6:00pm (Open Play $5)
+    - 6:00pm -9:00pm (Open Play $5)
 
 <!-- ### Galaxy Games
 * **Website**: <a href="https://www.galaxygamesca.com/"> https://www.galaxygamesca.com/</a>
