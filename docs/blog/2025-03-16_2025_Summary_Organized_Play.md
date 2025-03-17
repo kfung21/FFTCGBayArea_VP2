@@ -13,13 +13,11 @@ summary: Overview of OP 2025
 
 # SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2025
 
-(UPDATED Aug 2025) <br>
+(UPDATED Mar 2025) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2025-north-america-details-and-schedule">Square Enix Schedule</a><br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2025-north-america-qualification-and-event-prizing">Prizing</a>
 
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
-
-<!-- <a href="https://drive.google.com/file/d/1PVxv6y25_PEH3y3Z68pgvNRFzsNl4XPA/view?usp=drive_link">World's Handbook</a> -->
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1E07m8OEZyROIQu6D2ztusNRpRbi8law&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Materia Cups
 ### North Carolina (8/24)
