@@ -18,4 +18,5 @@ export const pagesRoutes = [
   ["v-697c4e45","/blog/2024-04-30_DeckbuildingTheory.html",{"_blog":{},"title":"FFTCG Deckbuilding"},["/blog/2024-04-30_DeckbuildingTheory","/blog/2024-04-30_DeckbuildingTheory.md"]],
   ["v-329577c6","/blog/2024-04-30_Opus22_Decks.html",{"_blog":{},"title":"Opus 22 Decks"},["/blog/2024-04-30_Opus22_Decks","/blog/2024-04-30_Opus22_Decks.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
+  ["v-5fd77390","/blog/2025-03-16_2025_Summary_Organized_Play.html",{"_blog":{},"title":"Organized Play 2025 Overview"},["/blog/2025-03-16_2025_Summary_Organized_Play","/blog/2025-03-16_2025_Summary_Organized_Play.md"]],
 ]

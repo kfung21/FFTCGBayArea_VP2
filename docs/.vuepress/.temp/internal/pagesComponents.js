@@ -39,4 +39,6 @@ export const pagesComponents = {
   "v-329577c6": defineAsyncComponent(() => import(/* webpackChunkName: "v-329577c6" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2024-04-30_Opus22_Decks.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /blog/2025-03-16_2025_Summary_Organized_Play.html
+  "v-5fd77390": defineAsyncComponent(() => import(/* webpackChunkName: "v-5fd77390" */"B:/Programming/My Projects/FFTCGBayArea-vuepress2/docs/.vuepress/.temp/pages/blog/2025-03-16_2025_Summary_Organized_Play.html.vue")),
 }

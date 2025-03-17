@@ -11,7 +11,7 @@
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Fridays</li>
-<li>8:00pm (Constructed $10)</li>
+<li>8:00pm - 12:00AM (Constructed $12)</li>
 </ul>
 </li>
 </ul>
@@ -59,20 +59,15 @@
 </ul>
 </li>
 </ul>
-<h3 id="games-of-martinez" tabindex="-1"><a class="header-anchor" href="#games-of-martinez" aria-hidden="true">#</a> <strong>Games of Martinez</strong></h3>
-<ul>
-<li><strong>Website</strong>: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a></li>
-<li><strong>Facebook</strong>: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a></li>
-<li><strong>Location</strong>: 1155 Arnold Dr, Martinez, CA 94553 <a href="https://goo.gl/maps/XHhT1Ck7BPx5yqK8A">[Google Maps]</a></li>
-<li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/alex.early.965">Alex early</a></li>
-<li><strong>Discord</strong>: <a href="https://discord.gg/cHEGNu2c92">[Link]</a></li>
-<li><strong>Event Days/Times</strong>:
-<ul>
-<li>Sundays</li>
-<li>4:00pm (Draft/Constructed)</li>
-</ul>
-</li>
-</ul>
+<!-- ### **Games of Martinez**
+* **Website**: <a href="https://gamesofmartinez.crystalcommerce.com/"> https://gamesofmartinez.crystalcommerce.com/</a>
+* **Facebook**: <a href="https://www.facebook.com/GamesofMartinez/"> https://www.facebook.com/GamesofMartinez/</a>
+* **Location**: 1155 Arnold Dr, Martinez, CA 94553 <a href="https://goo.gl/maps/XHhT1Ck7BPx5yqK8A">[Google Maps]</a> 
+* **Point of Contact**: <a href="https://www.facebook.com/alex.early.965">Alex early</a> 
+* **Discord**: <a href="https://discord.gg/cHEGNu2c92">[Link]</a> 
+* **Event Days/Times**: 
+    - Sundays
+    - 4:00pm (Draft/Constructed) -->
 <h3 id="games-of-berkeley" tabindex="-1"><a class="header-anchor" href="#games-of-berkeley" aria-hidden="true">#</a> <strong>Games of Berkeley</strong></h3>
 <ul>
 <li><strong>Website</strong>: <a href="https://www.gamesofberkeley.com/"> https://www.gamesofberkeley.com/</a></li>
@@ -83,7 +78,7 @@
 <li><strong>Event Days/Times</strong>:
 <ul>
 <li>Wednesdays</li>
-<li>6:00pm (Open Play $5)</li>
+<li>6:00pm -9:00pm (Open Play $5)</li>
 </ul>
 </li>
 </ul>

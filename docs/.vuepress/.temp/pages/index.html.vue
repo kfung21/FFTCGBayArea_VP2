@@ -1,8 +1,8 @@
 <template><div><h1 id="final-fantasy-tcg-bay-area" tabindex="-1"><a class="header-anchor" href="#final-fantasy-tcg-bay-area" aria-hidden="true">#</a> <center>Final Fantasy TCG Bay Area </center></h1>
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
 <p><a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://i.imgur.com/5l9Z0vA.jpeg"></a></p>
-<p><a href="./blog/2024-02-14_2024_Summary_Organized_Play"><strong>Organized Play 2024 Summary (Mar 2024)</strong></a><br>
-<a href="./blog/2023-05-24_2023_Summary_Organized_Play"><strong>Organized Play 2023 Summary (Nov 2023)</strong></a></p>
+<p><a href="./blog/2025-03-16_2025_Summary_Organized_Play"><strong>Organized Play 2025 Summary (Mar 2025)</strong></a><br>
+[<a href="./blog/2024-02-14_2024_Summary_Organized_Play">2024</a>][<a href="./blog/2023-05-24_2023_Summary_Organized_Play">2023</a>]</p>
 <!-- ## News and Announcements -->
 <hr>
 <h3 id="california-sf-materia-cup-2025" tabindex="-1"><a class="header-anchor" href="#california-sf-materia-cup-2025" aria-hidden="true">#</a> California (SF) Materia Cup 2025</h3>
@@ -11,9 +11,10 @@
 <strong>Format</strong>: Single Deck Constructed  <br>
 <strong>Entry Fee</strong>: $50 <br></p>
 <ul>
-<li><strong>Event Details</strong>: <a href="">FB Page</a></li>
+<li><strong>Event Details</strong>: <a href="https://www.facebook.com/events/1674073833493647">FB Page</a></li>
 <li><strong>Tickets</strong>: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a></li>
 <li><strong>Hotel Group Discount</strong>: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1740788861110&key=GRP&guestreslink2=true&app=resvlink">AC Hotel Marriot</a></li>
+<li><strong>Travel Guide</strong>: <a href="https://docs.google.com/presentation/d/1gJiLI8ea5ZmNlR8_IOla6dQhnfUaGClabIp-pwtF7ao">Google Slides/PDf</a></li>
 </ul>
 <p>Come Join Us For the First North America Materia Cup of 2025!</p>
 <hr>
