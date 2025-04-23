@@ -25,7 +25,7 @@ A place for people to connect to grow the scene in Northern California (includin
     - 8:00pm - 12:00AM (Constructed $12)
   
 ### **Anime Imports**
-* **Website**: <a href="www.animeimports.net"> www.animeimports.net</a>
+* **Website**: <a href="[www.animeimports.net](https://animeimports.net/)"> www.animeimports.net</a>
 * **Facebook**: <a href="https://www.facebook.com/AnimeImports.net/"> https://www.facebook.com/AnimeImports.net/</a>
 * **Location**: 116 Manor Drive Suite A, Pacifica, CA 94044 <a href="https://goo.gl/maps/yiLyJ2dTm9A6BerYA">[Google Maps]</a> 
 * **Point of Contact**: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a> 
@@ -53,6 +53,7 @@ A place for people to connect to grow the scene in Northern California (includin
     - 1:00pm (Draft/Constructed) -->
 
 ### **Destine Fantasy Games**
+* **Website**: <a href="[[www.animeimports.net](https://animeimports.net/)](https://www.destinefantasy.games/)"> https://www.destinefantasy.games</a>
 * **Facebook**: <a href="https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB"> https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB</a>
 * **Location**: 650 Central Ave Ste D, Alameda, CA 94501 <a href="https://maps.app.goo.gl/tRg13yFdXiCjEiVX8">[Google Maps]</a> 
 * **Point of Contact**: <a href="https://www.facebook.com/jensen.dang">Jensen Dang</a> 
