@@ -1271,6 +1271,236 @@ BOSS uses the following 80 cards as a deck <br></p>
 <li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/13/13-093.jpg"> [13-093H]</a> - Sara</li>
 <li>(2x) <a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/14/14-124.jpg"> [14-124H]</a> - Zeromus</li>
 </ul>
+<h3 id="legacy-collection-2025" tabindex="-1"><a class="header-anchor" href="#legacy-collection-2025" aria-hidden="true">#</a> Legacy Collection (2025)</h3>
+<img src="https://fftcg.cdn.sewest.net/2024-09/legacy-desktop.jpg">
+<p><a href="https://fftcg.square-enix-games.com/na/news/new-product-information-legacy-collection-booster-pack-set">Feb 2025</a>
+[<a href="https://materiahunter.com/products/210">Materia Hunter</a>]
+[<a href="https://www.tcgplayer.com/search/final-fantasy-tcg/legacy-collection?Price_Condition=Less+Than&advancedSearch=true&productLineName=final-fantasy-tcg&view=grid&setName=legacy-collection">TCGPlayer</a>]</p>
+<p>200 carefully cards with a standard, foil and Foil FA variants. 5 cards per pack.</p>
+<p>Fire</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-001H_12-002H_FA.jpg">[Re-001H/12-002H]</a> - Amaterasu</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-002C_12-004R_FA.jpg">[Re-002C/12-004R]</a> - Alphinaud</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-003H_20-003H_FA.jpg">[Re-003H/20-003H]</a> - Ifrit</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-004C_8-004R_FA.jpg">[Re-004C/8-004R]</a> - Iroha</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-005L_17-002L_FA.jpg">[Re-005L/17-002L]</a> - Edgar</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-006C_16-003C_FA.jpg">[Re-006C/16-003C]</a> - Elbis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-007C_11-003R_FA.jpg">[Re-007C/11-003R]</a> - Cyan</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-008C_1-007R_FA.jpg">[Re-008C/1-007R]</a> - Gadot</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-009C_3-009C_FA.jpg">[Re-009C/3-009C]</a> - Cater</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-010C_4-012C_FA.jpg">[Re-010C/4-012C]</a> - Goblin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-011C_17-007C_FA.jpg">[Re-011C/17-007C]</a> - Goblin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-012C_12-008R_FA.jpg">[Re-012C/12-008R]</a> - Princess Goblin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-013C_7-008C_FA.jpg">[Re-013C/7-008C]</a> - Sazh</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-014H_PR-108_FA.jpg">[Re-014H/PR-108]</a> - Squall</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-015C_14-015R_FA.jpg">[Re-015C/14-015R]</a> - Zenos</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-016C_18-007C_FA.jpg">[Re-016C/18-007C]</a> - Selphie</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-017C_10-132S_FA.jpg">[Re-017C/10-132S]</a> - Terra</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-018L_17-016L_FA.jpg">[Re-018L/17-016L]</a> - Hien</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-019L_18-012L_FA.jpg">[Re-019L/18-012L]</a> - Faris</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-020H_20-018H_FA.jpg">[Re-020H/20-018H]</a> - Phoinix</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-021H_6-019L_FA.jpg">[Re-021H/6-019L]</a> - Firion</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-022C_9-017C_FA.jpg">[Re-022C/9-017C]</a> - Belias</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-023C_7-016C_FA.jpg">[Re-023C/7-016C]</a> - Bomb</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-024C_8-018R_FA.jpg">[Re-024C/8-018R]</a> - Marche</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-025H_12-017H_FA.jpg">[Re-025H/12-017H]</a> - Magissa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-026H_17-017H_FA.jpg">[Re-026H/17-017H]</a> - Sabin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-027H_7-017H_FA.jpg">[Re-027H/7-017H]</a> - Meeth</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-028C_18-015R_FA.jpg">[Re-028C/18-015R]</a> - Ramza</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-029C_13-015C_FA.jpg">[Re-029C/13-015C]</a> - Luneth</li>
+</ul>
+<p>Ice</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-030C_16-022R_FA.jpg">[Re-030C/16-022R]</a> - Erwin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-031H_16-023H_FA.jpg">[Re-031H/16-023H]</a> - Agrias</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-032C_6-022R_FA.jpg">[Re-032C/6-022R]</a> - Ysayle</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-033C_18-019R_FA.jpg">[Re-033C/18-019R]</a> - Weiss</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-034C_19-019R_FA.jpg">[Re-034C/19-019R]</a> - Vincent</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-035H_10-023H_FA.jpg">[Re-035H/10-023H]</a> - Unei</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-036H_4-026H_FA.jpg">[Re-036H/4-026H]</a> - Gestahlian Empire Cid</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-037L_14-023L_FA.jpg">[Re-037L/14-023L]</a> - Gilgamesh</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-038C_11-133S_FA.jpg">[Re-038C/11-133S]</a> - Cait Sith</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-039C_7-030C_FA.jpg">[Re-039C/7-030C]</a> - Goblin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-040C_8-032R_FA.jpg">[Re-040C/8-032R]</a> - Shiva</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-041H_13-022H_FA.jpg">[Re-041H/13-022H]</a> - Cid Randell</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-042C_13-023R_FA.jpg">[Re-042C/13-023R]</a> - Charlotte</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-043L_16-030L_FA.jpg">[Re-043L/16-030L]</a> - Shantotto</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-044C_8-034R_FA.jpg">[Re-044C/8-034R]</a> - Scale Toad</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-045C_20-030R_FA.jpg">[Re-045C/20-030R]</a> - Setzer</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-046H_15-036H_FA.jpg">[Re-046H/15-036H]</a> - Celes</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-047C_11-134S_FA.jpg">[Re-047C/11-134S]</a> - Don Corneo</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-048C_10-039C_FA.jpg">[Re-048C/10-039C]</a> - Nag'molada</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-049C_18-028C_FA.jpg">[Re-049C/18-028C]</a> - Nero</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-050H_16-038H_FA.jpg">[Re-050H/16-038H]</a> - Byblos</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-051H_18-030H_FA.jpg">[Re-051H/18-030H]</a> - Physalis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-052C_4-043C_FA.jpg">[Re-052C/4-043C]</a> - Flan</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-053C_4-044R_FA.jpg">[Re-053C/4-044R]</a> - Mewt</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-054C_16-042R_FA.jpg">[Re-054C/16-042R]</a> - Lasswell</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-055C_2-048R_FA.jpg">[Re-055C/2-048R]</a> - Rinoa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-056L_6-041L_FA.jpg">[Re-056L/6-041L]</a> - Rinoa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-057C_4-047R_FA.jpg">[Re-057C/4-047R]</a> - Remedi</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-058H_4-048L_FA.jpg">[Re-058H/4-048L]</a> - Locke</li>
+</ul>
+<p>Wind</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-059H_2-049H_FA.jpg">[Re-059H/2-049H]</a> - Asura</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-060H_16-043H_FA.jpg">[Re-060H/16-043H]</a> - Atomos</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-061C_1-197S_FA.jpg">[Re-061C/1-197S]</a> - Brother</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-062C_18-035R_FA.jpg">[Re-062C/18-035R]</a> - Arc</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-063C_8-046R_FA.jpg">[Re-063C/8-046R]</a> - Alexander</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-064C_8-047C_FA.jpg">[Re-064C/8-047C]</a> - Waltrill</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-065L_20-044L_FA.jpg">[Re-065L/20-044L]</a> - Edge</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-066H_8-053H_FA.jpg">[Re-066H/8-053H]</a> - Sherlotta</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-067C_17-049C_FA.jpg">[Re-067C/17-049C]</a> - Cid Pollendina</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-068C_7-053C_FA.jpg">[Re-068C/7-053C]</a> - Zu</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-069C_13-043C_FA.jpg">[Re-069C/13-043C]</a> - Stiltzkin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-070L_16-051L_FA.jpg">[Re-070L/16-051L]</a> - Cecil</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-071H_3-059H_FA.jpg">[Re-071H/3-059H]</a> - King Tycoon</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-072C_4-063C_FA.jpg">[Re-072C/4-063C]</a> - Chocobo</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-073H_10-055H_FA.jpg">[Re-073H/10-055H]</a> - Chocobo</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-074C_6-051C_FA.jpg">[Re-074C/6-051C]</a> - Chocobo &amp; Moogle/Choco/Mog</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-075C_12-048R_FA.jpg">[Re-075C/12-048R]</a> - Chocolatte</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-076C_3-062C_FA.jpg">[Re-076C/3-062C]</a> - Deuce</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-077C_8-058R_FA.jpg">[Re-077C/8-058R]</a> - Norschtalen</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-078H_7-059L_FA.jpg">[Re-078H/7-059L]</a> - Bartz</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-079H_13-048H_FA.jpg">[Re-079H/13-048H]</a> - Balthier</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-080C_16-059C_FA.jpg">[Re-080C/16-059C]</a> - Pecciotta</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-081C_11-060C_FA.jpg">[Re-081C/11-060C]</a> - Maina</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-082C_6-058R_FA.jpg">[Re-082C/6-058R]</a> - Moogle (XI)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-083L_18-050L_FA.jpg">[Re-083L/18-050L]</a> - Yuffie</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-084C_17-063R_FA.jpg">[Re-084C/17-063R]</a> - Luso</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-085C_16-062C_FA.jpg">[Re-085C/16-062C]</a> - Lexa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-086C_3-072R_FA.jpg">[Re-086C/3-072R]</a> - Rem</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-087H_14-057H_FA.jpg">[Re-087H/14-057H]</a> - Rosa</li>
+</ul>
+<p>Earth</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-088H_18-052H_FA.jpg">[Re-088H/18-052H]</a> - Ahriman</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-089H_8-071H_FA.jpg">[Re-089H/8-071H]</a> - Undead Princess</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-090C_16-065C_FA.jpg">[Re-090C/16-065C]</a> - Amber</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-091C_13-054C_FA.jpg">[Re-091C/13-054C]</a> - Lady of Antiquity</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-092C_13-055C_FA.jpg">[Re-092C/13-055C]</a> - Ingus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-093C_10-068C_FA.jpg">[Re-093C/10-068C]</a> - Cu Sith</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-094C_11-136S_FA.jpg">[Re-094C/11-136S]</a> - Cloud</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-095C_18-055R_FA.jpg">[Re-095C/18-055R]</a> - Krile</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-096C_11-068R_FA.jpg">[Re-096C/11-068R]</a> - Clarus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-097C_7-069C_FA.jpg">[Re-097C/7-069C]</a> - Kolka</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-098C_1-204S_FA.jpg">[Re-098C/1-204S]</a> - Jessie</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-099L_1-107L_FA.jpg">[Re-099L/1-107L]</a> - Shantotto</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-100C_16-075R_FA.jpg">[Re-100C/16-075R]</a> - Shinju</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-101L_20-075L_FA.jpg">[Re-101L/20-075L]</a> - Cecil</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-102C_8-144S_FA.jpg">[Re-102C/8-144S]</a> - Tifa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-103C_11-072R_FA.jpg">[Re-103C/11-072R]</a> - Tyro</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-104H_11-073H_FA.jpg">[Re-104H/11-073H]</a> - Tilika</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-104H_11-073H_FA.jpg">[Re-105H/9-068H]</a> - Mist Dragon</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-106C_8-080C_FA.jpg">[Re-106C/8-080C]</a> - Luminous Puma</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-107H_12-068H_FA.jpg">[Re-107H/12-068H]</a> - Fenrir</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-108C_7-081C_FA.jpg">[Re-108C/7-081C]</a> - Pudding/Flan</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-109C_1-117R_FA.jpg">[Re-109C/1-117R]</a> - Hecatoncheir</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-110H_15-082H_FA.jpg">[Re-110H/15-082H]</a> - Hecatoncheir</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-111C_6-078R_FA.jpg">[Re-111C/6-078R]</a> - Maat</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-112H_16-080H_FA.jpg">[Re-112H/16-080H]</a> - Madame Edel</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-113C_8-085C_FA.jpg">[Re-113C/8-085C]</a> - Marlene</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-114L_17-079L_FA.jpg">[Re-114L/17-079L]</a> - Shadow Lord</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-115H_6-084L_FA.jpg">[Re-115H/6-084L]</a> - Leo</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-116C_9-080C_FA.jpg">[Re-116C/9-080C]</a> - Regis</li>
+</ul>
+<p>Lightning</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-117C_15-086R_FA.jpg">[Re-117C/15-086R]</a> - Axis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-118H_20-086H_FA.jpg">[Re-118H/20-086H]</a> - Alisaie</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-119C_10-086C_FA.jpg">[Re-119C/10-086C]</a> - Aldo</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-120C_3-097R_FA.jpg">[Re-120C/3-097R]</a> - Arecia Al-Rashia</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-121C_17-090R_FA.jpg">[Re-121C/17-090R]</a> - Ixion</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-122L_2-099L_FA.jpg">[Re-122L/2-099L]</a> - Edea</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-123C_13-070C_FA.jpg">[Re-123C/13-070C]</a> - Delusory Warlock</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-124C_13-135S_FA.jpg">[Re-124C/13-135S]</a> - Urianger</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-125L_17-091L_FA.jpg">[Re-125L/17-091L]</a> - Exdeath</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-126L_20-088L_FA.jpg">[Re-126L/20-088L]</a> - Estinien</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-127H_13-073H_FA.jpg">[Re-127H/13-073H]</a> - Cain</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-128C_5-103R_FA.jpg">[Re-128C/5-103R]</a> - Cid of Clan Gully</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-129H_18-073H_FA.jpg">[Re-129H/18-073H]</a> - Garuda (III)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-130C_7-089C_FA.jpg">[Re-130C/7-089C]</a> - Coeurl</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-131H_20-090H_FA.jpg">[Re-131H/20-090H]</a> - G'raha Tia</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-132C_2-106R_FA.jpg">[Re-132C/2-106R]</a> - Gramis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-133H_17-096H_FA.jpg">[Re-133H/17-096H]</a> - Man in Black</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-134C_1-134R_FA.jpg">[Re-134C/1-134R]</a> - Duke Goltanna</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-135H_5-108L_FA.jpg">[Re-135H/5-108L]</a> - Zemus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-136C_12-082R_FA.jpg">[Re-136C/12-082R]</a> - Diana</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-137C_16-099C_FA.jpg">[Re-137C/16-099C]</a> - Merald</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-138H_18-081H_FA.jpg">[Re-138H/18-081H]</a> - Melusine</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-139C_10-104R_FA.jpg">[Re-139C/10-104R]</a> - Ranperre</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-140C_9-098C_FA.jpg">[Re-140C/9-098C]</a> - Reeve</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-141C_19-084R_FA.jpg">[Re-141C/19-084R]</a> - Ricard</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-142C_5-120C_FA.jpg">[Re-142C/5-120C]</a> - Louisoix</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-143C_13-085R_FA.jpg">[Re-143C/13-085R]</a> - Lumina</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-144C_4-120R_FA.jpg">[Re-144C/4-120R]</a> - Restrictor</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-145H_14-095H_FA.jpg">[Re-145H/14-095H]</a> - Roche</li>
+</ul>
+<p>Water</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-146H_18-086H_FA.jpg">[Re-146H/18-086H]</a> - Ashe</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-147C_6-108R_FA.jpg">[Re-147C/6-108R]</a> - Thordan VII</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-148C_3-127R_FA.jpg">[Re-148C/3-127R]</a> - Eiko</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-149C_14-099C_FA.jpg">[Re-149C/14-099C]</a> - Eiko</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-150H_5-123H_FA.jpg">[Re-150H/5-123H]</a> - Aria (III)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-151L_17-113L_FA.jpg">[Re-151L/17-113L]</a> - Glaciela Wezette</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-152C_4-128C_FA.jpg">[Re-152C/4-128C]</a> - PuPu</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-153C_7-110C_FA.jpg">[Re-153C/7-110C]</a> - Sahagin</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-154C_11-114R_FA.jpg">[Re-154C/11-114R]</a> - Sahagin Chief</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-155H_13-093H_FA.jpg">[Re-155H/13-093H]</a> - Sara</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-156H_19-093H_FA.jpg">[Re-156H/19-093H]</a> - Strago</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-157C_12-099R_FA.jpg">[Re-157C/12-099R]</a> - Sarah (FFL)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-158H_20-110H_FA.jpg">[Re-158H/20-110H]</a> - Hippocampus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-159C_10-119R_FA.jpg">[Re-159C/10-119R]</a> - Verena</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-160C_9-114C_FA.jpg">[Re-160C/9-114C]</a> - Cuchulainn, the Impure</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-161H_12-103H_FA.jpg">[Re-161H/12-103H]</a> - Beatrix</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-162C_16-121R_FA.jpg">[Re-162C/16-121R]</a> - Vesvia</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-163C_9-115R_FA.jpg">[Re-163C/9-115R]</a> - Porom</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-164H_6-123L_FA.jpg">[Re-164H/6-123L]</a> - Minwu</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-165C_4-138R_FA.jpg">[Re-165C/4-138R]</a> - Merlwyb</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-166C_1-172C_FA.jpg">[Re-166C/1-172C]</a> - Moogle</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-167C_1-174R_FA.jpg">[Re-167C/1-174R]</a> - Yaag Rosch</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-168C_1-177R_FA.jpg">[Re-168C/1-177R]</a> - Yuna</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-169L_12-105L_Special_FA.jpg">[Re-169L/12-105L]</a> - Yuna</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-170H_16-124H_FA.jpg">[Re-170H/16-124H]</a> - Lightning</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-171C_14-113R_FA.jpg">[Re-171C/14-113R]</a> - Leviathan</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-172C_3-143C_FA.jpg">[Re-172C/3-143C]</a> - Leonora</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-173C_15-126R_FA.jpg">[Re-173C/15-126R]</a> - Lena</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-174L_19-102L_FA.jpg">[Re-174L/19-102L]</a> - Refia</li>
+</ul>
+<p>Light/Dark</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-175C_11-139S_FA.jpg">[Re-175C/11-139S]</a> - Aerith</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-176L_20-127L_FA.jpg">[Re-176L/20-127L]</a> - Shinryu</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-177H_19-103H_FA.jpg">[Re-177H/19-103H]</a> - Tidus</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-178H_19-105H_FA.jpg">[Re-178H/19-105H]</a> - Ark</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-179L_16-129L_FA.jpg">[Re-179L/16-129L]</a> - Chaos</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-180C_11-140S_FA.jpg">[Re-180C/11-140S]</a> - Kadaj</li>
+</ul>
+<p>Multi</p>
+<ul>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-181C_19-107C_FA.jpg">[Re-181C/19-107C]</a> - Vaan</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-182L_19-108L_FA.jpg">[Re-182L/19-108L]</a> - Zidane</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-183H_14-120H_FA.jpg">[Re-183H/14-120H]</a> - Tifa</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-184L_18-111L_FA.jpg">[Re-184L/18-111L]</a> - Basch</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-185H_18-113H_FA.jpg">[Re-185H/18-113H]</a> - Cid Haze</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-186H_19-110H_FA.jpg">[Re-186H/19-110H]</a> - The Emperor</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-187L_18-116L_FA.jpg">[Re-187L/18-116L]</a> - Sephiroth</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-188H_18-117H_FA.jpg">[Re-188H/18-117H]</a> - Lightning</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-189L_12-119L_FA.jpg">[Re-189L/12-119L]</a> - Y'shtola</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-190L_19-114L_FA.jpg">[Re-190L/19-114L]</a> - Cloud</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-191C_12-121R_FA.jpg">[Re-191C/12-121R]</a> - Noctis</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-192C_19-120C_FA.jpg">[Re-192C/19-120C]</a> - Garnet</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-193L_13-123L_FA.jpg">[Re-193L/13-123L]</a> - Nine</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-194H_18-125H_FA.jpg">[Re-194H/18-125H]</a> - Onion Knight</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-195C_12-126R_FA.jpg">[Re-195C/12-126R]</a> - Gawain</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-196C_12-127C_FA.jpg">[Re-196C/12-127C]</a> - Steiner</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-197C_13-125R_FA.jpg">[Re-197C/13-125R]</a> - Yuzuki</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-198H_13-127H_FA.jpg">[Re-198H/13-127H]</a> - Chime</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-199H_19-125H_FA.jpg">[Re-199H/19-125H]</a> - Mog (VI)</li>
+<li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-200L_19-128L_Special_FA.jpg">[Re-200L/19-128L]</a> - Warrior of Light</li>
+</ul>
 <h2 id="special-sets" tabindex="-1"><a class="header-anchor" href="#special-sets" aria-hidden="true">#</a> Special Sets</h2>
 <h3 id="ff-vii-noir-2023" tabindex="-1"><a class="header-anchor" href="#ff-vii-noir-2023" aria-hidden="true">#</a> FF VII Noir (2023)</h3>
 <img src="https://i.imgur.com/wWImG3l.jpg">

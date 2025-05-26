@@ -2,7 +2,7 @@
 <p>(UPDATED Aug 2024) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a></p>
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
-<!-- <a href="https://drive.google.com/file/d/1PVxv6y25_PEH3y3Z68pgvNRFzsNl4XPA/view?usp=drive_link">World's Handbook</a> -->
+<p><a href="https://drive.google.com/file/d/1PVxv6y25_PEH3y3Z68pgvNRFzsNl4XPA/view?usp=drive_link">World's Handbook</a></p>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="north-carolina-8-24" tabindex="-1"><a class="header-anchor" href="#north-carolina-8-24" aria-hidden="true">#</a> North Carolina (8/24)</h3>
 <ul>

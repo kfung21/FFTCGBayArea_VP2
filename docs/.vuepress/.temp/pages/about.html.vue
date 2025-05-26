@@ -17,7 +17,7 @@
 </ul>
 <h3 id="anime-imports" tabindex="-1"><a class="header-anchor" href="#anime-imports" aria-hidden="true">#</a> <strong>Anime Imports</strong></h3>
 <ul>
-<li><strong>Website</strong>: <a href="www.animeimports.net"> www.animeimports.net</a></li>
+<li><strong>Website</strong>: <a href="[www.animeimports.net](https://animeimports.net/)"> www.animeimports.net</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/AnimeImports.net/"> https://www.facebook.com/AnimeImports.net/</a></li>
 <li><strong>Location</strong>: 116 Manor Drive Suite A, Pacifica, CA 94044 <a href="https://goo.gl/maps/yiLyJ2dTm9A6BerYA">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/bennysoo?eid=ARDPYSoitzPXWAY-SJW5GRD_rUO84-QBWTJhnVYvubOEC7uMrjB578VKpHYgdahEi6M8yew3NUbTVsHo">Benny Soo</a></li>
@@ -47,6 +47,7 @@
     - 1:00pm (Draft/Constructed) -->
 <h3 id="destine-fantasy-games" tabindex="-1"><a class="header-anchor" href="#destine-fantasy-games" aria-hidden="true">#</a> <strong>Destine Fantasy Games</strong></h3>
 <ul>
+<li><strong>Website</strong>: <a href="[[www.animeimports.net](https://animeimports.net/)](https://www.destinefantasy.games/)"> https://www.destinefantasy.games</a></li>
 <li><strong>Facebook</strong>: <a href="https://www.facebook.com/profile.php?id=61554042472818&mibextid=gik2fB"> https://www.facebook.com/profile.php?id=61554042472818&amp;mibextid=gik2fB</a></li>
 <li><strong>Location</strong>: 650 Central Ave Ste D, Alameda, CA 94501 <a href="https://maps.app.goo.gl/tRg13yFdXiCjEiVX8">[Google Maps]</a></li>
 <li><strong>Point of Contact</strong>: <a href="https://www.facebook.com/jensen.dang">Jensen Dang</a></li>
