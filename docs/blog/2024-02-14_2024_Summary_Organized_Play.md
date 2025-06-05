@@ -15,6 +15,7 @@ summary: Overview of OP 2024
 
 (UPDATED Aug 2024) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a>
+<a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024-north-america-qualification-and-event-prizing">Prizing</a>
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 
