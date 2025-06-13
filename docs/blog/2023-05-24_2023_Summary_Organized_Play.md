@@ -73,7 +73,7 @@ summary: Overview of OP 2023
 * Day 1 Video <a href="https://youtu.be/DhyXXfsFKv4">[YouTube]</a> -->
 
 ### Texas (6/24/2023)
-* Lonestar Pack Breaks Decklists (Top 16) <a href="https://ffdecks.com/tournament/materia-cup-lspb-tx-1-16/5195805473374208">[FFDecks]</a>
+* Lonestar Pack Breaks Decklists (Top 16) <a href="https://ffdecks.com/tournament/822/%20Materia%20Cup%20LSPB%20TX%20%5B1-16%5D">[FFDecks]</a>
 * Day 2 Video <a href="https://youtu.be/KZkfbfV98cU">[YouTube]</a>
 * Day 1 Video <a href="https://youtu.be/m3EMNgyCXgY">[YouTube]</a>
 
