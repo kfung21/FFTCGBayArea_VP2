@@ -107,6 +107,14 @@ summary: Overview of OP 2025
 * Destine Fantasy Games Decklists <a href="https://materiahunter.com/tournaments/o3BclZQNSoTOfzx4CHYi">[Materia Hunter]</a>
 ### [NE] Omaha (6/1)
 * Café Monster Decklists <a href="https://materiahunter.com/tournaments/K1hLiznoJzZiLKk3oZRc">[Materia Hunter]</a>
+### [IA] Cedar Rapids (6/14)
+* First Turn Games Decklists <a href="https://materiahunter.com/tournaments/z924pGaNuf5Z06vzQBkc">[Materia Hunter]</a>
+### [CAN] Quebec (6/14)
+* Boutique FDB Decklists <a href="https://materiahunter.com/tournaments/tbcKrj4IfZbue02AvYCT">[Materia Hunter]</a>
+### [NY] New York (6/15)
+* The Uncommons Decklists <a href="https://materiahunter.com/tournaments/d9sxjsYwZHM2VbzWzn9T">[Materia Hunter]</a>
+### [NV] Las Vegas (6/15)
+* Knight and Day Games Decklists <a href="https://materiahunter.com/tournaments/rjc4voXHrDGcZEagZnCn">[Materia Hunter]</a>
 ### [AZ] Tempe (4/27)
 <!-- * Gamer's Guild AZ Decklists <a href="">[FFDecks]</a> -->
 ### [FL] Miami (4/27)
@@ -135,8 +143,6 @@ summary: Overview of OP 2025
 <!-- * Game Vault Decklists <a href="">[FFDecks]</a> -->
 ### [MO] Columbia (6/02)
 <!-- * Hexagon Alley Decklists <a href="">[FFDecks]</a> -->
-### [NY] New York (6/02)
-<!-- * The Uncommons Decklists <a href="">[FFDecks]</a> -->
 ### [FL] Miami (6/15)
 <!-- * Pro-Play Games Decklists <a href="">[FFDecks]</a> -->
 ### [IL] Niles (6/15)
