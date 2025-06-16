@@ -13,7 +13,7 @@ summary: Home
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
 <a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://i.imgur.com/5l9Z0vA.jpeg"></a>
 
-<a href="./blog/2025-03-16_2025_Summary_Organized_Play">**Organized Play 2025 Summary (Mar 2025)**</a><br>
+<a href="./blog/2025-03-16_2025_Summary_Organized_Play">**Organized Play 2025 Summary (June 2025)**</a><br>
 [<a href="./blog/2024-02-14_2024_Summary_Organized_Play">2024</a>][<a href="./blog/2023-05-24_2023_Summary_Organized_Play">2023</a>]
 
 <!-- ## News and Announcements -->
