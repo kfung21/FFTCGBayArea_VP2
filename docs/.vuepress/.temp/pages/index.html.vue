@@ -5,18 +5,16 @@
 [<a href="./blog/2024-02-14_2024_Summary_Organized_Play">2024</a>][<a href="./blog/2023-05-24_2023_Summary_Organized_Play">2023</a>]</p>
 <!-- ## News and Announcements -->
 <hr>
-<h3 id="california-sf-materia-cup-2025" tabindex="-1"><a class="header-anchor" href="#california-sf-materia-cup-2025" aria-hidden="true">#</a> California (SF) Materia Cup 2025</h3>
-<p><strong>Date</strong>: <a href="https://calendar.app.google/QvHsj5ABf8cPpTam6">April 19 - 20 </a><br>
-<strong>Location</strong>: <a href="about#king-kong-games">King Kong Games</a> <br>
+<h3 id="northern-california-local-qualifiers-2025" tabindex="-1"><a class="header-anchor" href="#northern-california-local-qualifiers-2025" aria-hidden="true">#</a> Northern California Local Qualifiers 2025</h3>
+<p><strong>Date</strong>: <a href="https://calendar.app.google/ycatdjKox66YGkmj6">July 20 </a><br>
+<strong>Location</strong>: <a href="about#games-of-berkeley">Games of Berkeley</a> <br>
 <strong>Format</strong>: Single Deck Constructed  <br>
-<strong>Entry Fee</strong>: $50 <br></p>
-<ul>
-<li><strong>Event Details</strong>: <a href="https://www.facebook.com/events/1674073833493647">FB Page</a></li>
-<li><strong>Tickets</strong>: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a></li>
-<li><strong>Hotel Group Discount</strong>: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1740788861110&key=GRP&guestreslink2=true&app=resvlink">AC Hotel Marriot</a></li>
-<li><strong>Travel Guide</strong>: <a href="https://docs.google.com/presentation/d/1gJiLI8ea5ZmNlR8_IOla6dQhnfUaGClabIp-pwtF7ao">Google Slides/PDf</a></li>
-</ul>
-<p>Come Join Us For the First North America Materia Cup of 2025!</p>
+<strong>Entry Fee</strong>: TBD <br></p>
+<p><strong>Date</strong>: <a href="https://calendar.app.google/BHs7ksba39C8neKF7">Aug 23 </a><br>
+<strong>Location</strong>: <a href="about#king-kong-games">King Kong Games</a>  <br>
+<strong>Format</strong>: Single Deck Constructed  <br>
+<strong>Entry Fee</strong>: TBD <br></p>
+<p>Come Join Us For the next Local Qualifiers!</p>
 <hr>
 <p>Come join us for our <strong><a href="calendar">Weekly Events</a></strong>! <br></p>
 <ul>

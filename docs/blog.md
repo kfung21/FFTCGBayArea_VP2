@@ -8,6 +8,10 @@ contributors: false
 summary: Blog
 ---
 
+## 2025
+* ### <a href="./blog/2025-06-16_King_Kong_Winter_Cup_&_Materia_Cup_Recap">**King Kong FFTCG Winter & Materia Cup Recap**</a>
+* ### <a href="./blog/2025-03-16_2025_Summary_Organized_Play">**Summary of Organized Play 2025 (Updated June 2025)**</a>
+
 ## 2024
 * ### <a href="./blog/2024-03-29_2024_LimitBreaks">**Limit Break Cards (Updated Apr 2024)**</a>
 * ### <a href="./blog/2024-02-14_2024_Summary_Organized_Play">**Summary of Organized Play 2024 (Updated Mar 2024)**</a>

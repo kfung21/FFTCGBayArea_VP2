@@ -18,21 +18,19 @@ summary: Home
 
 <!-- ## News and Announcements -->
 ---
-### California (SF) Materia Cup 2025
+### Northern California Local Qualifiers 2025
 
-**Date**: <a href="https://calendar.app.google/QvHsj5ABf8cPpTam6">April 19 - 20 </a><br>
-**Location**: <a href="about#king-kong-games">King Kong Games</a> <br>
+**Date**: <a href="https://calendar.app.google/ycatdjKox66YGkmj6">July 20 </a><br>
+**Location**: <a href="about#games-of-berkeley">Games of Berkeley</a> <br>
 **Format**: Single Deck Constructed  <br>
-**Entry Fee**: $50 <br>
+**Entry Fee**: TBD <br>
 
+**Date**: <a href="https://calendar.app.google/BHs7ksba39C8neKF7">Aug 23 </a><br>
+**Location**: <a href="about#king-kong-games">King Kong Games</a>  <br>
+**Format**: Single Deck Constructed  <br>
+**Entry Fee**: TBD <br>
 
-
-* **Event Details**: <a href="https://www.facebook.com/events/1674073833493647">FB Page</a>
-* **Tickets**: <a href="https://www.eventbrite.com/e/final-fantasy-tcg-san-francisco-materia-cup-tickets-1264404841919">Purchase Here</a>
-* **Hotel Group Discount**: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1740788861110&key=GRP&guestreslink2=true&app=resvlink">AC Hotel Marriot</a>
-* **Travel Guide**: <a href="https://docs.google.com/presentation/d/1gJiLI8ea5ZmNlR8_IOla6dQhnfUaGClabIp-pwtF7ao">Google Slides/PDf</a>
-
-Come Join Us For the First North America Materia Cup of 2025!
+Come Join Us For the next Local Qualifiers!
 
 ---
 
