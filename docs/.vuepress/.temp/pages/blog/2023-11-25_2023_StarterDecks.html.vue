@@ -1276,7 +1276,7 @@ BOSS uses the following 80 cards as a deck <br></p>
 <p><a href="https://fftcg.square-enix-games.com/na/news/new-product-information-legacy-collection-booster-pack-set">Feb 2025</a>
 [<a href="https://materiahunter.com/products/210">Materia Hunter</a>]
 [<a href="https://www.tcgplayer.com/search/final-fantasy-tcg/legacy-collection?Price_Condition=Less+Than&advancedSearch=true&productLineName=final-fantasy-tcg&view=grid&setName=legacy-collection">TCGPlayer</a>]</p>
-<p>200 carefully cards with a standard, foil and Foil FA variants. 5 cards per pack.</p>
+<p>200 cards with Standard, Foil and Full Art Foil variants. 5 cards per pack.</p>
 <p>Fire</p>
 <ul>
 <li><a href="https://storage.googleapis.com/materiahunter-prod.appspot.com/images/cards/Re/Re-001H_12-002H_FA.jpg">[Re-001H/12-002H]</a> - Amaterasu</li>

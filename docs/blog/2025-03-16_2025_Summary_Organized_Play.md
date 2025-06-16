@@ -115,82 +115,86 @@ summary: Overview of OP 2025
 * The Uncommons Decklists <a href="https://materiahunter.com/tournaments/d9sxjsYwZHM2VbzWzn9T">[Materia Hunter]</a>
 ### [NV] Las Vegas (6/15)
 * Knight and Day Games Decklists <a href="https://materiahunter.com/tournaments/rjc4voXHrDGcZEagZnCn">[Materia Hunter]</a>
+<!-- 
+
 ### [AZ] Tempe (4/27)
-<!-- * Gamer's Guild AZ Decklists <a href="">[FFDecks]</a> -->
+* Gamer's Guild AZ Decklists <a href="">[FFDecks]</a>
 ### [FL] Miami (4/27)
-<!-- * Unfun Stuff Games and Hobby Decklists <a href="">[FFDecks]</a> -->
+* Unfun Stuff Games and Hobby Decklists <a href="">[FFDecks]</a>
 ### [ID] Boise (4/27)
-<!-- * Deadly Seven Games Decklists <a href="">[FFDecks]</a> -->
+* Deadly Seven Games Decklists <a href="">[FFDecks]</a>
 ### [VA] Springfield (4/28)
-<!-- * Spieda Games Decklists <a href="">[FFDecks]</a> -->
+* Spieda Games Decklists <a href="">[FFDecks]</a>
 ### [OH] Canton (5/04)
-<!-- * Freedom Hobby and Gaming Decklists <a href="">[FFDecks]</a> -->
+* Freedom Hobby and Gaming Decklists <a href="">[FFDecks]</a>
 ### [TX] Plano (5/04)
-<!-- * Mystery Cards and Gaming Decklists <a href="">[FFDecks]</a> -->
+* Mystery Cards and Gaming Decklists <a href="">[FFDecks]</a>
 ### [CA] Gold River (5/05)
-<!-- * Final Cut TCG Decklists <a href="">[FFDecks]</a> -->
+* Final Cut TCG Decklists <a href="">[FFDecks]</a>
 ### [SC] Goose Creek (5/05)
-<!-- * Grandline Games Decklists <a href="">[FFDecks]</a> -->
+* Grandline Games Decklists <a href="">[FFDecks]</a>
 ### [IA] Ankeny (5/05)
-<!-- * Game Kastle Ankeny Decklists <a href="">[FFDecks]</a> -->
+* Game Kastle Ankeny Decklists <a href="">[FFDecks]</a>
 ### [RI] North Providence (5/19)
-<!-- * Rescue Gaming Collectibles Decklists <a href="">[FFDecks]</a> -->
+* Rescue Gaming Collectibles Decklists <a href="">[FFDecks]</a>
 ### [OR] Beaverton (5/19)
-<!-- * Chronos Games & Gifts Decklists <a href="">[FFDecks]</a> -->
+* Chronos Games & Gifts Decklists <a href="">[FFDecks]</a>
 ### [PA] Wernersville (6/01)
-<!-- * The Banish Zone Decklists <a href="">[FFDecks]</a> -->
+* The Banish Zone Decklists <a href="">[FFDecks]</a>
 ### [TX] El Paso (6/01)
-<!-- * Game Vault Decklists <a href="">[FFDecks]</a> -->
+* Game Vault Decklists <a href="">[FFDecks]</a>
 ### [MO] Columbia (6/02)
-<!-- * Hexagon Alley Decklists <a href="">[FFDecks]</a> -->
+* Hexagon Alley Decklists <a href="">[FFDecks]</a>
 ### [FL] Miami (6/15)
-<!-- * Pro-Play Games Decklists <a href="">[FFDecks]</a> -->
+* Pro-Play Games Decklists <a href="">[FFDecks]</a>
 ### [IL] Niles (6/15)
-<!-- * Perfect Circle Games Decklists <a href="">[FFDecks]</a> -->
+* Perfect Circle Games Decklists <a href="">[FFDecks]</a>
 ### [VA] Yorktown (6/15)
-<!-- * Jerseys Cards and Comics Decklists <a href="">[FFDecks]</a> -->
+* Jerseys Cards and Comics Decklists <a href="">[FFDecks]</a>
 ### [CO] Aurora (6/29)
-<!-- * Dueling Land Decklists <a href="">[FFDecks]</a> -->
+* Dueling Land Decklists <a href="">[FFDecks]</a>
 ### [NC] Wilson (6/29)
-<!-- * DreamDaze Comics Fun & Games Decklists <a href="">[FFDecks]</a> -->
+* DreamDaze Comics Fun & Games Decklists <a href="">[FFDecks]</a>
 ### [PA] Paoli (6/29)
-<!-- * Main Line Chess & Games Decklists <a href="">[FFDecks]</a> -->
+* Main Line Chess & Games Decklists <a href="">[FFDecks]</a>
 ### [TX] San Antonio (6/30)
-<!-- * Shenanigans Gaming Decklists <a href="">[FFDecks]</a> -->
-<!-- ### [MS] Pearl (6/30) -->
-<!-- * Penta Smite Gaming Decklists <a href="">[FFDecks]</a> -->
+* Shenanigans Gaming Decklists <a href="">[FFDecks]</a>
+### [MS] Pearl (6/30)
+* Penta Smite Gaming Decklists <a href="">[FFDecks]</a>
 ### [IL] Summit (7/20)
-<!-- * Game Knight Chicago Decklists <a href="">[FFDecks]</a> -->
+* Game Knight Chicago Decklists <a href="">[FFDecks]</a>
 ### [MO] Kansas City (7/20)
-<!-- * Spanky's Card Shop Decklists <a href="">[FFDecks]</a> -->
+* Spanky's Card Shop Decklists <a href="">[FFDecks]</a>
 ### [MN] Burnsville (7/21)
-<!-- * Fox Den Board Game Café Decklists <a href="">[FFDecks]</a> -->
+* Fox Den Board Game Café Decklists <a href="">[FFDecks]</a>
 ### [TX] Houston (7/21)
-<!-- * Dragon's Lair Comics and Fantasy North Houston Decklists <a href="">[FFDecks]</a> -->
+* Dragon's Lair Comics and Fantasy North Houston Decklists <a href="">[FFDecks]</a>
 ### [FL] Brandon (7/27)
-<!-- * Gamers Command Decklists <a href="">[FFDecks]</a> -->
+* Gamers Command Decklists <a href="">[FFDecks]</a>
 ### [WA] Bothell (7/27)
-<!-- * Zulus Board Game Café Decklists <a href="">[FFDecks]</a> -->
+* Zulus Board Game Café Decklists <a href="">[FFDecks]</a>
 ### [TX] Tyler (7/27)
-<!-- * Game Crave Decklists <a href="">[FFDecks]</a> -->
+* Game Crave Decklists <a href="">[FFDecks]</a>
 ### [VA] Woodbridge (7/28)
-<!-- * Born 2 Game Decklists <a href="">[FFDecks]</a> -->
+* Born 2 Game Decklists <a href="">[FFDecks]</a>
 ### [NV] North Las Vegas (8/03)
-<!-- * Power 9 Games Decklists <a href="">[FFDecks]</a> -->
+* Power 9 Games Decklists <a href="">[FFDecks]</a>
 ### [MO] Jefferson City (8/04)
-<!-- * Mimics JC Decklists <a href="">[FFDecks]</a> -->
+* Mimics JC Decklists <a href="">[FFDecks]</a>
 ### [OH] Milford (8/04)
-<!-- * Jesters Cards & Games Decklists <a href="">[FFDecks]</a> -->
+* Jesters Cards & Games Decklists <a href="">[FFDecks]</a>
 ### [CA] Sunnyvale (8/17)
-<!-- * CardArt Decklists <a href="">[FFDecks]</a> -->
+* CardArt Decklists <a href="">[FFDecks]</a>
 ### [TX] Little Elm (8/17)
-<!-- * New World Gaming Decklists <a href="">[FFDecks]</a> -->
+* New World Gaming Decklists <a href="">[FFDecks]</a>
 ### [NY] Wantagh (8/17)
-<!-- * The Comic Book Depot Decklists <a href="">[FFDecks]</a> -->
+* The Comic Book Depot Decklists <a href="">[FFDecks]</a>
 ### [PA] Pleasant Hills (8/18)
-<!-- * Top Deck Cards and Games Decklists <a href="">[FFDecks]</a> -->
+* Top Deck Cards and Games Decklists <a href="">[FFDecks]</a>
 ### [KY] Louisville (8/18)
-<!-- * Miso's Game Room and Collectibles Decklists <a href="">[FFDecks]</a> -->
+* Miso's Game Room and Collectibles Decklists <a href="">[FFDecks]</a> 
+
+-->
 
 ## Overseas (Materia Cups and Masters)
 ### [Fukushima] Masters Season 1 (4/20)
