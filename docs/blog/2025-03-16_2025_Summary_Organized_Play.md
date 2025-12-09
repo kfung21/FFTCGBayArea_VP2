@@ -13,12 +13,22 @@ summary: Overview of OP 2025
 
 # SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2025
 
-(UPDATED Mar 2025) <br>
+(UPDATED Dec 2025) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2025-north-america-details-and-schedule">Square Enix Schedule</a><br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2025-north-america-qualification-and-event-prizing">Prizing</a>
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1E07m8OEZyROIQu6D2ztusNRpRbi8law&ehbc=2E312F" width="640" height="480"></iframe>
 
+## Worlds
+  * World's Decklists (Top 8)  <a href="https://materiahunter.com/tournaments/yMBZWbwAdBAiHiWdkiJ1">[Materia Hunter]</a> 
+  * Day 2 (Top 8) Video <a href="https://www.youtube.com/live/KqOqwNkTU6k?si=Enn0Av87Kq0iQX0U">[YouTube]</a>
+  * Day 1 Video <a href="https://www.youtube.com/live/gNn710c2zAo?si=eYVJ5CzAO7-99RXw">[YouTube]</a>
+
+## Nationals
+  * National's Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/Ycn5l0l31qVrIiwXLuKI">[Materia Hunter]</a> 
+  * Day 2 (Top 16) Video <a href="https://www.twitch.tv/videos/2578100228">[Twitch]</a>
+  * Day 1 Video <a href="https://www.twitch.tv/videos/2577229810">[Twitch]</a>
+  
 ## Materia Cups
 ### California (4/19)
   * King Kong Comics and Games Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/6qKQDMtY9GLl5i1q2imT">[Materia Hunter]</a> 

@@ -13,13 +13,23 @@ summary: Overview of OP 2024
 
 # SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2024
 
-(UPDATED Aug 2024) <br>
+(UPDATED Dec 2025) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024-north-america-qualification-and-event-prizing">Prizing</a>
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 
 <a href="https://drive.google.com/file/d/1PVxv6y25_PEH3y3Z68pgvNRFzsNl4XPA/view?usp=drive_link">World's Handbook</a>
+
+## Worlds
+  * World's Decklists (Top 8)  <a href="https://materiahunter.com/tournaments/JsU3N90OLVW3JwlNbUci">[Materia Hunter]</a> 
+  * Day 2 (Top 8) Video <a href="https://www.youtube.com/live/filpA156Rvo?si=T05cLlsJKYiAV1lE">[YouTube]</a>
+  * Day 1 Video <a href="https://www.youtube.com/live/XhjA3laEFu8?si=ziVq8q7--rFHB-_x">[YouTube]</a>
+
+## Nationals
+  * National's Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/GL4WkFI92nHNztxZcrFu">[Materia Hunter]</a> 
+  * Day 2 (Top 16) Video <a href="https://www.twitch.tv/videos/2257690918?filter=all&sort=time">[Twitch]</a>
+  * Day 1 Video <a href="https://www.twitch.tv/videos/2256821811?filter=all&sort=time">[Twitch]</a>
 
 ## Materia Cups
 ### North Carolina (8/24)
