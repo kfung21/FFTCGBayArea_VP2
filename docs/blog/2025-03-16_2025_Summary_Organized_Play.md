@@ -50,22 +50,22 @@ summary: Overview of OP 2025
   * Day 1 Video <a href="https://www.twitch.tv/videos/2479585506">[Twitch]</a>
 
 ### Florida (6/28)
-  <!-- * The Haven Games Decklists (Top 16) <a href="https://ffdecks.com/tournament/florida-materia-cup-at-the-haven-games/5968272986996736">[FFDecks]</a>
-  * Day 2 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a>
+  * Pro Play Games Decklists (Top 16) <a href="https://materiahunter.com/tournaments/wLdjEwtm9AmwtCwxGfVk">[FFDecks]</a>
+  <!-- * Day 2 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a>
   * Day 1 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a> -->
 
 ### Canada (7/12)
-  <!-- * Red Dragon Comics, Cards Day 2 Decklists (Top 16) <a href="https://materiahunter.com/tournaments/aq9OxwqKjyDHHhUlPEQk">[Materia Hunter]</a>
-  * Red Dragon Comics, Cards Day 1 Decklists <a href="https://materiahunter.com/tournaments/Fcpra39VhBFZUwMZP9DK">[Materia Hunter]</a> -->
+  * 401 Games Day 2 Decklists (Top 16) <a href="https://materiahunter.com/tournaments/QejD2gl5KroH4CTi3nqF">[Materia Hunter]</a>
+  * 401 Games Day 1 Decklists <a href="https://materiahunter.com/tournaments/BrqH2JCJ5mcG2LBA68Qn">[Materia Hunter]</a>
 
 ### Oregon (8/16)
-  <!-- * Epic Gaming PDX Decklists <a href="https://materiahunter.com/tournaments/k4nagh6qqWsLfeJqADhS">[Materia Hunter]</a>
-  * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/W0Qq7-d9F7g?si=BA0RwxnN8rh-fA_l">[YouTube]</a>
+  * Epic Gaming PDX Decklists <a href="https://materiahunter.com/tournaments/uXTupHA0JK4kk6LSz0Mr">[Materia Hunter]</a>
+  <!-- * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/W0Qq7-d9F7g?si=BA0RwxnN8rh-fA_l">[YouTube]</a>
   * Day 1 Video <a href="https://www.youtube.com/live/jEM4pNSxYhw?si=p_fL0hWLGsc1l8ix">[YouTube]</a> -->
   
 ### North Carolina (8/30)
-<!-- * Game Theory Decklists <a href="https://materiahunter.com/tournaments/xKFs6IP258jyoGZQToKm">[Materia Hunter]</a>
-* Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
+* Game Theory Decklists <a href="https://materiahunter.com/tournaments/PwsdUUPDh4Y7ZVgxsK4v">[Materia Hunter]</a>
+<!-- * Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
 * Day 1 Video <a href="https://youtu.be/o3C4jS29EqA">[YouTube]</a> -->
   
 
