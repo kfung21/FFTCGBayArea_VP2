@@ -14,8 +14,7 @@ summary: Home
 <a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://i.imgur.com/5l9Z0vA.jpeg"></a>
 
 <a href="./blog/2026-05-01_2026_Summary_Organized_Play">**Organized Play 2026 Summary (May 2026)**</a><br>
-<a href="./blog/2025-03-16_2025_Summary_Organized_Play">**Organized Play 2025 Summary (June 2025)**</a><br>
-[<a href="./blog/2024-02-14_2024_Summary_Organized_Play">2024</a>][<a href="./blog/2023-05-24_2023_Summary_Organized_Play">2023</a>]
+[<a href="./blog/2025-03-16_2025_Summary_Organized_Play">2025</a>][<a href="./blog/2024-02-14_2024_Summary_Organized_Play">2024</a>][<a href="./blog/2023-05-24_2023_Summary_Organized_Play">2023</a>]
 
 <!-- ## News and Announcements -->
 ---
@@ -27,7 +26,7 @@ summary: Home
 **Tickets**: <a href="https://kingkongcomicsandgames.company.site/products/california-materia-cup-2026">Buy Here</a><br>
 
 
-Come Join Us For the next Local Qualifiers!
+Come Join Us For this year's California Materia Cup!
 
 ---
 
