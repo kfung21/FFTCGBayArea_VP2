@@ -13,22 +13,19 @@ summary: Home
 <!-- <img src="https://i.imgur.com/WLYqrw8.jpg"> -->
 <a href="./blog/2023-12-01_2023_Promos#special-signature"><img src="https://i.imgur.com/5l9Z0vA.jpeg"></a>
 
+<a href="./blog/2026-05-01_2026_Summary_Organized_Play">**Organized Play 2026 Summary (May 2026)**</a><br>
 <a href="./blog/2025-03-16_2025_Summary_Organized_Play">**Organized Play 2025 Summary (June 2025)**</a><br>
 [<a href="./blog/2024-02-14_2024_Summary_Organized_Play">2024</a>][<a href="./blog/2023-05-24_2023_Summary_Organized_Play">2023</a>]
 
 <!-- ## News and Announcements -->
 ---
-### Northern California Local Qualifiers 2025
+### California Materia Cup 2026
 
-**Date**: <a href="https://calendar.app.google/ycatdjKox66YGkmj6">July 20 </a><br>
-**Location**: <a href="about#games-of-berkeley">Games of Berkeley</a> <br>
-**Format**: Single Deck Constructed  <br>
-**Entry Fee**: TBD <br>
+**Date**: June 13-14 <br>
+**Location**: <a href="about#king-kong-games">King Kong Games</a> <br>
+**Entry Fee**: $50 <br>
+**Tickets**: <a href="https://kingkongcomicsandgames.company.site/products/california-materia-cup-2026">Buy Here</a><br>
 
-**Date**: <a href="https://calendar.app.google/BHs7ksba39C8neKF7">Aug 23 </a><br>
-**Location**: <a href="about#king-kong-games">King Kong Games</a>  <br>
-**Format**: Single Deck Constructed  <br>
-**Entry Fee**: TBD <br>
 
 Come Join Us For the next Local Qualifiers!
 
