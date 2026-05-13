@@ -63,6 +63,7 @@ summary: Resources
 ### Articles and Spoilers:
 * Ban's Final Fantasy Corner - <a href="https://www.facebook.com/Banffcorner/"> https://www.facebook.com/Banffcorner/</a>"
 ### Communities:
+* Final Fantasy TCG Global Discord - <a href="https://discord.gg/final-fantasy-tcg-219981448474525706"> https://discord.gg/final-fantasy-tcg-219981448474525706</a>"
 * Final Fantasy TCG reddit - <a href="https://www.reddit.com/r/FinalFantasyTCG/"> https://www.reddit.com/r/FinalFantasyTCG/</a>"
 * Final Fantasy TCG - US - <a href="https://www.facebook.com/groups/625543084274349/"> https://www.facebook.com/groups/625543084274349/</a>"
 * Final Fantasy TCG Fans - <a href="https://www.facebook.com/groups/FFTCGF/"> https://www.facebook.com/groups/FFTCGF/</a>"
