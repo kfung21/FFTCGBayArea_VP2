@@ -16,7 +16,7 @@ summary: Overview of OP 2026
 (UPDATED May 2026) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2026-north-america-details-and-schedule">Square Enix Schedule</a><br>
 
-<!-- <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1E07m8OEZyROIQu6D2ztusNRpRbi8law&ehbc=2E312F" width="640" height="480"></iframe> -->
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bR-Q4qc2q32hCJa2sZBRQhy9bj0AvJs&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Worlds
 

@@ -1,9 +1,21 @@
 <template><div><TagLinks /><h1 id="summary-of-north-america-organized-play-2024" tabindex="-1"><a class="header-anchor" href="#summary-of-north-america-organized-play-2024" aria-hidden="true">#</a> SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2024</h1>
-<p>(UPDATED Aug 2024) <br>
+<p>(UPDATED Dec 2025) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024">Square Enix Schedule</a>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2024-north-america-qualification-and-event-prizing">Prizing</a></p>
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1da3lbqIZYY-xgLiExSfhmmQLFL77lhA&ehbc=2E312F" width="640" height="480"></iframe>
 <p><a href="https://drive.google.com/file/d/1PVxv6y25_PEH3y3Z68pgvNRFzsNl4XPA/view?usp=drive_link">World's Handbook</a></p>
+<h2 id="worlds" tabindex="-1"><a class="header-anchor" href="#worlds" aria-hidden="true">#</a> Worlds</h2>
+<ul>
+<li>World's Decklists (Top 8)  <a href="https://materiahunter.com/tournaments/JsU3N90OLVW3JwlNbUci">[Materia Hunter]</a></li>
+<li>Day 2 (Top 8) Video <a href="https://www.youtube.com/live/filpA156Rvo?si=T05cLlsJKYiAV1lE">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://www.youtube.com/live/XhjA3laEFu8?si=ziVq8q7--rFHB-_x">[YouTube]</a></li>
+</ul>
+<h2 id="nationals" tabindex="-1"><a class="header-anchor" href="#nationals" aria-hidden="true">#</a> Nationals</h2>
+<ul>
+<li>National's Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/GL4WkFI92nHNztxZcrFu">[Materia Hunter]</a></li>
+<li>Day 2 (Top 16) Video <a href="https://www.twitch.tv/videos/2257690918?filter=all&sort=time">[Twitch]</a></li>
+<li>Day 1 Video <a href="https://www.twitch.tv/videos/2256821811?filter=all&sort=time">[Twitch]</a></li>
+</ul>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="north-carolina-8-24" tabindex="-1"><a class="header-anchor" href="#north-carolina-8-24" aria-hidden="true">#</a> North Carolina (8/24)</h3>
 <ul>

@@ -1,8 +1,20 @@
 <template><div><TagLinks /><h1 id="summary-of-north-america-organized-play-2025" tabindex="-1"><a class="header-anchor" href="#summary-of-north-america-organized-play-2025" aria-hidden="true">#</a> SUMMARY OF NORTH AMERICA ORGANIZED PLAY 2025</h1>
-<p>(UPDATED Mar 2025) <br>
+<p>(UPDATED Dec 2025) <br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2025-north-america-details-and-schedule">Square Enix Schedule</a><br>
 <a href="https://fftcg.square-enix-games.com/na/news/fftcg-organized-play-2025-north-america-qualification-and-event-prizing">Prizing</a></p>
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1E07m8OEZyROIQu6D2ztusNRpRbi8law&ehbc=2E312F" width="640" height="480"></iframe>
+<h2 id="worlds" tabindex="-1"><a class="header-anchor" href="#worlds" aria-hidden="true">#</a> Worlds</h2>
+<ul>
+<li>World's Decklists (Top 8)  <a href="https://materiahunter.com/tournaments/yMBZWbwAdBAiHiWdkiJ1">[Materia Hunter]</a></li>
+<li>Day 2 (Top 8) Video <a href="https://www.youtube.com/live/KqOqwNkTU6k?si=Enn0Av87Kq0iQX0U">[YouTube]</a></li>
+<li>Day 1 Video <a href="https://www.youtube.com/live/gNn710c2zAo?si=eYVJ5CzAO7-99RXw">[YouTube]</a></li>
+</ul>
+<h2 id="nationals" tabindex="-1"><a class="header-anchor" href="#nationals" aria-hidden="true">#</a> Nationals</h2>
+<ul>
+<li>National's Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/Ycn5l0l31qVrIiwXLuKI">[Materia Hunter]</a></li>
+<li>Day 2 (Top 16) Video <a href="https://www.twitch.tv/videos/2578100228">[Twitch]</a></li>
+<li>Day 1 Video <a href="https://www.twitch.tv/videos/2577229810">[Twitch]</a></li>
+</ul>
 <h2 id="materia-cups" tabindex="-1"><a class="header-anchor" href="#materia-cups" aria-hidden="true">#</a> Materia Cups</h2>
 <h3 id="california-4-19" tabindex="-1"><a class="header-anchor" href="#california-4-19" aria-hidden="true">#</a> California (4/19)</h3>
 <ul>
@@ -28,19 +40,27 @@
 <li>Day 1 Video <a href="https://www.twitch.tv/videos/2479585506">[Twitch]</a></li>
 </ul>
 <h3 id="florida-6-28" tabindex="-1"><a class="header-anchor" href="#florida-6-28" aria-hidden="true">#</a> Florida (6/28)</h3>
-  <!-- * The Haven Games Decklists (Top 16) <a href="https://ffdecks.com/tournament/florida-materia-cup-at-the-haven-games/5968272986996736">[FFDecks]</a>
-  * Day 2 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a>
+<ul>
+<li>Pro Play Games Decklists (Top 16) <a href="https://materiahunter.com/tournaments/wLdjEwtm9AmwtCwxGfVk">[FFDecks]</a></li>
+</ul>
+  <!-- * Day 2 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a>
   * Day 1 Video <a href="https://www.youtube.com/live/z7FLljyUloE">[YouTube]</a> -->
 <h3 id="canada-7-12" tabindex="-1"><a class="header-anchor" href="#canada-7-12" aria-hidden="true">#</a> Canada (7/12)</h3>
-  <!-- * Red Dragon Comics, Cards Day 2 Decklists (Top 16) <a href="https://materiahunter.com/tournaments/aq9OxwqKjyDHHhUlPEQk">[Materia Hunter]</a>
-  * Red Dragon Comics, Cards Day 1 Decklists <a href="https://materiahunter.com/tournaments/Fcpra39VhBFZUwMZP9DK">[Materia Hunter]</a> -->
+<ul>
+<li>401 Games Day 2 Decklists (Top 16) <a href="https://materiahunter.com/tournaments/QejD2gl5KroH4CTi3nqF">[Materia Hunter]</a></li>
+<li>401 Games Day 1 Decklists <a href="https://materiahunter.com/tournaments/BrqH2JCJ5mcG2LBA68Qn">[Materia Hunter]</a></li>
+</ul>
 <h3 id="oregon-8-16" tabindex="-1"><a class="header-anchor" href="#oregon-8-16" aria-hidden="true">#</a> Oregon (8/16)</h3>
-  <!-- * Epic Gaming PDX Decklists <a href="https://materiahunter.com/tournaments/k4nagh6qqWsLfeJqADhS">[Materia Hunter]</a>
-  * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/W0Qq7-d9F7g?si=BA0RwxnN8rh-fA_l">[YouTube]</a>
+<ul>
+<li>Epic Gaming PDX Decklists <a href="https://materiahunter.com/tournaments/uXTupHA0JK4kk6LSz0Mr">[Materia Hunter]</a></li>
+</ul>
+  <!-- * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/W0Qq7-d9F7g?si=BA0RwxnN8rh-fA_l">[YouTube]</a>
   * Day 1 Video <a href="https://www.youtube.com/live/jEM4pNSxYhw?si=p_fL0hWLGsc1l8ix">[YouTube]</a> -->
 <h3 id="north-carolina-8-30" tabindex="-1"><a class="header-anchor" href="#north-carolina-8-30" aria-hidden="true">#</a> North Carolina (8/30)</h3>
-<!-- * Game Theory Decklists <a href="https://materiahunter.com/tournaments/xKFs6IP258jyoGZQToKm">[Materia Hunter]</a>
-* Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
+<ul>
+<li>Game Theory Decklists <a href="https://materiahunter.com/tournaments/PwsdUUPDh4Y7ZVgxsK4v">[Materia Hunter]</a></li>
+</ul>
+<!-- * Day 2 (Top 16) Video <a href="https://youtu.be/juKjEGEuJlg">[YouTube]</a>
 * Day 1 Video <a href="https://youtu.be/o3C4jS29EqA">[YouTube]</a> -->
 <h2 id="local-qualifiers-store-championships" tabindex="-1"><a class="header-anchor" href="#local-qualifiers-store-championships" aria-hidden="true">#</a> Local Qualifiers (Store Championships)</h2>
 <h3 id="pa-pittsburgh-4-26" tabindex="-1"><a class="header-anchor" href="#pa-pittsburgh-4-26" aria-hidden="true">#</a> [PA] Pittsburgh (4/26)</h3>

@@ -91,6 +91,7 @@
 </ul>
 <h3 id="communities" tabindex="-1"><a class="header-anchor" href="#communities" aria-hidden="true">#</a> Communities:</h3>
 <ul>
+<li>Final Fantasy TCG Global Discord - <a href="https://discord.gg/final-fantasy-tcg-219981448474525706"> https://discord.gg/final-fantasy-tcg-219981448474525706</a>&quot;</li>
 <li>Final Fantasy TCG reddit - <a href="https://www.reddit.com/r/FinalFantasyTCG/"> https://www.reddit.com/r/FinalFantasyTCG/</a>&quot;</li>
 <li>Final Fantasy TCG - US - <a href="https://www.facebook.com/groups/625543084274349/"> https://www.facebook.com/groups/625543084274349/</a>&quot;</li>
 <li>Final Fantasy TCG Fans - <a href="https://www.facebook.com/groups/FFTCGF/"> https://www.facebook.com/groups/FFTCGF/</a>&quot;</li>

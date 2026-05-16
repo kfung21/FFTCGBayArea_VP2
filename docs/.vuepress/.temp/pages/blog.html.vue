@@ -1,4 +1,11 @@
-<template><div><h2 id="_2025" tabindex="-1"><a class="header-anchor" href="#_2025" aria-hidden="true">#</a> 2025</h2>
+<template><div><h2 id="_2026" tabindex="-1"><a class="header-anchor" href="#_2026" aria-hidden="true">#</a> 2026</h2>
+<ul>
+<li>
+<h3 id="summary-of-organized-play-2026-updated-may-2026" tabindex="-1"><a class="header-anchor" href="#summary-of-organized-play-2026-updated-may-2026" aria-hidden="true">#</a> <a href="./blog/2026-05-01_2026_Summary_Organized_Play"><strong>Summary of Organized Play 2026 (Updated May 2026)</strong></a></h3>
+</li>
+<li></li>
+</ul>
+<h2 id="_2025" tabindex="-1"><a class="header-anchor" href="#_2025" aria-hidden="true">#</a> 2025</h2>
 <ul>
 <li>
 <h3 id="king-kong-fftcg-winter-materia-cup-recap" tabindex="-1"><a class="header-anchor" href="#king-kong-fftcg-winter-materia-cup-recap" aria-hidden="true">#</a> <a href="./blog/2025-06-16_King_Kong_Winter_Cup_&_Materia_Cup_Recap"><strong>King Kong FFTCG Winter &amp; Materia Cup Recap</strong></a></h3>
