@@ -30,7 +30,7 @@ summary: Overview of OP 2026
 
 ### Kansas (5/30)
 
-### California (6/13)
+### Western United States (6/13)
 
 ### Pennsylvania (6/27)
 
