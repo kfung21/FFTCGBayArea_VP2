@@ -24,9 +24,10 @@ summary: Overview of OP 2026
 
 ## Materia Cups
 ### North Carolina (5/16)
-  <!-- * King Kong Comics and Games Decklists (Top 16)  <a href="https://materiahunter.com/tournaments/6qKQDMtY9GLl5i1q2imT">[Materia Hunter]</a> 
-  * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/0fb-r_qAXS4?si=Vk0msGTYGu6weQ6V">[YouTube]</a>
-  * Day 1 Video <a href="https://www.youtube.com/live/mqkrY0ysorg?si=tGq4q2oaZF8SaY7L">[YouTube]</a> -->
+  * Game Theory Decklists (Top 16)  <a href="https://materiahunter.com/en/tournaments/3ae9b6b9-ec68-48d2-a12e-0b882fc490b0">[Materia Hunter]</a> 
+     - (Day 1)  <a href="https://materiahunter.com/en/tournaments/6cd93f0e-68d6-4d4a-a2dd-da0c9bdeeabe">[Materia Hunter]</a> 
+  * Day 2 (Top 16) Video <a href="https://www.youtube.com/live/Pth8-XOPx90?si=FR8Bjm1_IwrQ25YV">[YouTube]</a>
+  * Day 1 Video <a href="https://www.youtube.com/live/fzFctqycYSU?si=NMBMetvFt3gYGaN9">[YouTube]</a>
 
 ### Kansas (5/30)
 
